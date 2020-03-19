@@ -22,3 +22,6 @@ psql arf -c "vacuum full verbose analyze afl._schedule_factors;"
 
 psql arf -f sos/current_ranking.sql > sos/current_ranking.txt
 cp /tmp/current_ranking.csv sos/current_ranking.csv
+
+psql arf -f sos/predictions.sql > sos/predictions.txt
+cp /tmp/predictions.csv sos/predictions.csv
