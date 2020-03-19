@@ -22,11 +22,5 @@ join afl._basic_factors i
 where
     (sf1.team_id,sf2.team_id) in
 (
-('Chiefs','Hurricanes'),
-('Blues','Lions'),
-('Sunwolves','Crusaders'),
-('Reds','Bulls'),
-('Sharks','Stormers'),
-('Jaguares','Highlanders'),
-('Brumbies','Waratahs')
+('Richmond','Carlton')
 );
