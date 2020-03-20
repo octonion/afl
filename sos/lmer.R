@@ -15,7 +15,9 @@ r.field as field,
 
 r.team_name as team,
 r.opponent_name as opponent,
-team_score::float as gs,
+(case when r.year<2020 then 0.80*r.team_score::float
+      else r.team_score::float
+end) as gs,
 (year-2018) as w
 from afl.results r
 
