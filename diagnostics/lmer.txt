@@ -1,14 +1,14 @@
-[1] 436   7
-[1] 458   7
+[1] 450   7
+[1] 486   7
 [1] TRUE
-[1] 458   5
+[1] 486   5
 start par. =  1 1 1 fn =  Inf 
 At return
 eval:  19 fn: 1.7976931e+308 par:  1.00000  1.00000  1.00000
-(NM) 20: f = inf at         1         1         1   4.10903 0.0609081
-(NM) 40: f = inf at         1         1         1   4.10903 0.0609081
-(NM) 60: f = inf at         1         1         1   4.10903 0.0609081
-(NM) 80: f = inf at         1         1         1   4.10903 0.0609081
+(NM) 20: f = inf at         1         1         1   4.09993 0.0862973
+(NM) 40: f = inf at         1         1         1   4.09993 0.0862973
+(NM) 60: f = inf at         1         1         1   4.09993 0.0862973
+(NM) 80: f = inf at         1         1         1   4.09993 0.0862973
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: poisson  ( log )
@@ -16,16 +16,16 @@ Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
      AIC      BIC   logLik deviance df.resid 
-     Inf      Inf     -Inf      Inf      453 
+     Inf      Inf     -Inf      Inf      481 
 Random effects:
  Groups  Name        Std.Dev.
  game_id (Intercept) 1       
  defense (Intercept) 1       
  offense (Intercept) 1       
-Number of obs: 458, groups:  game_id, 218; defense, 18; offense, 18
+Number of obs: 486, groups:  game_id, 225; defense, 18; offense, 18
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-          4.10903            0.06091  
+           4.0999             0.0863  
 convergence code 0; 30738 optimizer warnings; 1 lme4 warnings 
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
@@ -35,31 +35,37 @@ Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
 Weights: w
 
      AIC      BIC   logLik deviance df.resid 
-     Inf      Inf     -Inf      Inf      453 
+     Inf      Inf     -Inf      Inf      481 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--5.1448 -0.9615 -0.0156  0.9708  5.2399 
+-5.4956 -0.9890  0.0001  1.0112  5.9643 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
  game_id (Intercept) 1        1       
  defense (Intercept) 1        1       
  offense (Intercept) 1        1       
-Number of obs: 458, groups:  game_id, 218; defense, 18; offense, 18
+Number of obs: 486, groups:  game_id, 225; defense, 18; offense, 18
 
 Fixed effects:
                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        4.10903    0.34029  12.075  < 2e-16 ***
-fieldoffense_home  0.06091    0.01134   5.371 7.83e-08 ***
+(Intercept)        4.09993    0.34006  12.056  < 2e-16 ***
+fieldoffense_home  0.08630    0.01076   8.017 1.08e-15 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.017
+fildffns_hm -0.016
 convergence code: 0
 Gradient contains NAs
+non-integer x = 41.600000
+non-integer x = 52.800000
+non-integer x = 39.200000
+non-integer x = 60.800000
+non-integer x = 62.400000
+non-integer x = 89.600000
 non-integer x = 42.400000
 non-integer x = 49.600000
 non-integer x = 48.800000
@@ -30792,11 +30798,5 @@ non-integer x = 44.800000
 non-integer x = 51.200000
 non-integer x = 79.200000
 non-integer x = 110.400000
-non-integer x = 41.600000
-non-integer x = 52.800000
-non-integer x = 39.200000
-non-integer x = 60.800000
-non-integer x = 62.400000
-non-integer x = 89.600000
 
 [1] TRUE
