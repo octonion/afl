@@ -1,25 +1,34 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d  
 ------------+-------------------+-------------------+--------+--------+-------
- 2020-06-25 | Sydney Swans      | Western Bulldogs  |   69.9 |   61.6 |   8.4
- 2020-06-26 | GWS Giants        | Collingwood       |   55.5 |   62.5 |  -7.0
- 2020-06-27 | Essendon          | Carlton           |   69.2 |   58.9 |  10.3
- 2020-06-27 | Gold Coast Suns   | Fremantle         |   55.7 |   61.3 |  -5.6
- 2020-06-27 | Port Adelaide     | West Coast Eagles |   77.0 |   52.8 |  24.2
- 2020-06-27 | St Kilda          | Richmond          |   59.3 |   69.7 | -10.4
- 2020-06-28 | Brisbane Lions    | Adelaide Crows    |   81.9 |   55.1 |  26.8
- 2020-06-28 | Hawthorn          | North Melbourne   |   68.5 |   56.7 |  11.7
- 2020-06-28 | Melbourne         | Geelong Cats      |   52.5 |   73.4 | -20.9
- 2020-07-02 | West Coast Eagles | Richmond          |   62.5 |   67.3 |  -4.8
- 2020-07-03 | Collingwood       | Essendon          |   71.8 |   48.5 |  23.3
- 2020-07-04 | Brisbane Lions    | Port Adelaide     |   63.3 |   68.4 |  -5.1
- 2020-07-04 | Carlton           | St Kilda          |   68.2 |   61.9 |   6.3
- 2020-07-04 | Geelong Cats      | Gold Coast Suns   |   81.5 |   46.8 |  34.7
- 2020-07-04 | Western Bulldogs  | North Melbourne   |   67.8 |   67.3 |   0.6
- 2020-07-05 | Adelaide Crows    | Fremantle         |   57.8 |   60.3 |  -2.5
- 2020-07-05 | GWS Giants        | Hawthorn          |   61.9 |   59.6 |   2.2
- 2020-07-05 | Sydney Swans      | Melbourne         |   72.3 |   54.4 |  17.9
-(18 rows)
+ 2020-07-02 | Carlton           | St Kilda          |   66.9 |   63.5 |   3.4
+ 2020-07-03 | Collingwood       | Essendon          |   72.7 |   47.7 |  25.0
+ 2020-07-04 | Brisbane Lions    | Port Adelaide     |   62.6 |   68.6 |  -6.0
+ 2020-07-04 | Geelong Cats      | Gold Coast Suns   |   79.5 |   47.3 |  32.3
+ 2020-07-04 | West Coast Eagles | Sydney Swans      |   68.2 |   60.9 |   7.3
+ 2020-07-04 | Western Bulldogs  | North Melbourne   |   69.1 |   64.8 |   4.3
+ 2020-07-05 | Adelaide Crows    | Fremantle         |   58.2 |   59.7 |  -1.5
+ 2020-07-05 | GWS Giants        | Hawthorn          |   63.1 |   58.7 |   4.4
+ 2020-07-05 | Melbourne         | Richmond          |   57.1 |   68.8 | -11.7
+ 2020-07-09 | St Kilda          | Geelong Cats      |   59.2 |   68.4 |  -9.1
+ 2020-07-10 | Collingwood       | Brisbane Lions    |   71.2 |   55.1 |  16.1
+ 2020-07-11 | Essendon          | Western Bulldogs  |   66.4 |   63.8 |   2.6
+ 2020-07-11 | Fremantle         | Melbourne         |   63.9 |   52.8 |  11.1
+ 2020-07-11 | Hawthorn          | Gold Coast Suns   |   74.8 |   48.2 |  26.6
+ 2020-07-11 | West Coast Eagles | Adelaide Crows    |   74.2 |   57.0 |  17.2
+ 2020-07-12 | Carlton           | Sydney Swans      |   65.0 |   60.5 |   4.5
+ 2020-07-12 | North Melbourne   | Richmond          |   66.5 |   63.8 |   2.7
+ 2020-07-12 | Port Adelaide     | GWS Giants        |   72.6 |   53.2 |  19.4
+ 2020-07-16 | Essendon          | Hawthorn          |   58.3 |   62.3 |  -4.0
+ 2020-07-17 | Geelong Cats      | Collingwood       |   58.2 |   57.5 |   0.8
+ 2020-07-18 | Gold Coast Suns   | Carlton           |   61.4 |   64.2 |  -2.9
+ 2020-07-18 | Melbourne         | Western Bulldogs  |   61.3 |   67.8 |  -6.5
+ 2020-07-18 | North Melbourne   | Adelaide Crows    |   77.0 |   54.2 |  22.7
+ 2020-07-18 | Sydney Swans      | Brisbane Lions    |   63.5 |   69.2 |  -5.7
+ 2020-07-19 | Fremantle         | West Coast Eagles |   62.2 |   59.3 |   3.0
+ 2020-07-19 | Richmond          | GWS Giants        |   67.1 |   60.9 |   6.2
+ 2020-07-19 | St Kilda          | Port Adelaide     |   56.1 |   72.4 | -16.2
+(27 rows)
 
-COPY 18
+COPY 27
 COMMIT
