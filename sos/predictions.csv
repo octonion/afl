@@ -1,28 +1,19 @@
 date,home,away,e_home,e_away,e_d
-2020-07-02,Carlton,St Kilda,66.9,63.5,3.4
-2020-07-03,Collingwood,Essendon,72.7,47.7,25.0
-2020-07-04,Brisbane Lions,Port Adelaide,62.6,68.6,-6.0
-2020-07-04,Geelong Cats,Gold Coast Suns,79.5,47.3,32.3
-2020-07-04,West Coast Eagles,Sydney Swans,68.2,60.9,7.3
-2020-07-04,Western Bulldogs,North Melbourne,69.1,64.8,4.3
-2020-07-05,Adelaide Crows,Fremantle,58.2,59.7,-1.5
-2020-07-05,GWS Giants,Hawthorn,63.1,58.7,4.4
-2020-07-05,Melbourne,Richmond,57.1,68.8,-11.7
-2020-07-09,St Kilda,Geelong Cats,59.2,68.4,-9.1
-2020-07-10,Collingwood,Brisbane Lions,71.2,55.1,16.1
-2020-07-11,Essendon,Western Bulldogs,66.4,63.8,2.6
-2020-07-11,Fremantle,Melbourne,63.9,52.8,11.1
-2020-07-11,Hawthorn,Gold Coast Suns,74.8,48.2,26.6
-2020-07-11,West Coast Eagles,Adelaide Crows,74.2,57.0,17.2
-2020-07-12,Carlton,Sydney Swans,65.0,60.5,4.5
-2020-07-12,North Melbourne,Richmond,66.5,63.8,2.7
-2020-07-12,Port Adelaide,GWS Giants,72.6,53.2,19.4
-2020-07-16,Essendon,Hawthorn,58.3,62.3,-4.0
-2020-07-17,Geelong Cats,Collingwood,58.2,57.5,0.8
-2020-07-18,Gold Coast Suns,Carlton,61.4,64.2,-2.9
-2020-07-18,Melbourne,Western Bulldogs,61.3,67.8,-6.5
-2020-07-18,North Melbourne,Adelaide Crows,77.0,54.2,22.7
-2020-07-18,Sydney Swans,Brisbane Lions,63.5,69.2,-5.7
-2020-07-19,Fremantle,West Coast Eagles,62.2,59.3,3.0
-2020-07-19,Richmond,GWS Giants,67.1,60.9,6.2
-2020-07-19,St Kilda,Port Adelaide,56.1,72.4,-16.2
+2020-07-09,Geelong Cats,Brisbane Lions,69.8,61.7,8.2
+2020-07-10,Collingwood,Hawthorn,65.0,49.9,15.1
+2020-07-11,Essendon,North Melbourne,68.3,60.1,8.2
+2020-07-11,Fremantle,St Kilda,62.1,58.4,3.7
+2020-07-11,Melbourne,Gold Coast Suns,66.0,58.5,7.5
+2020-07-11,West Coast Eagles,Adelaide Crows,75.7,54.4,21.3
+2020-07-12,Carlton,Western Bulldogs,62.8,67.9,-5.1
+2020-07-12,Port Adelaide,GWS Giants,70.3,55.9,14.4
+2020-07-12,Richmond,Sydney Swans,73.3,54.0,19.2
+2020-07-16,Geelong Cats,Collingwood,59.6,56.6,3.0
+2020-07-17,Essendon,Western Bulldogs,66.2,63.6,2.6
+2020-07-18,GWS Giants,Brisbane Lions,69.2,65.5,3.7
+2020-07-18,Richmond,North Melbourne,72.8,58.0,14.8
+2020-07-18,Sydney Swans,Gold Coast Suns,70.0,55.4,14.6
+2020-07-19,Carlton,Port Adelaide,54.7,70.9,-16.2
+2020-07-19,Fremantle,West Coast Eagles,61.9,58.3,3.6
+2020-07-19,Hawthorn,Melbourne,72.8,49.3,23.5
+2020-07-20,Adelaide Crows,St Kilda,60.4,68.5,-8.2
