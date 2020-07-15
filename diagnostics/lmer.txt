@@ -1,14 +1,14 @@
-[1] 502   7
-[1] 590   7
+[1] 520   7
+[1] 626   7
 [1] TRUE
-[1] 590   5
+[1] 626   5
 start par. =  1 1 1 fn =  Inf 
 At return
 eval:  19 fn: 1.7976931e+308 par:  1.00000  1.00000  1.00000
-(NM) 20: f = inf at        1        1        1  4.08653 0.100966
-(NM) 40: f = inf at        1        1        1  4.08653 0.100966
-(NM) 60: f = inf at        1        1        1  4.08653 0.100966
-(NM) 80: f = inf at        1        1        1  4.08653 0.100966
+(NM) 20: f = inf at        1        1        1   4.0723 0.120373
+(NM) 40: f = inf at        1        1        1   4.0723 0.120373
+(NM) 60: f = inf at        1        1        1   4.0723 0.120373
+(NM) 80: f = inf at        1        1        1   4.0723 0.120373
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: poisson  ( log )
@@ -16,16 +16,16 @@ Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
      AIC      BIC   logLik deviance df.resid 
-     Inf      Inf     -Inf      Inf      585 
+     Inf      Inf     -Inf      Inf      621 
 Random effects:
  Groups  Name        Std.Dev.
  game_id (Intercept) 1       
  defense (Intercept) 1       
  offense (Intercept) 1       
-Number of obs: 590, groups:  game_id, 251; defense, 18; offense, 18
+Number of obs: 626, groups:  game_id, 260; defense, 18; offense, 18
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-            4.087              0.101  
+           4.0723             0.1204  
 convergence code 0; 30738 optimizer warnings; 1 lme4 warnings 
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
@@ -35,23 +35,23 @@ Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
 Weights: w
 
      AIC      BIC   logLik deviance df.resid 
-     Inf      Inf     -Inf      Inf      585 
+     Inf      Inf     -Inf      Inf      621 
 
 Scaled residuals: 
-   Min     1Q Median     3Q    Max 
--5.157 -1.215  0.001  1.218  5.266 
+    Min      1Q  Median      3Q     Max 
+-5.4302 -1.2995  0.0014  1.2326  5.8258 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
  game_id (Intercept) 1        1       
  defense (Intercept) 1        1       
  offense (Intercept) 1        1       
-Number of obs: 590, groups:  game_id, 251; defense, 18; offense, 18
+Number of obs: 626, groups:  game_id, 260; defense, 18; offense, 18
 
 Fixed effects:
                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        4.08653    0.33936   12.04   <2e-16 ***
-fieldoffense_home  0.10097    0.00934   10.81   <2e-16 ***
+(Intercept)       4.072300   0.339149   12.01   <2e-16 ***
+fieldoffense_home 0.120373   0.008911   13.51   <2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
