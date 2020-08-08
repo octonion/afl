@@ -1,25 +1,27 @@
 date,home,away,e_home,e_away,e_d
-2020-08-03,Port Adelaide,Western Bulldogs,77.8,50.9,26.9
-2020-08-04,Richmond,Brisbane Lions,66.6,62.0,4.6
-2020-08-05,Adelaide Crows,Melbourne,55.9,65.2,-9.3
-2020-08-05,Geelong Cats,North Melbourne,76.2,51.1,25.2
-2020-08-06,Collingwood,Sydney Swans,72.9,42.5,30.4
-2020-08-06,Gold Coast Suns,St Kilda,62.0,70.7,-8.7
-2020-08-07,Essendon,GWS Giants,61.1,65.6,-4.5
-2020-08-08,Brisbane Lions,Western Bulldogs,80.0,58.3,21.7
-2020-08-08,Port Adelaide,Richmond,67.3,52.1,15.3
-2020-08-09,Melbourne,North Melbourne,65.5,60.5,5.0
-2020-08-09,West Coast Eagles,Carlton,72.0,60.4,11.6
-2020-08-10,Fremantle,Hawthorn,57.0,55.0,2.0
-2020-08-10,Geelong Cats,St Kilda,72.4,58.2,14.2
-2020-08-11,Adelaide Crows,Collingwood,43.7,72.1,-28.3
-2020-08-12,Gold Coast Suns,Essendon,64.3,61.2,3.0
-2020-08-13,Sydney Swans,GWS Giants,55.6,67.2,-11.6
-2020-08-14,Geelong Cats,Port Adelaide,60.5,59.6,0.9
-2020-08-15,Fremantle,Carlton,60.6,58.2,2.4
-2020-08-15,Melbourne,Collingwood,50.7,64.2,-13.5
-2020-08-15,North Melbourne,Brisbane Lions,61.9,73.2,-11.3
-2020-08-16,St Kilda,Essendon,76.4,57.2,19.2
-2020-08-16,West Coast Eagles,Hawthorn,67.8,57.1,10.7
-2020-08-16,Western Bulldogs,Adelaide Crows,79.6,49.5,30.1
-2020-08-17,Richmond,Gold Coast Suns,74.5,49.6,24.9
+2020-08-08,Brisbane Lions,Western Bulldogs,78.2,59.0,19.2
+2020-08-08,Port Adelaide,Richmond,65.4,52.8,12.6
+2020-08-09,Melbourne,North Melbourne,67.1,59.7,7.4
+2020-08-09,West Coast Eagles,Carlton,71.7,60.8,10.9
+2020-08-10,Fremantle,Hawthorn,56.8,55.3,1.5
+2020-08-10,St Kilda,Geelong Cats,65.2,65.7,-0.5
+2020-08-11,Adelaide Crows,Collingwood,42.9,72.5,-29.6
+2020-08-12,Gold Coast Suns,Essendon,64.6,61.2,3.4
+2020-08-13,Sydney Swans,GWS Giants,55.4,66.5,-11.1
+2020-08-14,Geelong Cats,Port Adelaide,60.7,59.0,1.7
+2020-08-15,Fremantle,Carlton,60.1,58.7,1.4
+2020-08-15,Melbourne,Collingwood,51.7,62.7,-11.0
+2020-08-15,North Melbourne,Brisbane Lions,62.9,72.7,-9.8
+2020-08-16,St Kilda,Essendon,76.4,57.4,19.1
+2020-08-16,West Coast Eagles,Hawthorn,67.6,57.3,10.4
+2020-08-16,Western Bulldogs,Adelaide Crows,80.4,48.2,32.2
+2020-08-17,Richmond,Gold Coast Suns,75.6,49.2,26.4
+2020-08-21,Gold Coast Suns,Carlton,63.7,66.2,-2.4
+2020-08-22,Essendon,Richmond,55.8,65.5,-9.6
+2020-08-22,Fremantle,Sydney Swans,61.8,49.5,12.3
+2020-08-22,Port Adelaide,Hawthorn,71.8,48.5,23.3
+2020-08-22,Western Bulldogs,Melbourne,69.5,58.1,11.4
+2020-08-23,Adelaide Crows,Geelong Cats,46.4,77.6,-31.2
+2020-08-23,Brisbane Lions,St Kilda,76.9,64.4,12.6
+2020-08-23,West Coast Eagles,GWS Giants,67.1,62.4,4.6
+2020-08-24,Collingwood,North Melbourne,72.0,47.5,24.5
