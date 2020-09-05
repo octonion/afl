@@ -112,20 +112,20 @@ Round Number,Date,Location,Home Team,Away Team,Result
 13,23/08/2020 05:35,Gabba,Brisbane Lions,St Kilda,50 - 48
 13,23/08/2020 08:10,Optus Stadium,West Coast Eagles,GWS Giants,61 - 49
 13,24/08/2020 09:10,Gabba,Collingwood,North Melbourne,65 - 36
-14,27/08/2020 06:40,Adelaide Oval,Hawthorn,Essendon,
-14,27/08/2020 09:10,Metricon Stadium,Richmond,West Coast Eagles,
-14,28/08/2020 09:50,Metricon Stadium,Western Bulldogs,Geelong Cats,
-14,29/08/2020 03:45,Adelaide Oval,Port Adelaide,Sydney Swans,
-14,29/08/2020 06:35,Optus Stadium,Fremantle,GWS Giants,
-14,29/08/2020 09:40,TIO Traeger Park,Melbourne,St Kilda,
-14,30/08/2020 05:35,Gabba,Carlton,Collingwood,
-14,30/08/2020 08:10,Metricon Stadium,Gold Coast Suns,North Melbourne,
-15,01/09/2020 07:40,Adelaide Oval,Hawthorn,Adelaide Crows,
-15,01/09/2020 10:10,Gabba,West Coast Eagles,Essendon,
-15,02/09/2020 09:10,Metricon Stadium,Richmond,Fremantle,
-15,03/09/2020 06:40,Cazaly's Stadium,Sydney Swans,Melbourne,
-15,03/09/2020 09:10,Metricon Stadium,GWS Giants,Carlton,
-15,04/09/2020 09:50,Gabba,Brisbane Lions,Collingwood,
+14,27/08/2020 06:40,Adelaide Oval,Hawthorn,Essendon,71 - 87
+14,27/08/2020 09:10,Metricon Stadium,Richmond,West Coast Eagles,88 - 61
+14,28/08/2020 09:50,Metricon Stadium,Western Bulldogs,Geelong Cats,61 - 72
+14,29/08/2020 03:45,Adelaide Oval,Port Adelaide,Sydney Swans,73 - 47
+14,29/08/2020 06:35,Optus Stadium,Fremantle,GWS Giants,53 - 91
+14,29/08/2020 09:40,TIO Traeger Park,Melbourne,St Kilda,52 - 49
+14,30/08/2020 05:35,Gabba,Carlton,Collingwood,48 - 72
+14,30/08/2020 08:10,Metricon Stadium,Gold Coast Suns,North Melbourne,91 - 28
+15,01/09/2020 07:40,Adelaide Oval,Hawthorn,Adelaide Crows,48 - 83
+15,01/09/2020 10:10,Gabba,West Coast Eagles,Essendon,60 - 45
+15,02/09/2020 09:10,Metricon Stadium,Richmond,Fremantle,56 - 29
+15,03/09/2020 06:40,Cazaly's Stadium,Sydney Swans,Melbourne,67 - 46
+15,03/09/2020 09:10,Metricon Stadium,GWS Giants,Carlton,48 - 39
+15,04/09/2020 09:50,Gabba,Brisbane Lions,Collingwood,42 - 34
 16,05/09/2020 09:40,Metricon Stadium,North Melbourne,Port Adelaide,
 16,06/09/2020 03:05,Metricon Stadium,St Kilda,Hawthorn,
 16,06/09/2020 05:35,Gabba,Geelong Cats,Essendon,
@@ -136,8 +136,8 @@ Round Number,Date,Location,Home Team,Away Team,Result
 16,09/09/2020 09:10,Gabba,Brisbane Lions,Gold Coast Suns,
 17,10/09/2020 09:10,Gabba,St Kilda,West Coast Eagles,
 17,11/09/2020 09:50,Metricon Stadium,Geelong Cats,Richmond,
-17,12/09/2020 03:45,Metricon Stadium,North Melbourne,Fremantle,
-17,12/09/2020 06:35,Adelaide Oval,Port Adelaide,Essendon,
+17,12/09/2020 04:10,Metricon Stadium,North Melbourne,Fremantle,
+17,12/09/2020 07:05,Adelaide Oval,Port Adelaide,Essendon,
 17,12/09/2020 09:40,Gabba,GWS Giants,Melbourne,
 17,13/09/2020 03:05,Metricon Stadium,Carlton,Adelaide Crows,
 17,13/09/2020 05:35,Adelaide Oval,Hawthorn,Western Bulldogs,
