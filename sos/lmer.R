@@ -18,11 +18,11 @@ r.opponent_name as opponent,
 (case when r.year<2020 then 0.80*r.team_score::float
       else r.team_score::float
 end) as gs,
-(year-2018) as w
+(year-2019) as w
 from afl.results r
 
 where
-    r.year between 2019 and 2020
+    r.year between 2020 and 2020
 
 ;")
 
