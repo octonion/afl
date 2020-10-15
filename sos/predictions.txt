@@ -1,8 +1,8 @@
 BEGIN
-    date    |     home     |    away     | e_home | e_away | e_d  
-------------+--------------+-------------+--------+--------+------
- 2020-10-09 | Richmond     | St Kilda    |   66.4 |   53.9 | 12.6
- 2020-10-10 | Geelong Cats | Collingwood |   63.6 |   49.3 | 14.3
+    date    |      home      |     away     | e_home | e_away | e_d 
+------------+----------------+--------------+--------+--------+-----
+ 2020-10-16 | Port Adelaide  | Richmond     |   60.8 |   53.4 | 7.4
+ 2020-10-17 | Brisbane Lions | Geelong Cats |   62.2 |   61.6 | 0.6
 (2 rows)
 
 COPY 2
