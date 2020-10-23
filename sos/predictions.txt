@@ -1,9 +1,8 @@
 BEGIN
-    date    |      home      |     away     | e_home | e_away | e_d 
-------------+----------------+--------------+--------+--------+-----
- 2020-10-16 | Port Adelaide  | Richmond     |   60.8 |   53.4 | 7.4
- 2020-10-17 | Brisbane Lions | Geelong Cats |   62.2 |   61.6 | 0.6
-(2 rows)
+    date    |   home   |     away     | e_home | e_away | e_d 
+------------+----------+--------------+--------+--------+-----
+ 2020-10-24 | Richmond | Geelong Cats |   58.7 |   56.5 | 2.2
+(1 row)
 
-COPY 2
+COPY 1
 COMMIT
