@@ -1,3 +1,3 @@
 cd csv
-wget -N https://fixturedownload.com/download/afl-2020-UTC.csv
+wget -N https://fixturedownload.com/download/afl-2021-UTC.csv
 cd ..
