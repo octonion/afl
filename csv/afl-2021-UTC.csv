@@ -8,16 +8,16 @@ Round Number,Date,Location,Home Team,Away Team,Result
 1,21/03/2021 02:10,Marvel Stadium,North Melbourne,Port Adelaide,65 - 117
 1,21/03/2021 04:20,GIANTS Stadium,GWS Giants,St Kilda,78 - 86
 1,21/03/2021 07:10,Optus Stadium,West Coast Eagles,Gold Coast Suns,83 - 58
-2,25/03/2021 08:20,MCG,Carlton,Collingwood,
-2,26/03/2021 08:50,GMHBA Stadium,Geelong Cats,Brisbane Lions,
-2,27/03/2021 02:45,SCG,Sydney Swans,Adelaide Crows,
-2,27/03/2021 05:35,Adelaide Oval,Port Adelaide,Essendon,
-2,27/03/2021 08:25,Marvel Stadium,St Kilda,Melbourne,
-2,27/03/2021 09:10,Metricon Stadium,Gold Coast Suns,North Melbourne,
-2,28/03/2021 02:10,MCG,Hawthorn,Richmond,
-2,28/03/2021 04:20,Marvel Stadium,Western Bulldogs,West Coast Eagles,
-2,28/03/2021 07:10,Optus Stadium,Fremantle,GWS Giants,
-3,01/04/2021 08:40,Gabba,Brisbane Lions,Collingwood,
+2,25/03/2021 08:20,MCG,Carlton,Collingwood,85 - 106
+2,26/03/2021 08:50,GMHBA Stadium,Geelong Cats,Brisbane Lions,81 - 80
+2,27/03/2021 02:45,SCG,Sydney Swans,Adelaide Crows,121 - 88
+2,27/03/2021 05:35,Adelaide Oval,Port Adelaide,Essendon,119 - 65
+2,27/03/2021 08:25,Marvel Stadium,St Kilda,Melbourne,73 - 91
+2,27/03/2021 09:10,Metricon Stadium,Gold Coast Suns,North Melbourne,98 - 39
+2,28/03/2021 02:10,MCG,Hawthorn,Richmond,49 - 78
+2,28/03/2021 04:20,Marvel Stadium,Western Bulldogs,West Coast Eagles,100 - 93
+2,28/03/2021 07:10,Optus Stadium,Fremantle,GWS Giants,87 - 56
+3,01/04/2021 08:40,Marvel Stadium,Collingwood,Brisbane Lions,
 3,02/04/2021 05:20,Marvel Stadium,North Melbourne,Western Bulldogs,
 3,02/04/2021 08:50,Adelaide Oval,Adelaide Crows,Gold Coast Suns,
 3,03/04/2021 02:45,MCG,Richmond,Sydney Swans,
@@ -179,7 +179,7 @@ Round Number,Date,Location,Home Team,Away Team,Result
 21,07/08/2021 02:00,Marvel Stadium,Western Bulldogs,Essendon,
 21,07/08/2021 02:30,Adelaide Oval,Adelaide Crows,Port Adelaide,
 21,07/08/2021 04:00,Optus Stadium,West Coast Eagles,Melbourne,
-22,14/08/2021 02:00,Marvel Stadium,Collingwood,Brisbane Lions,
+22,14/08/2021 02:00,Gabba,Brisbane Lions,Collingwood,
 22,14/08/2021 02:00,GMHBA Stadium,Geelong Cats,St Kilda,
 22,14/08/2021 02:00,Metricon Stadium,Gold Coast Suns,Essendon,
 22,14/08/2021 02:00,GIANTS Stadium,GWS Giants,Richmond,
