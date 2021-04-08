@@ -1,15 +1,6 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d  
 ------------+-------------------+-------------------+--------+--------+-------
- 2021-04-01 | Collingwood       | Brisbane Lions    |   62.4 |   57.6 |   4.8
- 2021-04-02 | Adelaide Crows    | Gold Coast Suns   |   59.7 |   68.3 |  -8.6
- 2021-04-02 | North Melbourne   | Western Bulldogs  |   50.7 |   78.0 | -27.3
- 2021-04-03 | Essendon          | St Kilda          |   59.6 |   73.0 | -13.3
- 2021-04-03 | Richmond          | Sydney Swans      |   68.3 |   48.9 |  19.5
- 2021-04-03 | West Coast Eagles | Port Adelaide     |   58.8 |   61.2 |  -2.5
- 2021-04-04 | Carlton           | Fremantle         |   58.5 |   56.3 |   2.2
- 2021-04-04 | GWS Giants        | Melbourne         |   56.2 |   66.3 | -10.1
- 2021-04-05 | Geelong Cats      | Hawthorn          |   78.8 |   53.0 |  25.8
  2021-04-08 | Sydney Swans      | Essendon          |   73.3 |   54.4 |  18.9
  2021-04-09 | Port Adelaide     | Richmond          |   60.4 |   53.8 |   6.6
  2021-04-10 | Collingwood       | GWS Giants        |   65.7 |   51.4 |  14.3
@@ -181,7 +172,7 @@ BEGIN
  2021-08-21 | St Kilda          | Fremantle         |   62.8 |   53.0 |   9.7
  2021-08-21 | Sydney Swans      | Gold Coast Suns   |   64.0 |   57.7 |   6.3
  2021-08-21 | Western Bulldogs  | Port Adelaide     |   59.1 |   63.4 |  -4.3
-(180 rows)
+(171 rows)
 
-COPY 180
+COPY 171
 COMMIT
