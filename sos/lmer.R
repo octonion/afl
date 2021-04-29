@@ -19,7 +19,7 @@ r.team_score::float as gs,
 --(case when r.year<2021 then 0.80*r.team_score::float
 --      else r.team_score::float
 --end) as gs,
-(year-2019) as w
+power(year-2019,1.5) as w
 from afl.results r
 
 where
