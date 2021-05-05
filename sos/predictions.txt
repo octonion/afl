@@ -1,151 +1,142 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d  
 ------------+-------------------+-------------------+--------+--------+-------
- 2021-04-30 | Richmond          | Western Bulldogs  |   61.3 |   63.6 |  -2.3
- 2021-05-01 | Adelaide Crows    | GWS Giants        |   68.5 |   66.9 |   1.6
- 2021-05-01 | Brisbane Lions    | Port Adelaide     |   64.3 |   64.6 |  -0.3
- 2021-05-01 | Collingwood       | Gold Coast Suns   |   62.9 |   58.8 |   4.1
- 2021-05-01 | St Kilda          | Hawthorn          |   71.7 |   67.9 |   3.8
- 2021-05-01 | Sydney Swans      | Geelong Cats      |   61.4 |   65.4 |  -4.0
- 2021-05-02 | Essendon          | Carlton           |   71.3 |   67.6 |   3.7
- 2021-05-02 | North Melbourne   | Melbourne         |   41.5 |   91.4 | -49.9
- 2021-05-02 | West Coast Eagles | Fremantle         |   65.5 |   55.3 |  10.2
- 2021-05-07 | Richmond          | Geelong Cats      |   63.5 |   58.8 |   4.7
- 2021-05-08 | Gold Coast Suns   | St Kilda          |   73.2 |   60.8 |  12.4
- 2021-05-08 | GWS Giants        | Essendon          |   69.3 |   65.4 |   4.0
- 2021-05-08 | Melbourne         | Sydney Swans      |   73.7 |   53.4 |  20.3
- 2021-05-08 | North Melbourne   | Collingwood       |   48.7 |   73.3 | -24.6
- 2021-05-08 | Port Adelaide     | Adelaide Crows    |   83.8 |   52.9 |  31.0
- 2021-05-09 | Fremantle         | Brisbane Lions    |   57.0 |   63.1 |  -6.1
- 2021-05-09 | Hawthorn          | West Coast Eagles |   64.9 |   72.2 |  -7.3
- 2021-05-09 | Western Bulldogs  | Carlton           |   83.3 |   54.0 |  29.3
- 2021-05-14 | St Kilda          | Geelong Cats      |   57.4 |   76.7 | -19.3
- 2021-05-15 | Gold Coast Suns   | Brisbane Lions    |   61.1 |   69.6 |  -8.5
- 2021-05-15 | Hawthorn          | North Melbourne   |   84.6 |   50.5 |  34.1
- 2021-05-15 | Port Adelaide     | Western Bulldogs  |   63.9 |   64.0 |  -0.1
- 2021-05-15 | Richmond          | GWS Giants        |   74.1 |   51.4 |  22.7
- 2021-05-15 | Sydney Swans      | Collingwood       |   67.9 |   54.4 |  13.5
- 2021-05-16 | Essendon          | Fremantle         |   63.5 |   59.8 |   3.6
- 2021-05-16 | Melbourne         | Carlton           |   79.9 |   52.9 |  27.0
- 2021-05-16 | West Coast Eagles | Adelaide Crows    |   79.6 |   60.3 |  19.2
- 2021-05-21 | Brisbane Lions    | Richmond          |   63.9 |   62.0 |   2.0
- 2021-05-22 | Adelaide Crows    | Melbourne         |   55.5 |   79.5 | -24.0
- 2021-05-22 | Carlton           | Hawthorn          |   75.9 |   62.7 |  13.2
- 2021-05-22 | Fremantle         | Sydney Swans      |   58.2 |   58.9 |  -0.7
- 2021-05-22 | Geelong Cats      | Gold Coast Suns   |   75.6 |   53.1 |  22.5
- 2021-05-22 | Western Bulldogs  | St Kilda          |   90.1 |   51.0 |  39.1
- 2021-05-23 | Collingwood       | Port Adelaide     |   53.5 |   67.5 | -14.0
- 2021-05-23 | Essendon          | North Melbourne   |   88.6 |   48.9 |  39.8
- 2021-05-23 | GWS Giants        | West Coast Eagles |   64.1 |   67.5 |  -3.4
- 2021-05-29 | Brisbane Lions    | GWS Giants        |   76.7 |   56.0 |  20.7
- 2021-05-29 | Collingwood       | Geelong Cats      |   54.7 |   67.0 | -12.3
- 2021-05-29 | Gold Coast Suns   | Hawthorn          |   72.0 |   61.6 |  10.5
- 2021-05-29 | Port Adelaide     | Fremantle         |   69.0 |   48.5 |  20.6
- 2021-05-29 | Richmond          | Adelaide Crows    |   80.5 |   52.6 |  27.9
- 2021-05-29 | St Kilda          | North Melbourne   |   83.6 |   51.3 |  32.3
- 2021-05-29 | Sydney Swans      | Carlton           |   71.9 |   60.5 |  11.4
- 2021-05-29 | West Coast Eagles | Essendon          |   75.9 |   62.6 |  13.3
- 2021-05-29 | Western Bulldogs  | Melbourne         |   67.1 |   60.6 |   6.6
- 2021-06-05 | Adelaide Crows    | Collingwood       |   65.0 |   63.7 |   1.3
- 2021-06-05 | Carlton           | West Coast Eagles |   67.9 |   67.8 |   0.1
- 2021-06-05 | Essendon          | Richmond          |   59.2 |   70.7 | -11.5
- 2021-06-05 | Fremantle         | Western Bulldogs  |   51.9 |   68.2 | -16.3
- 2021-06-05 | Melbourne         | Brisbane Lions    |   72.2 |   57.2 |  15.0
- 2021-06-05 | St Kilda          | Sydney Swans      |   62.1 |   71.6 |  -9.6
- 2021-06-12 | Fremantle         | Gold Coast Suns   |   61.9 |   55.4 |   6.5
- 2021-06-12 | Melbourne         | Collingwood       |   75.5 |   47.5 |  27.9
- 2021-06-12 | North Melbourne   | GWS Giants        |   51.3 |   77.0 | -25.7
- 2021-06-12 | Port Adelaide     | Geelong Cats      |   66.2 |   59.2 |   7.0
- 2021-06-12 | St Kilda          | Adelaide Crows    |   72.7 |   68.5 |   4.2
- 2021-06-12 | Sydney Swans      | Hawthorn          |   76.6 |   57.9 |  18.7
- 2021-06-19 | Geelong Cats      | Western Bulldogs  |   63.4 |   65.4 |  -2.0
- 2021-06-19 | Gold Coast Suns   | Port Adelaide     |   56.5 |   70.1 | -13.7
- 2021-06-19 | GWS Giants        | Carlton           |   67.3 |   65.3 |   2.0
- 2021-06-19 | Hawthorn          | Essendon          |   70.2 |   69.9 |   0.3
- 2021-06-19 | North Melbourne   | Brisbane Lions    |   46.5 |   88.1 | -41.6
- 2021-06-19 | West Coast Eagles | Richmond          |   61.1 |   65.3 |  -4.2
- 2021-06-26 | Brisbane Lions    | Geelong Cats      |   65.7 |   64.1 |   1.7
- 2021-06-26 | Carlton           | Adelaide Crows    |   77.0 |   63.4 |  13.6
- 2021-06-26 | Collingwood       | Fremantle         |   57.0 |   54.8 |   2.2
- 2021-06-26 | Essendon          | Melbourne         |   57.5 |   75.8 | -18.3
- 2021-06-26 | GWS Giants        | Hawthorn          |   71.7 |   62.4 |   9.2
- 2021-06-26 | North Melbourne   | Gold Coast Suns   |   50.6 |   77.4 | -26.8
- 2021-06-26 | Port Adelaide     | Sydney Swans      |   71.6 |   55.3 |  16.3
- 2021-06-26 | Richmond          | St Kilda          |   80.6 |   51.4 |  29.2
- 2021-06-26 | West Coast Eagles | Western Bulldogs  |   60.6 |   73.1 | -12.4
- 2021-07-03 | Adelaide Crows    | Brisbane Lions    |   62.2 |   76.6 | -14.4
- 2021-07-03 | Collingwood       | St Kilda          |   69.3 |   58.5 |  10.8
- 2021-07-03 | Fremantle         | Carlton           |   63.1 |   58.4 |   4.7
- 2021-07-03 | Geelong Cats      | Essendon          |   79.3 |   56.0 |  23.3
- 2021-07-03 | Gold Coast Suns   | Richmond          |   56.1 |   67.3 | -11.2
- 2021-07-03 | Hawthorn          | Port Adelaide     |   56.9 |   76.1 | -19.2
- 2021-07-03 | Melbourne         | GWS Giants        |   79.5 |   49.9 |  29.6
- 2021-07-03 | Sydney Swans      | West Coast Eagles |   68.5 |   62.5 |   6.0
- 2021-07-03 | Western Bulldogs  | North Melbourne   |  103.5 |   39.1 |  64.5
- 2021-07-10 | Brisbane Lions    | St Kilda          |   83.3 |   56.0 |  27.4
- 2021-07-10 | Carlton           | Geelong Cats      |   60.8 |   70.9 | -10.1
- 2021-07-10 | Essendon          | Adelaide Crows    |   77.1 |   65.3 |  11.8
- 2021-07-10 | GWS Giants        | Gold Coast Suns   |   66.1 |   62.0 |   4.1
- 2021-07-10 | Hawthorn          | Fremantle         |   60.6 |   61.8 |  -1.2
- 2021-07-10 | Port Adelaide     | Melbourne         |   62.5 |   61.4 |   1.1
- 2021-07-10 | Richmond          | Collingwood       |   70.3 |   48.9 |  21.4
- 2021-07-10 | West Coast Eagles | North Melbourne   |   91.5 |   45.2 |  46.3
- 2021-07-10 | Western Bulldogs  | Sydney Swans      |   76.9 |   54.5 |  22.3
- 2021-07-17 | Adelaide Crows    | West Coast Eagles |   65.5 |   73.3 |  -7.7
- 2021-07-17 | Collingwood       | Carlton           |   64.1 |   62.0 |   2.1
- 2021-07-17 | Fremantle         | Geelong Cats      |   53.8 |   63.1 |  -9.3
- 2021-07-17 | Gold Coast Suns   | Western Bulldogs  |   55.7 |   75.3 | -19.6
- 2021-07-17 | GWS Giants        | Sydney Swans      |   62.1 |   65.9 |  -3.8
- 2021-07-17 | Melbourne         | Hawthorn          |   85.1 |   50.5 |  34.5
- 2021-07-17 | North Melbourne   | Essendon          |   53.1 |   81.6 | -28.5
- 2021-07-17 | Richmond          | Brisbane Lions    |   67.3 |   58.8 |   8.4
- 2021-07-17 | St Kilda          | Port Adelaide     |   56.2 |   77.3 | -21.1
- 2021-07-24 | Carlton           | North Melbourne   |   88.5 |   47.4 |  41.1
- 2021-07-24 | Essendon          | GWS Giants        |   71.0 |   63.8 |   7.1
- 2021-07-24 | Geelong Cats      | Richmond          |   63.9 |   58.5 |   5.4
- 2021-07-24 | Gold Coast Suns   | Melbourne         |   54.5 |   72.2 | -17.7
- 2021-07-24 | Hawthorn          | Brisbane Lions    |   61.6 |   75.5 | -14.0
- 2021-07-24 | Port Adelaide     | Collingwood       |   73.3 |   49.2 |  24.1
- 2021-07-24 | Sydney Swans      | Fremantle         |   64.0 |   53.6 |  10.4
- 2021-07-24 | West Coast Eagles | St Kilda          |   79.7 |   59.0 |  20.7
- 2021-07-24 | Western Bulldogs  | Adelaide Crows    |   90.0 |   52.2 |  37.8
- 2021-07-31 | Adelaide Crows    | Hawthorn          |   73.3 |   67.8 |   5.5
- 2021-07-31 | Brisbane Lions    | Gold Coast Suns   |   75.6 |   56.3 |  19.4
- 2021-07-31 | Collingwood       | West Coast Eagles |   61.0 |   64.0 |  -3.0
- 2021-07-31 | Essendon          | Sydney Swans      |   65.8 |   68.2 |  -2.4
- 2021-07-31 | Fremantle         | Richmond          |   52.3 |   61.0 |  -8.7
- 2021-07-31 | GWS Giants        | Port Adelaide     |   56.2 |   71.1 | -14.9
- 2021-07-31 | Melbourne         | Western Bulldogs  |   65.8 |   61.8 |   4.0
- 2021-07-31 | North Melbourne   | Geelong Cats      |   43.9 |   88.1 | -44.1
- 2021-07-31 | St Kilda          | Carlton           |   67.3 |   71.0 |  -3.7
- 2021-08-07 | Adelaide Crows    | Port Adelaide     |   57.4 |   77.2 | -19.7
- 2021-08-07 | Brisbane Lions    | Fremantle         |   68.5 |   52.5 |  16.1
- 2021-08-07 | Carlton           | Gold Coast Suns   |   70.0 |   62.3 |   7.7
- 2021-08-07 | Geelong Cats      | GWS Giants        |   76.6 |   52.9 |  23.8
- 2021-08-07 | Hawthorn          | Collingwood       |   64.4 |   62.8 |   1.5
- 2021-08-07 | Richmond          | North Melbourne   |   92.5 |   39.3 |  53.2
- 2021-08-07 | Sydney Swans      | St Kilda          |   77.8 |   57.1 |  20.7
- 2021-08-07 | West Coast Eagles | Melbourne         |   59.3 |   70.1 | -10.7
- 2021-08-07 | Western Bulldogs  | Essendon          |   85.9 |   54.1 |  31.8
- 2021-08-14 | Brisbane Lions    | Collingwood       |   72.8 |   53.3 |  19.5
- 2021-08-14 | Fremantle         | West Coast Eagles |   60.1 |   60.3 |  -0.2
- 2021-08-14 | Geelong Cats      | St Kilda          |   83.3 |   52.8 |  30.4
- 2021-08-14 | Gold Coast Suns   | Essendon          |   69.7 |   64.5 |   5.2
- 2021-08-14 | GWS Giants        | Richmond          |   55.8 |   68.2 | -12.4
- 2021-08-14 | Hawthorn          | Western Bulldogs  |   56.1 |   81.7 | -25.6
- 2021-08-14 | Melbourne         | Adelaide Crows    |   86.3 |   51.1 |  35.3
- 2021-08-14 | North Melbourne   | Sydney Swans      |   47.5 |   82.3 | -34.7
- 2021-08-14 | Port Adelaide     | Carlton           |   77.6 |   54.8 |  22.8
- 2021-08-21 | Adelaide Crows    | North Melbourne   |   85.5 |   51.2 |  34.3
- 2021-08-21 | Brisbane Lions    | West Coast Eagles |   73.4 |   61.3 |  12.1
- 2021-08-21 | Carlton           | GWS Giants        |   70.9 |   62.0 |   9.0
- 2021-08-21 | Essendon          | Collingwood       |   67.4 |   60.8 |   6.6
- 2021-08-21 | Geelong Cats      | Melbourne         |   62.0 |   62.7 |  -0.7
- 2021-08-21 | Richmond          | Hawthorn          |   79.3 |   52.0 |  27.3
- 2021-08-21 | St Kilda          | Fremantle         |   59.8 |   62.8 |  -3.0
- 2021-08-21 | Sydney Swans      | Gold Coast Suns   |   70.6 |   57.4 |  13.2
- 2021-08-21 | Western Bulldogs  | Port Adelaide     |   69.5 |   58.8 |  10.7
-(144 rows)
+ 2021-05-07 | Richmond          | Geelong Cats      |   65.8 |   57.3 |   8.5
+ 2021-05-08 | Gold Coast Suns   | St Kilda          |   73.0 |   62.0 |  11.0
+ 2021-05-08 | GWS Giants        | Essendon          |   74.5 |   62.5 |  12.0
+ 2021-05-08 | Melbourne         | Sydney Swans      |   73.3 |   55.6 |  17.7
+ 2021-05-08 | North Melbourne   | Collingwood       |   50.5 |   72.2 | -21.7
+ 2021-05-08 | Port Adelaide     | Adelaide Crows    |   86.0 |   51.3 |  34.7
+ 2021-05-09 | Brisbane Lions    | Fremantle         |   74.0 |   49.7 |  24.2
+ 2021-05-09 | Hawthorn          | West Coast Eagles |   62.0 |   78.2 | -16.3
+ 2021-05-09 | Western Bulldogs  | Carlton           |   83.9 |   55.2 |  28.7
+ 2021-05-14 | St Kilda          | Geelong Cats      |   61.3 |   74.2 | -12.9
+ 2021-05-15 | Gold Coast Suns   | Brisbane Lions    |   60.6 |   69.7 |  -9.1
+ 2021-05-15 | Hawthorn          | North Melbourne   |   81.5 |   54.1 |  27.4
+ 2021-05-15 | Port Adelaide     | Western Bulldogs  |   63.0 |   64.9 |  -1.9
+ 2021-05-15 | Richmond          | GWS Giants        |   72.5 |   52.2 |  20.3
+ 2021-05-15 | Sydney Swans      | Collingwood       |   70.0 |   53.6 |  16.3
+ 2021-05-16 | Essendon          | Fremantle         |   66.9 |   60.2 |   6.7
+ 2021-05-16 | Melbourne         | Carlton           |   79.6 |   55.6 |  24.0
+ 2021-05-16 | West Coast Eagles | Adelaide Crows    |   86.3 |   56.8 |  29.5
+ 2021-05-21 | Brisbane Lions    | Richmond          |   64.7 |   60.3 |   4.3
+ 2021-05-22 | Adelaide Crows    | Melbourne         |   54.9 |   81.3 | -26.4
+ 2021-05-22 | Carlton           | Hawthorn          |   82.4 |   59.9 |  22.5
+ 2021-05-22 | Fremantle         | Sydney Swans      |   57.7 |   62.3 |  -4.6
+ 2021-05-22 | Geelong Cats      | Gold Coast Suns   |   74.5 |   54.7 |  19.8
+ 2021-05-22 | Western Bulldogs  | St Kilda          |   88.1 |   53.1 |  35.0
+ 2021-05-23 | Collingwood       | Port Adelaide     |   54.4 |   66.2 | -11.8
+ 2021-05-23 | Essendon          | North Melbourne   |   89.3 |   51.1 |  38.3
+ 2021-05-23 | GWS Giants        | West Coast Eagles |   66.5 |   66.7 |  -0.2
+ 2021-05-28 | Western Bulldogs  | Melbourne         |   69.4 |   59.5 |   9.9
+ 2021-05-29 | Brisbane Lions    | GWS Giants        |   75.9 |   56.0 |  19.8
+ 2021-05-29 | Collingwood       | Geelong Cats      |   55.4 |   67.1 | -11.7
+ 2021-05-29 | Gold Coast Suns   | Hawthorn          |   77.6 |   57.5 |  20.1
+ 2021-05-29 | St Kilda          | North Melbourne   |   87.9 |   50.9 |  37.0
+ 2021-05-29 | West Coast Eagles | Essendon          |   81.2 |   61.8 |  19.4
+ 2021-05-30 | Port Adelaide     | Fremantle         |   71.2 |   48.5 |  22.6
+ 2021-05-30 | Richmond          | Adelaide Crows    |   85.4 |   49.0 |  36.4
+ 2021-05-30 | Sydney Swans      | Carlton           |   73.7 |   61.8 |  11.9
+ 2021-06-04 | Melbourne         | Brisbane Lions    |   69.4 |   60.0 |   9.3
+ 2021-06-05 | Adelaide Crows    | Collingwood       |   62.9 |   65.4 |  -2.5
+ 2021-06-05 | Essendon          | Richmond          |   58.5 |   73.1 | -14.5
+ 2021-06-05 | St Kilda          | Sydney Swans      |   65.3 |   70.5 |  -5.2
+ 2021-06-06 | Carlton           | West Coast Eagles |   69.5 |   70.1 |  -0.6
+ 2021-06-06 | Fremantle         | Western Bulldogs  |   51.5 |   70.9 | -19.3
+ 2021-06-12 | Fremantle         | Gold Coast Suns   |   60.2 |   58.7 |   1.5
+ 2021-06-12 | Melbourne         | Collingwood       |   75.5 |   48.2 |  27.3
+ 2021-06-12 | North Melbourne   | GWS Giants        |   50.7 |   79.7 | -29.0
+ 2021-06-12 | Port Adelaide     | Geelong Cats      |   66.3 |   60.0 |   6.3
+ 2021-06-12 | St Kilda          | Adelaide Crows    |   79.6 |   63.4 |  16.2
+ 2021-06-12 | Sydney Swans      | Hawthorn          |   82.4 |   55.1 |  27.2
+ 2021-06-19 | Geelong Cats      | Western Bulldogs  |   63.8 |   66.0 |  -2.2
+ 2021-06-19 | Gold Coast Suns   | Port Adelaide     |   59.1 |   67.0 |  -7.9
+ 2021-06-19 | GWS Giants        | Carlton           |   70.7 |   63.9 |   6.7
+ 2021-06-19 | Hawthorn          | Essendon          |   69.4 |   73.3 |  -3.9
+ 2021-06-19 | North Melbourne   | Brisbane Lions    |   46.4 |   89.8 | -43.5
+ 2021-06-19 | West Coast Eagles | Richmond          |   62.5 |   65.2 |  -2.8
+ 2021-06-26 | Brisbane Lions    | Geelong Cats      |   68.9 |   61.6 |   7.4
+ 2021-06-26 | Carlton           | Adelaide Crows    |   82.7 |   60.3 |  22.4
+ 2021-06-26 | Collingwood       | Fremantle         |   59.4 |   54.2 |   5.2
+ 2021-06-26 | Essendon          | Melbourne         |   59.7 |   76.4 | -16.7
+ 2021-06-26 | GWS Giants        | Hawthorn          |   78.9 |   57.0 |  21.9
+ 2021-06-26 | North Melbourne   | Gold Coast Suns   |   51.1 |   78.4 | -27.3
+ 2021-06-26 | Port Adelaide     | Sydney Swans      |   70.6 |   57.1 |  13.5
+ 2021-06-26 | Richmond          | St Kilda          |   79.9 |   52.4 |  27.5
+ 2021-06-26 | West Coast Eagles | Western Bulldogs  |   63.2 |   71.9 |  -8.7
+ 2021-07-03 | Adelaide Crows    | Brisbane Lions    |   57.8 |   81.4 | -23.6
+ 2021-07-03 | Collingwood       | St Kilda          |   67.2 |   61.3 |   6.0
+ 2021-07-03 | Fremantle         | Carlton           |   62.7 |   62.3 |   0.4
+ 2021-07-03 | Geelong Cats      | Essendon          |   81.9 |   56.8 |  25.1
+ 2021-07-03 | Gold Coast Suns   | Richmond          |   56.4 |   66.5 | -10.1
+ 2021-07-03 | Hawthorn          | Port Adelaide     |   55.9 |   78.0 | -22.0
+ 2021-07-03 | Melbourne         | GWS Giants        |   75.8 |   53.2 |  22.6
+ 2021-07-03 | Sydney Swans      | West Coast Eagles |   69.4 |   64.5 |   5.0
+ 2021-07-03 | Western Bulldogs  | North Melbourne   |  103.9 |   39.8 |  64.1
+ 2021-07-10 | Brisbane Lions    | St Kilda          |   83.7 |   56.3 |  27.4
+ 2021-07-10 | Carlton           | Geelong Cats      |   63.8 |   70.6 |  -6.9
+ 2021-07-10 | Essendon          | Adelaide Crows    |   80.9 |   63.6 |  17.3
+ 2021-07-10 | GWS Giants        | Gold Coast Suns   |   67.9 |   60.3 |   7.6
+ 2021-07-10 | Hawthorn          | Fremantle         |   61.1 |   63.8 |  -2.7
+ 2021-07-10 | Port Adelaide     | Melbourne         |   63.5 |   61.6 |   1.9
+ 2021-07-10 | Richmond          | Collingwood       |   72.2 |   47.3 |  24.9
+ 2021-07-10 | West Coast Eagles | North Melbourne   |   95.3 |   45.6 |  49.7
+ 2021-07-10 | Western Bulldogs  | Sydney Swans      |   77.2 |   55.2 |  22.1
+ 2021-07-17 | Adelaide Crows    | West Coast Eagles |   62.4 |   78.6 | -16.2
+ 2021-07-17 | Collingwood       | Carlton           |   64.0 |   63.7 |   0.3
+ 2021-07-17 | Fremantle         | Geelong Cats      |   54.2 |   65.6 | -11.3
+ 2021-07-17 | Gold Coast Suns   | Western Bulldogs  |   57.1 |   73.3 | -16.2
+ 2021-07-17 | GWS Giants        | Sydney Swans      |   65.0 |   63.9 |   1.1
+ 2021-07-17 | Melbourne         | Hawthorn          |   88.9 |   49.6 |  39.3
+ 2021-07-17 | North Melbourne   | Essendon          |   56.1 |   81.3 | -25.2
+ 2021-07-17 | Richmond          | Brisbane Lions    |   66.3 |   58.9 |   7.4
+ 2021-07-17 | St Kilda          | Port Adelaide     |   60.3 |   73.3 | -13.0
+ 2021-07-24 | Carlton           | North Melbourne   |   91.4 |   48.4 |  42.9
+ 2021-07-24 | Essendon          | GWS Giants        |   68.7 |   67.8 |   0.9
+ 2021-07-24 | Geelong Cats      | Richmond          |   63.0 |   59.9 |   3.1
+ 2021-07-24 | Gold Coast Suns   | Melbourne         |   57.5 |   69.6 | -12.0
+ 2021-07-24 | Hawthorn          | Brisbane Lions    |   57.3 |   81.0 | -23.7
+ 2021-07-24 | Port Adelaide     | Collingwood       |   72.8 |   49.5 |  23.2
+ 2021-07-24 | Sydney Swans      | Fremantle         |   68.4 |   52.5 |  15.9
+ 2021-07-24 | West Coast Eagles | St Kilda          |   80.8 |   60.8 |  20.0
+ 2021-07-24 | Western Bulldogs  | Adelaide Crows    |   94.1 |   49.6 |  44.5
+ 2021-07-31 | Adelaide Crows    | Hawthorn          |   74.0 |   67.2 |   6.8
+ 2021-07-31 | Brisbane Lions    | Gold Coast Suns   |   76.5 |   55.1 |  21.4
+ 2021-07-31 | Collingwood       | West Coast Eagles |   60.3 |   66.5 |  -6.2
+ 2021-07-31 | Essendon          | Sydney Swans      |   66.4 |   70.8 |  -4.4
+ 2021-07-31 | Fremantle         | Richmond          |   50.9 |   64.3 | -13.4
+ 2021-07-31 | GWS Giants        | Port Adelaide     |   60.1 |   66.5 |  -6.4
+ 2021-07-31 | Melbourne         | Western Bulldogs  |   65.4 |   63.2 |   2.2
+ 2021-07-31 | North Melbourne   | Geelong Cats      |   46.0 |   87.5 | -41.5
+ 2021-07-31 | St Kilda          | Carlton           |   70.9 |   70.5 |   0.4
+ 2021-08-07 | Adelaide Crows    | Port Adelaide     |   56.3 |   78.3 | -22.0
+ 2021-08-07 | Carlton           | Gold Coast Suns   |   70.8 |   63.3 |   7.6
+ 2021-08-07 | Fremantle         | Brisbane Lions    |   54.6 |   67.3 | -12.7
+ 2021-08-07 | Geelong Cats      | GWS Giants        |   73.9 |   55.6 |  18.3
+ 2021-08-07 | Hawthorn          | Collingwood       |   62.5 |   65.1 |  -2.6
+ 2021-08-07 | Richmond          | North Melbourne   |   94.2 |   39.3 |  54.9
+ 2021-08-07 | Sydney Swans      | St Kilda          |   77.4 |   59.4 |  18.0
+ 2021-08-07 | West Coast Eagles | Melbourne         |   63.7 |   68.2 |  -4.5
+ 2021-08-07 | Western Bulldogs  | Essendon          |   88.5 |   54.0 |  34.5
+ 2021-08-14 | Brisbane Lions    | Collingwood       |   75.6 |   50.8 |  24.9
+ 2021-08-14 | Fremantle         | West Coast Eagles |   59.1 |   65.0 |  -6.0
+ 2021-08-14 | Geelong Cats      | St Kilda          |   81.5 |   55.8 |  25.7
+ 2021-08-14 | Gold Coast Suns   | Essendon          |   73.3 |   63.1 |  10.3
+ 2021-08-14 | GWS Giants        | Richmond          |   57.3 |   66.0 |  -8.6
+ 2021-08-14 | Hawthorn          | Western Bulldogs  |   54.1 |   85.3 | -31.2
+ 2021-08-14 | Melbourne         | Adelaide Crows    |   89.3 |   49.9 |  39.3
+ 2021-08-14 | North Melbourne   | Sydney Swans      |   49.0 |   83.1 | -34.2
+ 2021-08-14 | Port Adelaide     | Carlton           |   76.7 |   57.1 |  19.6
+ 2021-08-21 | Adelaide Crows    | North Melbourne   |   82.1 |   54.3 |  27.8
+ 2021-08-21 | Brisbane Lions    | West Coast Eagles |   75.0 |   61.0 |  14.0
+ 2021-08-21 | Carlton           | GWS Giants        |   70.2 |   64.3 |   5.9
+ 2021-08-21 | Essendon          | Collingwood       |   68.5 |   61.5 |   7.0
+ 2021-08-21 | Geelong Cats      | Melbourne         |   64.3 |   62.7 |   1.6
+ 2021-08-21 | Richmond          | Hawthorn          |   85.0 |   48.6 |  36.4
+ 2021-08-21 | St Kilda          | Fremantle         |   65.8 |   59.9 |   5.9
+ 2021-08-21 | Sydney Swans      | Gold Coast Suns   |   70.8 |   58.2 |  12.6
+ 2021-08-21 | Western Bulldogs  | Port Adelaide     |   71.3 |   57.4 |  13.9
+(135 rows)
 
-COPY 144
+COPY 135
 COMMIT
