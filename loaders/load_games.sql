@@ -5,7 +5,8 @@ drop table if exists afl.games;
 set datestyle to 'SQL, DMY';
 
 create table afl.games (
-	round			text,
+	match_number		text,
+	round_number		text,
 	date			timestamp,
 	location		text,
 	home_team		text,

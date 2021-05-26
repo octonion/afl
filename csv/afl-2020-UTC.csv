@@ -1,163 +1,163 @@
-Round Number,Date,Location,Home Team,Away Team,Result
-1,19/03/2020 08:40,MCG,Richmond,Carlton,105 - 81
-1,20/03/2020 08:50,Marvel Stadium,Western Bulldogs,Collingwood,34 - 86
-1,21/03/2020 03:10,Marvel Stadium,Essendon,Fremantle,63 - 57
-1,21/03/2020 06:05,Adelaide Oval,Adelaide Crows,Sydney Swans,71 - 74
-1,21/03/2020 08:40,GIANTS Stadium,GWS Giants,Geelong Cats,105 - 73
-1,21/03/2020 08:40,Metricon Stadium,Gold Coast Suns,Port Adelaide,29 - 76
-1,22/03/2020 02:05,Marvel Stadium,North Melbourne,St Kilda,56 - 54
-1,22/03/2020 04:35,MCG,Hawthorn,Brisbane Lions,90 - 62
-1,22/03/2020 07:40,Optus Stadium,West Coast Eagles,Melbourne,78 - 51
-2,11/06/2020 09:40,MCG,Collingwood,Richmond,36 - 36
-2,12/06/2020 09:50,GMHBA Stadium,Geelong Cats,Hawthorn,108 - 47
-2,13/06/2020 03:45,Gabba,Brisbane Lions,Fremantle,81 - 69
-2,13/06/2020 06:35,Marvel Stadium,Carlton,Melbourne,53 - 54
-2,13/06/2020 09:40,Metricon Stadium,Gold Coast Suns,West Coast Eagles,90 - 46
-2,13/06/2020 09:40,Adelaide Oval,Port Adelaide,Adelaide Crows,110 - 35
-2,14/06/2020 03:05,GIANTS Stadium,GWS Giants,North Melbourne,60 - 80
-2,14/06/2020 05:35,SCG,Sydney Swans,Essendon,73 - 79
-2,14/06/2020 08:05,Marvel Stadium,St Kilda,Western Bulldogs,88 - 49
-3,18/06/2020 09:40,MCG,Richmond,Hawthorn,39 - 71
-3,19/06/2020 09:50,Marvel Stadium,Western Bulldogs,GWS Giants,57 - 33
-3,20/06/2020 03:45,Marvel Stadium,North Melbourne,Sydney Swans,60 - 71
-3,20/06/2020 06:35,MCG,Collingwood,St Kilda,81 - 37
-3,20/06/2020 09:40,Gabba,Brisbane Lions,West Coast Eagles,74 - 44
-3,20/06/2020 09:40,GMHBA Stadium,Geelong Cats,Carlton,77 - 79
-3,21/06/2020 05:05,Metricon Stadium,Gold Coast Suns,Adelaide Crows,82 - 29
-3,21/06/2020 10:10,Metricon Stadium,Fremantle,Port Adelaide,41 - 70
-4,25/06/2020 09:40,SCG,Sydney Swans,Western Bulldogs,39 - 67
-4,26/06/2020 09:50,GIANTS Stadium,GWS Giants,Collingwood,66 - 64
-4,27/06/2020 03:45,Metricon Stadium,Port Adelaide,West Coast Eagles,89 - 41
-4,27/06/2020 06:35,Marvel Stadium,St Kilda,Richmond,93 - 67
-4,27/06/2020 09:40,MCG,Essendon,Carlton,51 - 52
-4,27/06/2020 09:40,Metricon Stadium,Gold Coast Suns,Fremantle,64 - 51
-4,28/06/2020 03:05,Gabba,Brisbane Lions,Adelaide Crows,83 - 46
-4,28/06/2020 05:35,MCG,Melbourne,Geelong Cats,44 - 47
-4,28/06/2020 08:10,Marvel Stadium,Hawthorn,North Melbourne,58 - 54
-5,02/07/2020 09:40,MCG,Carlton,St Kilda,55 - 73
-5,03/07/2020 09:50,MCG,Collingwood,Essendon,48 - 63
-5,04/07/2020 03:45,Metricon Stadium,West Coast Eagles,Sydney Swans,77 - 43
-5,04/07/2020 06:35,GMHBA Stadium,Geelong Cats,Gold Coast Suns,89 - 52
-5,04/07/2020 09:40,Marvel Stadium,Western Bulldogs,North Melbourne,87 - 38
-5,04/07/2020 09:40,Gabba,Brisbane Lions,Port Adelaide,85 - 48
-5,05/07/2020 03:05,Metricon Stadium,Adelaide Crows,Fremantle,34 - 54
-5,05/07/2020 05:35,MCG,Melbourne,Richmond,52 - 79
-5,05/07/2020 08:10,GIANTS Stadium,GWS Giants,Hawthorn,83 - 49
-6,09/07/2020 09:40,SCG,Geelong Cats,Brisbane Lions,73 - 46
-6,10/07/2020 09:50,GIANTS Stadium,Collingwood,Hawthorn,59 - 27
-6,11/07/2020 02:35,Metricon Stadium,Fremantle,St Kilda,79 - 73
-6,11/07/2020 05:05,Gabba,West Coast Eagles,Adelaide Crows,67 - 34
-6,11/07/2020 08:05,GIANTS Stadium,Melbourne,Gold Coast Suns,80 - 63
-6,11/07/2020 09:40,Metricon Stadium,Essendon,North Melbourne,67 - 53
-6,12/07/2020 03:05,Metricon Stadium,Port Adelaide,GWS Giants,63 - 46
-6,12/07/2020 05:35,Gabba,Richmond,Sydney Swans,34 - 26
-6,12/07/2020 08:45,Metricon Stadium,Carlton,Western Bulldogs,103 - 51
-7,16/07/2020 10:10,Optus Stadium,Geelong Cats,Collingwood,35 - 57
-7,17/07/2020 09:50,Metricon Stadium,Essendon,Western Bulldogs,51 - 93
-7,18/07/2020 03:45,GIANTS Stadium,GWS Giants,Brisbane Lions,68 - 88
-7,18/07/2020 06:35,SCG,Sydney Swans,Gold Coast Suns,60 - 92
-7,18/07/2020 09:40,Metricon Stadium,Richmond,North Melbourne,77 - 23
-7,19/07/2020 03:05,Gabba,Carlton,Port Adelaide,61 - 64
-7,19/07/2020 05:35,GIANTS Stadium,Hawthorn,Melbourne,48 - 91
-7,19/07/2020 08:35,Optus Stadium,Fremantle,West Coast Eagles,32 - 62
-7,20/07/2020 09:40,Adelaide Oval,Adelaide Crows,St Kilda,55 - 78
-8,23/07/2020 09:40,Metricon Stadium,Gold Coast Suns,Western Bulldogs,46 - 51
-8,24/07/2020 09:50,GIANTS Stadium,GWS Giants,Richmond,62 - 50
-8,25/07/2020 03:05,Gabba,North Melbourne,Carlton,57 - 64
-8,25/07/2020 05:35,SCG,Sydney Swans,Hawthorn,60 - 53
-8,25/07/2020 09:40,Adelaide Oval,Port Adelaide,St Kilda,44 - 73
-8,26/07/2020 03:05,Adelaide Oval,Adelaide Crows,Essendon,59 - 62
-8,26/07/2020 05:35,Optus Stadium,West Coast Eagles,Collingwood,111 - 45
-8,26/07/2020 08:10,Metricon Stadium,Melbourne,Brisbane Lions,49 - 53
-8,27/07/2020 10:10,Optus Stadium,Fremantle,Geelong Cats,16 - 48
-9,29/07/2020 09:10,Metricon Stadium,Western Bulldogs,Richmond,49 - 90
-9,30/07/2020 09:50,Gabba,Melbourne,Port Adelaide,32 - 83
-9,31/07/2020 07:40,Optus Stadium,Carlton,Hawthorn,58 - 89
-9,31/07/2020 10:10,Metricon Stadium,Essendon,Brisbane Lions,28 - 91
-9,01/08/2020 04:35,Metricon Stadium,North Melbourne,Adelaide Crows,119 - 50
-9,01/08/2020 07:10,Gabba,St Kilda,Sydney Swans,101 - 48
-9,01/08/2020 10:10,Optus Stadium,West Coast Eagles,Geelong Cats,73 - 64
-9,02/08/2020 05:35,Metricon Stadium,Gold Coast Suns,GWS Giants,35 - 61
-9,02/08/2020 08:10,Optus Stadium,Fremantle,Collingwood,61 - 49
-10,03/08/2020 09:10,Adelaide Oval,Port Adelaide,Western Bulldogs,55 - 42
-10,04/08/2020 09:10,Metricon Stadium,Richmond,Brisbane Lions,82 - 41
-10,05/08/2020 07:40,Gabba,Geelong Cats,North Melbourne,90 - 57
-10,05/08/2020 10:10,Adelaide Oval,Adelaide Crows,Melbourne,37 - 88
-10,06/08/2020 07:40,Gabba,Collingwood,Sydney Swans,50 - 41
-10,06/08/2020 10:10,Metricon Stadium,Gold Coast Suns,St Kilda,74 - 78
-10,07/08/2020 09:50,Metricon Stadium,Essendon,GWS Giants,55 - 59
-11,08/08/2020 06:35,Adelaide Oval,Port Adelaide,Richmond,93 - 72
-11,08/08/2020 09:40,Gabba,Brisbane Lions,Western Bulldogs,96 - 72
-11,09/08/2020 05:35,Optus Stadium,West Coast Eagles,Carlton,72 - 50
-11,09/08/2020 08:10,Adelaide Oval,Melbourne,North Melbourne,92 - 35
-11,10/08/2020 08:10,Gabba,St Kilda,Geelong Cats,34 - 93
-11,10/08/2020 10:40,Optus Stadium,Fremantle,Hawthorn,48 - 32
-11,11/08/2020 08:35,Adelaide Oval,Adelaide Crows,Collingwood,38 - 62
-11,12/08/2020 09:10,Metricon Stadium,Gold Coast Suns,Essendon,73 - 73
-12,13/08/2020 10:10,Optus Stadium,Sydney Swans,GWS Giants,66 - 25
-12,14/08/2020 09:50,Metricon Stadium,Geelong Cats,Port Adelaide,91 - 31
-12,15/08/2020 04:35,Metricon Stadium,North Melbourne,Brisbane Lions,52 - 53
-12,15/08/2020 07:10,Gabba,Melbourne,Collingwood,100 - 44
-12,15/08/2020 10:10,Optus Stadium,Fremantle,Carlton,36 - 40
-12,16/08/2020 03:05,Metricon Stadium,Western Bulldogs,Adelaide Crows,111 - 54
-12,16/08/2020 05:35,Gabba,St Kilda,Essendon,68 - 33
-12,16/08/2020 08:10,Optus Stadium,West Coast Eagles,Hawthorn,81 - 49
-12,17/08/2020 09:10,Gabba,Richmond,Gold Coast Suns,53 - 32
-13,21/08/2020 09:50,TIO Stadium,Gold Coast Suns,Carlton,27 - 60
-13,22/08/2020 03:45,Metricon Stadium,Western Bulldogs,Melbourne,80 - 52
-13,22/08/2020 06:35,Adelaide Oval,Port Adelaide,Hawthorn,68 - 58
-13,22/08/2020 09:45,TIO Stadium,Essendon,Richmond,61 - 73
-13,22/08/2020 10:10,Optus Stadium,Fremantle,Sydney Swans,50 - 19
-13,23/08/2020 03:05,Adelaide Oval,Adelaide Crows,Geelong Cats,37 - 65
-13,23/08/2020 05:35,Gabba,Brisbane Lions,St Kilda,50 - 48
-13,23/08/2020 08:10,Optus Stadium,West Coast Eagles,GWS Giants,61 - 49
-13,24/08/2020 09:10,Gabba,Collingwood,North Melbourne,65 - 36
-14,27/08/2020 06:40,Adelaide Oval,Hawthorn,Essendon,71 - 87
-14,27/08/2020 09:10,Metricon Stadium,Richmond,West Coast Eagles,88 - 61
-14,28/08/2020 09:50,Metricon Stadium,Western Bulldogs,Geelong Cats,61 - 72
-14,29/08/2020 03:45,Adelaide Oval,Port Adelaide,Sydney Swans,73 - 47
-14,29/08/2020 06:35,Optus Stadium,Fremantle,GWS Giants,53 - 91
-14,29/08/2020 09:40,TIO Traeger Park,Melbourne,St Kilda,52 - 49
-14,30/08/2020 05:35,Gabba,Carlton,Collingwood,48 - 72
-14,30/08/2020 08:10,Metricon Stadium,Gold Coast Suns,North Melbourne,91 - 28
-15,01/09/2020 07:40,Adelaide Oval,Hawthorn,Adelaide Crows,48 - 83
-15,01/09/2020 10:10,Gabba,West Coast Eagles,Essendon,60 - 45
-15,02/09/2020 09:10,Metricon Stadium,Richmond,Fremantle,56 - 29
-15,03/09/2020 06:40,Cazaly's Stadium,Sydney Swans,Melbourne,67 - 46
-15,03/09/2020 09:10,Metricon Stadium,GWS Giants,Carlton,48 - 39
-15,04/09/2020 09:50,Gabba,Brisbane Lions,Collingwood,42 - 34
-16,05/09/2020 09:40,Metricon Stadium,North Melbourne,Port Adelaide,42 - 78
-16,06/09/2020 03:05,Metricon Stadium,St Kilda,Hawthorn,80 - 66
-16,06/09/2020 05:35,Gabba,Geelong Cats,Essendon,108 - 42
-16,06/09/2020 08:10,Metricon Stadium,Western Bulldogs,West Coast Eagles,49 - 47
-16,07/09/2020 09:10,Cazaly's Stadium,Melbourne,Fremantle,33 - 47
-16,08/09/2020 07:40,Adelaide Oval,Adelaide Crows,GWS Giants,59 - 47
-16,08/09/2020 10:10,Metricon Stadium,Carlton,Sydney Swans,57 - 52
-16,09/09/2020 09:10,Gabba,Brisbane Lions,Gold Coast Suns,88 - 43
-17,10/09/2020 09:10,Gabba,St Kilda,West Coast Eagles,50 - 65
-17,11/09/2020 09:50,Metricon Stadium,Geelong Cats,Richmond,31 - 57
-17,12/09/2020 04:10,Metricon Stadium,North Melbourne,Fremantle,35 - 99
-17,12/09/2020 07:05,Adelaide Oval,Port Adelaide,Essendon,79 - 29
-17,12/09/2020 09:40,Gabba,GWS Giants,Melbourne,74 - 79
-17,13/09/2020 03:05,Metricon Stadium,Carlton,Adelaide Crows,56 - 72
-17,13/09/2020 05:35,Adelaide Oval,Hawthorn,Western Bulldogs,40 - 76
-17,13/09/2020 08:10,Cazaly's Stadium,Sydney Swans,Brisbane Lions,41 - 73
-17,14/09/2020 09:10,Gabba,Collingwood,Gold Coast Suns,68 - 46
-18,17/09/2020 09:10,Metricon Stadium,North Melbourne,West Coast Eagles,34 - 49
-18,18/09/2020 09:50,Gabba,St Kilda,GWS Giants,82 - 30
-18,19/09/2020 04:10,Metricon Stadium,Essendon,Melbourne,49 - 68
-18,19/09/2020 07:10,Adelaide Oval,Adelaide Crows,Richmond,33 - 77
-18,19/09/2020 09:40,Gabba,Brisbane Lions,Carlton,78 - 61
-18,20/09/2020 03:05,Adelaide Oval,Hawthorn,Gold Coast Suns,108 - 57
-18,20/09/2020 05:35,Metricon Stadium,Sydney Swans,Geelong Cats,63 - 69
-18,20/09/2020 08:10,Cazaly's Stadium,Fremantle,Western Bulldogs,44 - 74
-18,21/09/2020 09:15,Gabba,Collingwood,Port Adelaide,45 - 61
-Finals W1,01/10/2020 09:40,Adelaide Oval,Port Adelaide,Geelong Cats,58 - 42
-Finals W1,02/10/2020 09:50,Gabba,Brisbane Lions,Richmond,69 - 54
-Finals W1,03/10/2020 06:40,Gabba,St Kilda,Western Bulldogs,67 - 64
-Finals W1,03/10/2020 10:10,Optus Stadium,West Coast Eagles,Collingwood,75 - 76
-Semi Finals,09/10/2020 08:50,Metricon Stadium,Richmond,St Kilda,80 - 49
-Semi Finals,10/10/2020 08:40,Gabba,Geelong Cats,Collingwood,100 - 32
-Prelim Finals,16/10/2020 08:50,Adelaide Oval,Port Adelaide,Richmond,40 - 46
-Prelim Finals,17/10/2020 08:40,Gabba,Brisbane Lions,Geelong Cats,42 - 82
-Grand Final,24/10/2020 08:30,Gabba,Richmond,Geelong Cats,
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,19/03/2020 08:40,MCG,Richmond,Carlton,105 - 81
+2,1,20/03/2020 08:50,Marvel Stadium,Western Bulldogs,Collingwood,34 - 86
+3,1,21/03/2020 03:10,Marvel Stadium,Essendon,Fremantle,63 - 57
+4,1,21/03/2020 06:05,Adelaide Oval,Adelaide Crows,Sydney Swans,71 - 74
+5,1,21/03/2020 08:40,GIANTS Stadium,GWS Giants,Geelong Cats,105 - 73
+6,1,21/03/2020 08:40,Metricon Stadium,Gold Coast Suns,Port Adelaide,29 - 76
+7,1,22/03/2020 02:05,Marvel Stadium,North Melbourne,St Kilda,56 - 54
+8,1,22/03/2020 04:35,MCG,Hawthorn,Brisbane Lions,90 - 62
+9,1,22/03/2020 07:40,Optus Stadium,West Coast Eagles,Melbourne,78 - 51
+1,2,11/06/2020 09:40,MCG,Collingwood,Richmond,36 - 36
+2,2,12/06/2020 09:50,GMHBA Stadium,Geelong Cats,Hawthorn,108 - 47
+3,2,13/06/2020 03:45,Gabba,Brisbane Lions,Fremantle,81 - 69
+4,2,13/06/2020 06:35,Marvel Stadium,Carlton,Melbourne,53 - 54
+5,2,13/06/2020 09:40,Metricon Stadium,Gold Coast Suns,West Coast Eagles,90 - 46
+6,2,13/06/2020 09:40,Adelaide Oval,Port Adelaide,Adelaide Crows,110 - 35
+7,2,14/06/2020 03:05,GIANTS Stadium,GWS Giants,North Melbourne,60 - 80
+8,2,14/06/2020 05:35,SCG,Sydney Swans,Essendon,73 - 79
+9,2,14/06/2020 08:05,Marvel Stadium,St Kilda,Western Bulldogs,88 - 49
+10,3,18/06/2020 09:40,MCG,Richmond,Hawthorn,39 - 71
+11,3,19/06/2020 09:50,Marvel Stadium,Western Bulldogs,GWS Giants,57 - 33
+12,3,20/06/2020 03:45,Marvel Stadium,North Melbourne,Sydney Swans,60 - 71
+13,3,20/06/2020 06:35,MCG,Collingwood,St Kilda,81 - 37
+14,3,20/06/2020 09:40,Gabba,Brisbane Lions,West Coast Eagles,74 - 44
+15,3,20/06/2020 09:40,GMHBA Stadium,Geelong Cats,Carlton,77 - 79
+16,3,21/06/2020 05:05,Metricon Stadium,Gold Coast Suns,Adelaide Crows,82 - 29
+18,3,21/06/2020 10:10,Metricon Stadium,Fremantle,Port Adelaide,41 - 70
+19,4,25/06/2020 09:40,SCG,Sydney Swans,Western Bulldogs,39 - 67
+20,4,26/06/2020 09:50,GIANTS Stadium,GWS Giants,Collingwood,66 - 64
+21,4,27/06/2020 03:45,Metricon Stadium,Port Adelaide,West Coast Eagles,89 - 41
+22,4,27/06/2020 06:35,Marvel Stadium,St Kilda,Richmond,93 - 67
+23,4,27/06/2020 09:40,MCG,Essendon,Carlton,51 - 52
+24,4,27/06/2020 09:40,Metricon Stadium,Gold Coast Suns,Fremantle,64 - 51
+25,4,28/06/2020 03:05,Gabba,Brisbane Lions,Adelaide Crows,83 - 46
+26,4,28/06/2020 05:35,MCG,Melbourne,Geelong Cats,44 - 47
+27,4,28/06/2020 08:10,Marvel Stadium,Hawthorn,North Melbourne,58 - 54
+30,5,02/07/2020 09:40,MCG,Carlton,St Kilda,55 - 73
+29,5,03/07/2020 09:50,MCG,Collingwood,Essendon,48 - 63
+28,5,04/07/2020 03:45,Metricon Stadium,West Coast Eagles,Sydney Swans,77 - 43
+31,5,04/07/2020 06:35,GMHBA Stadium,Geelong Cats,Gold Coast Suns,89 - 52
+32,5,04/07/2020 09:40,Marvel Stadium,Western Bulldogs,North Melbourne,87 - 38
+33,5,04/07/2020 09:40,Gabba,Brisbane Lions,Port Adelaide,85 - 48
+34,5,05/07/2020 03:05,Metricon Stadium,Adelaide Crows,Fremantle,34 - 54
+35,5,05/07/2020 05:35,MCG,Melbourne,Richmond,52 - 79
+36,5,05/07/2020 08:10,GIANTS Stadium,GWS Giants,Hawthorn,83 - 49
+1,6,09/07/2020 09:40,SCG,Geelong Cats,Brisbane Lions,73 - 46
+2,6,10/07/2020 09:50,GIANTS Stadium,Collingwood,Hawthorn,59 - 27
+3,6,11/07/2020 02:35,Metricon Stadium,Fremantle,St Kilda,79 - 73
+4,6,11/07/2020 05:05,Gabba,West Coast Eagles,Adelaide Crows,67 - 34
+5,6,11/07/2020 08:05,GIANTS Stadium,Melbourne,Gold Coast Suns,80 - 63
+6,6,11/07/2020 09:40,Metricon Stadium,Essendon,North Melbourne,67 - 53
+7,6,12/07/2020 03:05,Metricon Stadium,Port Adelaide,GWS Giants,63 - 46
+8,6,12/07/2020 05:35,Gabba,Richmond,Sydney Swans,34 - 26
+9,6,12/07/2020 08:45,Metricon Stadium,Carlton,Western Bulldogs,103 - 51
+10,7,16/07/2020 10:10,Optus Stadium,Geelong Cats,Collingwood,35 - 57
+11,7,17/07/2020 09:50,Metricon Stadium,Essendon,Western Bulldogs,51 - 93
+12,7,18/07/2020 03:45,GIANTS Stadium,GWS Giants,Brisbane Lions,68 - 88
+13,7,18/07/2020 06:35,SCG,Sydney Swans,Gold Coast Suns,60 - 92
+15,7,18/07/2020 09:40,Metricon Stadium,Richmond,North Melbourne,77 - 23
+14,7,19/07/2020 03:05,Gabba,Carlton,Port Adelaide,61 - 64
+16,7,19/07/2020 05:35,GIANTS Stadium,Hawthorn,Melbourne,48 - 91
+17,7,19/07/2020 08:35,Optus Stadium,Fremantle,West Coast Eagles,32 - 62
+18,7,20/07/2020 09:40,Adelaide Oval,Adelaide Crows,St Kilda,55 - 78
+1,8,23/07/2020 09:40,Metricon Stadium,Gold Coast Suns,Western Bulldogs,46 - 51
+2,8,24/07/2020 09:50,GIANTS Stadium,GWS Giants,Richmond,62 - 50
+3,8,25/07/2020 03:05,Gabba,North Melbourne,Carlton,57 - 64
+4,8,25/07/2020 05:35,SCG,Sydney Swans,Hawthorn,60 - 53
+5,8,25/07/2020 09:40,Adelaide Oval,Port Adelaide,St Kilda,44 - 73
+6,8,26/07/2020 03:05,Adelaide Oval,Adelaide Crows,Essendon,59 - 62
+7,8,26/07/2020 05:35,Optus Stadium,West Coast Eagles,Collingwood,111 - 45
+8,8,26/07/2020 08:10,Metricon Stadium,Melbourne,Brisbane Lions,49 - 53
+9,8,27/07/2020 10:10,Optus Stadium,Fremantle,Geelong Cats,16 - 48
+1,9,29/07/2020 09:10,Metricon Stadium,Western Bulldogs,Richmond,49 - 90
+3,9,30/07/2020 09:50,Gabba,Melbourne,Port Adelaide,32 - 83
+2,9,31/07/2020 07:40,Optus Stadium,Carlton,Hawthorn,58 - 89
+4,9,31/07/2020 10:10,Metricon Stadium,Essendon,Brisbane Lions,28 - 91
+5,9,01/08/2020 04:35,Metricon Stadium,North Melbourne,Adelaide Crows,119 - 50
+6,9,01/08/2020 07:10,Gabba,St Kilda,Sydney Swans,101 - 48
+7,9,01/08/2020 10:10,Optus Stadium,West Coast Eagles,Geelong Cats,73 - 64
+8,9,02/08/2020 05:35,Metricon Stadium,Gold Coast Suns,GWS Giants,35 - 61
+9,9,02/08/2020 08:10,Optus Stadium,Fremantle,Collingwood,61 - 49
+10,10,03/08/2020 09:10,Adelaide Oval,Port Adelaide,Western Bulldogs,55 - 42
+11,10,04/08/2020 09:10,Metricon Stadium,Richmond,Brisbane Lions,82 - 41
+12,10,05/08/2020 07:40,Gabba,Geelong Cats,North Melbourne,90 - 57
+13,10,05/08/2020 10:10,Adelaide Oval,Adelaide Crows,Melbourne,37 - 88
+14,10,06/08/2020 07:40,Gabba,Collingwood,Sydney Swans,50 - 41
+15,10,06/08/2020 10:10,Metricon Stadium,Gold Coast Suns,St Kilda,74 - 78
+16,10,07/08/2020 09:50,Metricon Stadium,Essendon,GWS Giants,55 - 59
+17,11,08/08/2020 06:35,Adelaide Oval,Port Adelaide,Richmond,93 - 72
+18,11,08/08/2020 09:40,Gabba,Brisbane Lions,Western Bulldogs,96 - 72
+19,11,09/08/2020 05:35,Optus Stadium,West Coast Eagles,Carlton,72 - 50
+20,11,09/08/2020 08:10,Adelaide Oval,Melbourne,North Melbourne,92 - 35
+21,11,10/08/2020 08:10,Gabba,St Kilda,Geelong Cats,34 - 93
+22,11,10/08/2020 10:40,Optus Stadium,Fremantle,Hawthorn,48 - 32
+23,11,11/08/2020 08:35,Adelaide Oval,Adelaide Crows,Collingwood,38 - 62
+24,11,12/08/2020 09:10,Metricon Stadium,Gold Coast Suns,Essendon,73 - 73
+25,12,13/08/2020 10:10,Optus Stadium,Sydney Swans,GWS Giants,66 - 25
+26,12,14/08/2020 09:50,Metricon Stadium,Geelong Cats,Port Adelaide,91 - 31
+27,12,15/08/2020 04:35,Metricon Stadium,North Melbourne,Brisbane Lions,52 - 53
+28,12,15/08/2020 07:10,Gabba,Melbourne,Collingwood,100 - 44
+29,12,15/08/2020 10:10,Optus Stadium,Fremantle,Carlton,36 - 40
+30,12,16/08/2020 03:05,Metricon Stadium,Western Bulldogs,Adelaide Crows,111 - 54
+31,12,16/08/2020 05:35,Gabba,St Kilda,Essendon,68 - 33
+32,12,16/08/2020 08:10,Optus Stadium,West Coast Eagles,Hawthorn,81 - 49
+33,12,17/08/2020 09:10,Gabba,Richmond,Gold Coast Suns,53 - 32
+1,13,21/08/2020 09:50,TIO Stadium,Gold Coast Suns,Carlton,27 - 60
+2,13,22/08/2020 03:45,Metricon Stadium,Western Bulldogs,Melbourne,80 - 52
+3,13,22/08/2020 06:35,Adelaide Oval,Port Adelaide,Hawthorn,68 - 58
+4,13,22/08/2020 09:45,TIO Stadium,Essendon,Richmond,61 - 73
+5,13,22/08/2020 10:10,Optus Stadium,Fremantle,Sydney Swans,50 - 19
+6,13,23/08/2020 03:05,Adelaide Oval,Adelaide Crows,Geelong Cats,37 - 65
+7,13,23/08/2020 05:35,Gabba,Brisbane Lions,St Kilda,50 - 48
+8,13,23/08/2020 08:10,Optus Stadium,West Coast Eagles,GWS Giants,61 - 49
+9,13,24/08/2020 09:10,Gabba,Collingwood,North Melbourne,65 - 36
+1,14,27/08/2020 06:40,Adelaide Oval,Hawthorn,Essendon,71 - 87
+2,14,27/08/2020 09:10,Metricon Stadium,Richmond,West Coast Eagles,88 - 61
+3,14,28/08/2020 09:50,Metricon Stadium,Western Bulldogs,Geelong Cats,61 - 72
+4,14,29/08/2020 03:45,Adelaide Oval,Port Adelaide,Sydney Swans,73 - 47
+5,14,29/08/2020 06:35,Optus Stadium,Fremantle,GWS Giants,53 - 91
+6,14,29/08/2020 09:40,TIO Traeger Park,Melbourne,St Kilda,52 - 49
+7,14,30/08/2020 05:35,Gabba,Carlton,Collingwood,48 - 72
+8,14,30/08/2020 08:10,Metricon Stadium,Gold Coast Suns,North Melbourne,91 - 28
+9,15,01/09/2020 07:40,Adelaide Oval,Hawthorn,Adelaide Crows,48 - 83
+10,15,01/09/2020 10:10,Gabba,West Coast Eagles,Essendon,60 - 45
+11,15,02/09/2020 09:10,Metricon Stadium,Richmond,Fremantle,56 - 29
+12,15,03/09/2020 06:40,Cazaly's Stadium,Sydney Swans,Melbourne,67 - 46
+13,15,03/09/2020 09:10,Metricon Stadium,GWS Giants,Carlton,48 - 39
+14,15,04/09/2020 09:50,Gabba,Brisbane Lions,Collingwood,42 - 34
+15,16,05/09/2020 09:40,Metricon Stadium,North Melbourne,Port Adelaide,42 - 78
+16,16,06/09/2020 03:05,Metricon Stadium,St Kilda,Hawthorn,80 - 66
+17,16,06/09/2020 05:35,Gabba,Geelong Cats,Essendon,108 - 42
+18,16,06/09/2020 08:10,Metricon Stadium,Western Bulldogs,West Coast Eagles,49 - 47
+19,16,07/09/2020 09:10,Cazaly's Stadium,Melbourne,Fremantle,33 - 47
+20,16,08/09/2020 07:40,Adelaide Oval,Adelaide Crows,GWS Giants,59 - 47
+21,16,08/09/2020 10:10,Metricon Stadium,Carlton,Sydney Swans,57 - 52
+22,16,09/09/2020 09:10,Gabba,Brisbane Lions,Gold Coast Suns,88 - 43
+23,17,10/09/2020 09:10,Gabba,St Kilda,West Coast Eagles,50 - 65
+24,17,11/09/2020 09:50,Metricon Stadium,Geelong Cats,Richmond,31 - 57
+25,17,12/09/2020 04:10,Metricon Stadium,North Melbourne,Fremantle,35 - 99
+26,17,12/09/2020 07:05,Adelaide Oval,Port Adelaide,Essendon,79 - 29
+27,17,12/09/2020 09:40,Gabba,GWS Giants,Melbourne,74 - 79
+28,17,13/09/2020 03:05,Metricon Stadium,Carlton,Adelaide Crows,56 - 72
+29,17,13/09/2020 05:35,Adelaide Oval,Hawthorn,Western Bulldogs,40 - 76
+30,17,13/09/2020 08:10,Cazaly's Stadium,Sydney Swans,Brisbane Lions,41 - 73
+31,17,14/09/2020 09:10,Gabba,Collingwood,Gold Coast Suns,68 - 46
+38,18,17/09/2020 09:10,Metricon Stadium,North Melbourne,West Coast Eagles,34 - 49
+39,18,18/09/2020 09:50,Gabba,St Kilda,GWS Giants,82 - 30
+35,18,19/09/2020 04:10,Metricon Stadium,Essendon,Melbourne,49 - 68
+32,18,19/09/2020 07:10,Adelaide Oval,Adelaide Crows,Richmond,33 - 77
+33,18,19/09/2020 09:40,Gabba,Brisbane Lions,Carlton,78 - 61
+37,18,20/09/2020 03:05,Adelaide Oval,Hawthorn,Gold Coast Suns,108 - 57
+40,18,20/09/2020 05:35,Metricon Stadium,Sydney Swans,Geelong Cats,63 - 69
+36,18,20/09/2020 08:10,Cazaly's Stadium,Fremantle,Western Bulldogs,44 - 74
+34,18,21/09/2020 09:15,Gabba,Collingwood,Port Adelaide,45 - 61
+43,Finals W1,01/10/2020 09:40,Adelaide Oval,Port Adelaide,Geelong Cats,58 - 42
+44,Finals W1,02/10/2020 09:50,Gabba,Brisbane Lions,Richmond,69 - 54
+41,Finals W1,03/10/2020 06:40,Gabba,St Kilda,Western Bulldogs,67 - 64
+42,Finals W1,03/10/2020 10:10,Optus Stadium,West Coast Eagles,Collingwood,75 - 76
+45,Semi Finals,09/10/2020 08:50,Metricon Stadium,Richmond,St Kilda,80 - 49
+46,Semi Finals,10/10/2020 08:40,Gabba,Geelong Cats,Collingwood,100 - 32
+47,Prelim Finals,16/10/2020 08:50,Adelaide Oval,Port Adelaide,Richmond,40 - 46
+48,Prelim Finals,17/10/2020 08:40,Gabba,Brisbane Lions,Geelong Cats,42 - 82
+49,Grand Final,24/10/2020 08:30,Gabba,Richmond,Geelong Cats,81 - 50
