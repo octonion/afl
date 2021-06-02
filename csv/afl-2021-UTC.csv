@@ -89,19 +89,19 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 87,10,23/05/2021 03:10,GIANTS Stadium,GWS Giants,West Coast Eagles,93 - 77
 84,10,23/05/2021 05:20,MCG,Collingwood,Port Adelaide,58 - 59
 85,10,23/05/2021 06:40,Marvel Stadium,Essendon,North Melbourne,141 - 69
-96,11,28/05/2021 09:50,Marvel Stadium,Western Bulldogs,Melbourne,
-92,11,29/05/2021 03:45,MCG,Collingwood,Geelong Cats,
-91,11,29/05/2021 04:10,Gabba,Brisbane Lions,GWS Giants,
-94,11,29/05/2021 06:35,Marvel Stadium,St Kilda,North Melbourne,
-97,11,29/05/2021 09:40,TIO Stadium,Gold Coast Suns,Hawthorn,
-99,11,29/05/2021 09:40,Optus Stadium,West Coast Eagles,Essendon,
-93,11,30/05/2021 03:10,MCG,Richmond,Adelaide Crows,
-95,11,30/05/2021 05:20,SCG,Sydney Swans,Carlton,
-98,11,30/05/2021 06:40,Adelaide Oval,Port Adelaide,Fremantle,
+96,11,28/05/2021 09:50,Marvel Stadium,Western Bulldogs,Melbourne,59 - 87
+92,11,29/05/2021 03:45,MCG,Collingwood,Geelong Cats,51 - 61
+91,11,29/05/2021 04:10,Gabba,Brisbane Lions,GWS Giants,129 - 65
+94,11,29/05/2021 06:35,Marvel Stadium,St Kilda,North Melbourne,88 - 68
+97,11,29/05/2021 09:40,SCG,Gold Coast Suns,Hawthorn,113 - 76
+99,11,29/05/2021 09:40,Optus Stadium,West Coast Eagles,Essendon,71 - 87
+93,11,30/05/2021 04:10,GIANTS Stadium,Richmond,Adelaide Crows,111 - 83
+95,11,30/05/2021 05:20,SCG,Sydney Swans,Carlton,100 - 78
+98,11,30/05/2021 07:20,Adelaide Oval,Port Adelaide,Fremantle,115 - 69
 104,12,04/06/2021 09:50,TIO Traeger Park,Melbourne,Brisbane Lions,
 102,12,05/06/2021 03:45,Marvel Stadium,St Kilda,Sydney Swans,
 103,12,05/06/2021 06:35,Adelaide Oval,Adelaide Crows,Collingwood,
-101,12,05/06/2021 09:25,MCG,Essendon,Richmond,
+101,12,05/06/2021 09:40,Optus Stadium,Essendon,Richmond,
 100,12,06/06/2021 05:20,MCG,Carlton,West Coast Eagles,
 105,12,06/06/2021 08:40,Optus Stadium,Fremantle,Western Bulldogs,
 110,13,10/06/2021 09:40,Adelaide Oval,Port Adelaide,Geelong Cats,
