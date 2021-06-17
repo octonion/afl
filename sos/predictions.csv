@@ -1,94 +1,87 @@
 date,home,away,e_home,e_away,e_d
-2021-06-10,Port Adelaide,Geelong Cats,71.5,71.0,0.5
-2021-06-11,Sydney Swans,Hawthorn,106.5,63.9,42.7
-2021-06-12,Fremantle,Gold Coast Suns,76.9,71.3,5.6
-2021-06-12,St Kilda,Adelaide Crows,86.8,85.8,1.0
-2021-06-13,North Melbourne,GWS Giants,66.6,102.8,-36.3
-2021-06-13,West Coast Eagles,Richmond,88.5,86.9,1.5
-2021-06-14,Melbourne,Collingwood,87.6,55.2,32.5
-2021-06-18,Geelong Cats,Western Bulldogs,72.2,77.2,-5.0
-2021-06-19,Gold Coast Suns,Port Adelaide,65.4,79.2,-13.8
-2021-06-19,GWS Giants,Carlton,90.1,83.7,6.4
-2021-06-19,North Melbourne,Brisbane Lions,58.2,121.5,-63.3
-2021-06-20,Hawthorn,Essendon,79.9,99.7,-19.7
-2021-06-24,Brisbane Lions,Geelong Cats,82.4,71.8,10.6
-2021-06-25,Richmond,St Kilda,99.7,67.5,32.2
-2021-06-26,Collingwood,Fremantle,73.0,70.2,2.8
-2021-06-26,Essendon,Melbourne,74.6,95.6,-20.9
-2021-06-26,North Melbourne,Gold Coast Suns,65.0,91.9,-26.9
-2021-06-26,Port Adelaide,Sydney Swans,82.6,73.9,8.7
-2021-06-27,Carlton,Adelaide Crows,103.5,83.3,20.2
-2021-06-27,GWS Giants,Hawthorn,98.6,67.1,31.5
-2021-06-27,West Coast Eagles,Western Bulldogs,75.7,96.1,-20.4
-2021-07-03,Adelaide Crows,Brisbane Lions,73.2,108.0,-34.8
-2021-07-03,Collingwood,St Kilda,79.4,66.9,12.5
-2021-07-03,Fremantle,Carlton,83.8,84.4,-0.6
-2021-07-03,Geelong Cats,Essendon,97.8,70.5,27.3
-2021-07-03,Gold Coast Suns,Richmond,72.7,82.9,-10.1
-2021-07-03,Hawthorn,Port Adelaide,62.1,94.5,-32.4
-2021-07-03,Melbourne,GWS Giants,91.9,64.5,27.4
-2021-07-03,Sydney Swans,West Coast Eagles,93.7,81.8,11.9
-2021-07-03,Western Bulldogs,North Melbourne,130.5,51.1,79.4
-2021-07-10,Brisbane Lions,St Kilda,109.7,61.4,48.3
-2021-07-10,Carlton,Geelong Cats,73.8,87.4,-13.6
-2021-07-10,Essendon,Adelaide Crows,105.8,87.1,18.7
-2021-07-10,GWS Giants,Gold Coast Suns,82.6,70.7,11.9
-2021-07-10,Hawthorn,Fremantle,72.4,85.7,-13.3
-2021-07-10,Port Adelaide,Melbourne,70.8,74.2,-3.5
-2021-07-10,Richmond,Collingwood,86.6,65.0,21.6
-2021-07-10,West Coast Eagles,North Melbourne,119.7,63.7,56.0
-2021-07-10,Western Bulldogs,Sydney Swans,95.5,70.3,25.2
-2021-07-17,Adelaide Crows,West Coast Eagles,85.8,99.4,-13.6
-2021-07-17,Collingwood,Carlton,77.1,79.8,-2.8
-2021-07-17,Fremantle,Geelong Cats,64.8,82.7,-17.9
-2021-07-17,Gold Coast Suns,Western Bulldogs,62.2,91.6,-29.4
-2021-07-17,GWS Giants,Sydney Swans,80.5,85.5,-4.9
-2021-07-17,Melbourne,Hawthorn,107.0,54.7,52.3
-2021-07-17,North Melbourne,Essendon,74.1,111.3,-37.2
-2021-07-17,Richmond,Brisbane Lions,79.4,89.8,-10.4
-2021-07-17,St Kilda,Port Adelaide,64.9,89.0,-24.1
-2021-07-24,Carlton,North Melbourne,116.5,66.2,50.3
-2021-07-24,Essendon,GWS Giants,91.6,88.0,3.5
-2021-07-24,Geelong Cats,Richmond,84.5,69.9,14.5
-2021-07-24,Gold Coast Suns,Melbourne,61.7,83.8,-22.1
-2021-07-24,Hawthorn,Brisbane Lions,62.8,108.8,-46.1
-2021-07-24,Port Adelaide,Collingwood,82.8,58.5,24.3
-2021-07-24,Sydney Swans,Fremantle,92.2,70.0,22.2
-2021-07-24,West Coast Eagles,St Kilda,101.0,71.9,29.1
-2021-07-24,Western Bulldogs,Adelaide Crows,116.0,64.3,51.6
-2021-07-31,Adelaide Crows,Hawthorn,97.5,77.5,20.0
-2021-07-31,Brisbane Lions,Gold Coast Suns,97.6,61.8,35.8
-2021-07-31,Collingwood,West Coast Eagles,74.2,82.0,-7.8
-2021-07-31,Essendon,Sydney Swans,87.1,95.1,-8.0
-2021-07-31,Fremantle,Richmond,75.7,85.6,-9.9
-2021-07-31,GWS Giants,Port Adelaide,73.2,81.1,-8.0
-2021-07-31,Melbourne,Western Bulldogs,75.5,76.4,-0.9
-2021-07-31,North Melbourne,Geelong Cats,54.8,106.7,-51.9
-2021-07-31,St Kilda,Carlton,80.0,91.8,-11.9
-2021-08-07,Adelaide Crows,Port Adelaide,72.4,93.7,-21.3
-2021-08-07,Carlton,Gold Coast Suns,87.4,75.2,12.2
-2021-08-07,Fremantle,Brisbane Lions,68.8,94.2,-25.3
-2021-08-07,Geelong Cats,GWS Giants,87.8,65.1,22.7
-2021-08-07,Hawthorn,Collingwood,68.5,78.8,-10.3
-2021-08-07,Richmond,North Melbourne,118.1,59.8,58.3
-2021-08-07,Sydney Swans,St Kilda,100.4,66.8,33.5
-2021-08-07,West Coast Eagles,Melbourne,75.0,87.9,-12.9
-2021-08-07,Western Bulldogs,Essendon,111.7,70.3,41.4
-2021-08-14,Brisbane Lions,Collingwood,95.4,59.2,36.2
-2021-08-14,Fremantle,West Coast Eagles,80.6,86.7,-6.0
-2021-08-14,Geelong Cats,St Kilda,96.4,57.8,38.6
-2021-08-14,Gold Coast Suns,Essendon,84.2,83.5,0.7
-2021-08-14,GWS Giants,Richmond,81.4,84.9,-3.5
-2021-08-14,Hawthorn,Western Bulldogs,59.0,109.2,-50.2
-2021-08-14,Melbourne,Adelaide Crows,106.2,63.8,42.4
-2021-08-14,North Melbourne,Sydney Swans,63.4,111.2,-47.8
-2021-08-14,Port Adelaide,Carlton,92.4,72.4,20.0
-2021-08-21,Adelaide Crows,North Melbourne,108.9,71.9,37.0
-2021-08-21,Brisbane Lions,West Coast Eagles,102.4,75.2,27.2
-2021-08-21,Carlton,GWS Giants,89.6,84.2,5.4
-2021-08-21,Essendon,Collingwood,87.3,75.3,12.0
-2021-08-21,Geelong Cats,Melbourne,71.6,70.7,0.9
-2021-08-21,Richmond,Hawthorn,105.8,64.5,41.3
-2021-08-21,St Kilda,Fremantle,75.7,80.7,-5.0
-2021-08-21,Sydney Swans,Gold Coast Suns,89.3,67.3,22.0
-2021-08-21,Western Bulldogs,Port Adelaide,86.8,66.7,20.1
+2021-06-18,Geelong Cats,Western Bulldogs,75.0,79.1,-4.1
+2021-06-19,Gold Coast Suns,Port Adelaide,66.8,81.3,-14.5
+2021-06-19,GWS Giants,Carlton,89.0,86.4,2.6
+2021-06-19,North Melbourne,Brisbane Lions,60.1,118.9,-58.9
+2021-06-20,Hawthorn,Essendon,81.6,95.8,-14.1
+2021-06-24,Brisbane Lions,Geelong Cats,83.2,75.0,8.1
+2021-06-25,Richmond,St Kilda,96.9,66.2,30.7
+2021-06-26,Collingwood,Fremantle,73.3,69.1,4.2
+2021-06-26,Essendon,Melbourne,76.7,94.1,-17.4
+2021-06-26,North Melbourne,Gold Coast Suns,66.9,89.7,-22.9
+2021-06-26,Port Adelaide,Sydney Swans,86.2,73.9,12.3
+2021-06-27,Carlton,Adelaide Crows,100.3,82.0,18.3
+2021-06-27,GWS Giants,Hawthorn,93.3,71.4,21.9
+2021-06-27,West Coast Eagles,Western Bulldogs,75.6,95.3,-19.8
+2021-07-03,Adelaide Crows,Brisbane Lions,71.9,104.6,-32.7
+2021-07-03,Collingwood,St Kilda,79.8,64.4,15.3
+2021-07-03,Fremantle,Carlton,83.5,83.1,0.4
+2021-07-03,Geelong Cats,Essendon,100.8,72.3,28.5
+2021-07-03,Gold Coast Suns,Richmond,71.7,82.5,-10.8
+2021-07-03,Hawthorn,Port Adelaide,66.1,92.9,-26.8
+2021-07-03,Melbourne,GWS Giants,93.0,66.1,26.9
+2021-07-03,Sydney Swans,West Coast Eagles,88.9,84.0,5.0
+2021-07-03,Western Bulldogs,North Melbourne,127.9,53.1,74.7
+2021-07-10,Brisbane Lions,St Kilda,106.6,60.4,46.2
+2021-07-10,Carlton,Geelong Cats,75.1,91.0,-15.9
+2021-07-10,Essendon,Adelaide Crows,102.7,85.4,17.3
+2021-07-10,GWS Giants,Gold Coast Suns,81.7,72.2,9.5
+2021-07-10,Hawthorn,Fremantle,73.0,82.4,-9.4
+2021-07-10,Port Adelaide,Melbourne,74.3,76.1,-1.8
+2021-07-10,Richmond,Collingwood,84.0,66.9,17.1
+2021-07-10,West Coast Eagles,North Melbourne,117.3,65.4,51.9
+2021-07-10,Western Bulldogs,Sydney Swans,97.3,68.0,29.3
+2021-07-17,Adelaide Crows,West Coast Eagles,83.2,97.0,-13.9
+2021-07-17,Collingwood,Carlton,78.6,78.4,0.2
+2021-07-17,Fremantle,Geelong Cats,66.1,84.8,-18.7
+2021-07-17,Gold Coast Suns,Western Bulldogs,61.5,91.8,-30.3
+2021-07-17,GWS Giants,Sydney Swans,81.5,84.9,-3.4
+2021-07-17,Melbourne,Hawthorn,100.7,58.2,42.5
+2021-07-17,North Melbourne,Essendon,75.9,109.9,-34.0
+2021-07-17,Richmond,Brisbane Lions,78.8,89.3,-10.6
+2021-07-17,St Kilda,Port Adelaide,65.6,89.8,-24.2
+2021-07-24,Carlton,North Melbourne,114.1,68.5,45.6
+2021-07-24,Essendon,GWS Giants,94.0,87.2,6.8
+2021-07-24,Geelong Cats,Richmond,87.5,71.1,16.3
+2021-07-24,Gold Coast Suns,Melbourne,62.6,82.9,-20.3
+2021-07-24,Hawthorn,Brisbane Lions,64.6,103.6,-39.0
+2021-07-24,Port Adelaide,Collingwood,82.8,62.4,20.4
+2021-07-24,Sydney Swans,Fremantle,86.9,72.0,14.9
+2021-07-24,West Coast Eagles,St Kilda,98.9,69.9,29.0
+2021-07-24,Western Bulldogs,Adelaide Crows,112.5,63.6,48.8
+2021-07-31,Adelaide Crows,Hawthorn,91.4,78.0,13.4
+2021-07-31,Brisbane Lions,Gold Coast Suns,96.4,61.5,34.9
+2021-07-31,Collingwood,West Coast Eagles,75.0,80.6,-5.6
+2021-07-31,Essendon,Sydney Swans,88.9,91.4,-2.5
+2021-07-31,Fremantle,Richmond,75.5,83.7,-8.2
+2021-07-31,GWS Giants,Port Adelaide,75.0,85.8,-10.7
+2021-07-31,Melbourne,Western Bulldogs,74.5,79.0,-4.5
+2021-07-31,North Melbourne,Geelong Cats,57.7,109.5,-51.8
+2021-07-31,St Kilda,Carlton,77.8,90.5,-12.6
+2021-08-07,Adelaide Crows,Port Adelaide,73.5,93.7,-20.2
+2021-08-07,Carlton,Gold Coast Suns,87.0,74.5,12.5
+2021-08-07,Fremantle,Brisbane Lions,68.9,92.1,-23.2
+2021-08-07,Geelong Cats,GWS Giants,93.7,66.3,27.4
+2021-08-07,Hawthorn,Collingwood,68.9,77.6,-8.6
+2021-08-07,Richmond,North Melbourne,114.9,61.9,53.0
+2021-08-07,St Kilda,Sydney Swans,71.3,89.0,-17.7
+2021-08-07,West Coast Eagles,Melbourne,77.0,86.1,-9.2
+2021-08-07,Western Bulldogs,Essendon,110.7,70.8,39.9
+2021-08-14,Brisbane Lions,Collingwood,92.4,61.0,31.4
+2021-08-14,Fremantle,West Coast Eagles,79.7,85.4,-5.8
+2021-08-14,Geelong Cats,St Kilda,98.1,58.0,40.1
+2021-08-14,Gold Coast Suns,Essendon,82.6,83.8,-1.3
+2021-08-14,GWS Giants,Richmond,80.5,87.0,-6.6
+2021-08-14,Hawthorn,Western Bulldogs,60.8,104.8,-44.0
+2021-08-14,Melbourne,Adelaide Crows,101.6,64.8,36.8
+2021-08-14,North Melbourne,Sydney Swans,66.7,105.5,-38.8
+2021-08-14,Port Adelaide,Carlton,94.1,75.2,18.9
+2021-08-21,Adelaide Crows,North Melbourne,104.9,72.5,32.4
+2021-08-21,Brisbane Lions,West Coast Eagles,100.2,75.6,24.6
+2021-08-21,Carlton,GWS Giants,91.8,83.7,8.1
+2021-08-21,Essendon,Collingwood,85.4,77.0,8.3
+2021-08-21,Geelong Cats,Melbourne,76.4,71.5,4.9
+2021-08-21,Richmond,Hawthorn,100.2,66.7,33.5
+2021-08-21,St Kilda,Fremantle,72.6,79.7,-7.2
+2021-08-21,Sydney Swans,Gold Coast Suns,85.6,68.3,17.3
+2021-08-21,Western Bulldogs,Port Adelaide,89.6,68.7,20.9

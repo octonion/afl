@@ -104,13 +104,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 101,12,05/06/2021 09:40,Optus Stadium,Essendon,Richmond,84 - 123
 100,12,06/06/2021 05:20,SCG,Carlton,West Coast Eagles,73 - 95
 105,12,06/06/2021 08:40,Optus Stadium,Fremantle,Western Bulldogs,65 - 93
-110,13,10/06/2021 09:40,Adelaide Oval,Port Adelaide,Geelong Cats,
-109,13,11/06/2021 09:50,SCG,Sydney Swans,Hawthorn,
-111,13,12/06/2021 06:15,Optus Stadium,Fremantle,Gold Coast Suns,
-108,13,12/06/2021 09:25,Cazaly's Stadium,St Kilda,Adelaide Crows,
-107,13,13/06/2021 05:20,Blundstone Arena,North Melbourne,GWS Giants,
-117,13,13/06/2021 09:20,Optus Stadium,West Coast Eagles,Richmond,
-106,13,14/06/2021 05:20,SCG,Melbourne,Collingwood,
+110,13,10/06/2021 09:40,Adelaide Oval,Port Adelaide,Geelong Cats,91 - 112
+109,13,11/06/2021 09:50,SCG,Sydney Swans,Hawthorn,51 - 89
+111,13,12/06/2021 06:15,Optus Stadium,Fremantle,Gold Coast Suns,76 - 49
+108,13,12/06/2021 09:25,Cazaly's Stadium,St Kilda,Adelaide Crows,60 - 66
+107,13,13/06/2021 05:20,Blundstone Arena,North Melbourne,GWS Giants,94 - 94
+117,13,13/06/2021 09:20,Optus Stadium,West Coast Eagles,Richmond,85 - 81
+106,13,14/06/2021 05:20,SCG,Melbourne,Collingwood,63 - 80
 112,14,18/06/2021 09:50,GMHBA Stadium,Geelong Cats,Western Bulldogs,
 113,14,19/06/2021 03:45,Metricon Stadium,Gold Coast Suns,Port Adelaide,
 116,14,19/06/2021 06:35,Marvel Stadium,North Melbourne,Brisbane Lions,
@@ -174,7 +174,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 174,21,07/08/2021 02:00,GMHBA Stadium,Geelong Cats,GWS Giants,
 175,21,07/08/2021 02:00,MCG,Hawthorn,Collingwood,
 176,21,07/08/2021 02:00,MCG,Richmond,North Melbourne,
-177,21,07/08/2021 02:00,SCG,Sydney Swans,St Kilda,
+177,21,07/08/2021 02:00,Marvel Stadium,St Kilda,Sydney Swans,
 178,21,07/08/2021 02:00,Marvel Stadium,Western Bulldogs,Essendon,
 179,21,07/08/2021 02:30,Adelaide Oval,Adelaide Crows,Port Adelaide,
 172,21,07/08/2021 04:00,Optus Stadium,Fremantle,Brisbane Lions,
