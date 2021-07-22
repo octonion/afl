@@ -134,42 +134,42 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 132,16,04/07/2021 03:10,GMHBA Stadium,Sydney Swans,West Coast Eagles,118 - 26
 127,16,04/07/2021 05:20,MCG,Collingwood,St Kilda,61 - 70
 133,16,04/07/2021 06:40,Marvel Stadium,Western Bulldogs,North Melbourne,108 - 79
-143,17,08/07/2021 09:40,Adelaide Oval,Port Adelaide,Melbourne,
-138,17,09/07/2021 09:50,Marvel Stadium,Essendon,Adelaide Crows,
-140,17,10/07/2021 03:45,University of Tasmania Stadium,Hawthorn,Fremantle,
-137,17,10/07/2021 06:35,MCG,Carlton,Geelong Cats,
-136,17,10/07/2021 09:25,TBC,Brisbane Lions,St Kilda,
-139,17,11/07/2021 02:40,Mars Stadium,GWS Giants,Gold Coast Suns,
-142,17,11/07/2021 05:20,Marvel Stadium,Western Bulldogs,Sydney Swans,
-141,17,11/07/2021 06:10,MCG,Richmond,Collingwood,
-144,17,12/07/2021 09:40,Optus Stadium,West Coast Eagles,North Melbourne,
-145,18,17/07/2021 02:00,MCG,Collingwood,Carlton,
-146,18,17/07/2021 02:00,Metricon Stadium,Gold Coast Suns,Western Bulldogs,
-147,18,17/07/2021 02:00,GIANTS Stadium,GWS Giants,Sydney Swans,
-148,18,17/07/2021 02:00,MCG,Melbourne,Hawthorn,
-149,18,17/07/2021 02:00,Marvel Stadium,North Melbourne,Essendon,
-150,18,17/07/2021 02:00,MCG,Richmond,Brisbane Lions,
-151,18,17/07/2021 02:00,Marvel Stadium,St Kilda,Port Adelaide,
-152,18,17/07/2021 02:30,Adelaide Oval,Adelaide Crows,West Coast Eagles,
-153,18,17/07/2021 04:00,Optus Stadium,Fremantle,Geelong Cats,
-154,19,24/07/2021 02:00,Marvel Stadium,Carlton,North Melbourne,
-155,19,24/07/2021 02:00,Marvel Stadium,Essendon,GWS Giants,
-156,19,24/07/2021 02:00,MCG,Geelong Cats,Richmond,
-157,19,24/07/2021 02:00,Metricon Stadium,Gold Coast Suns,Melbourne,
-158,19,24/07/2021 02:00,MCG,Hawthorn,Brisbane Lions,
-159,19,24/07/2021 02:00,SCG,Sydney Swans,Fremantle,
-160,19,24/07/2021 02:00,Mars Stadium,Western Bulldogs,Adelaide Crows,
-161,19,24/07/2021 02:30,Adelaide Oval,Port Adelaide,Collingwood,
-162,19,24/07/2021 04:00,Optus Stadium,West Coast Eagles,St Kilda,
-163,20,31/07/2021 02:00,Gabba,Brisbane Lions,Gold Coast Suns,
-164,20,31/07/2021 02:00,MCG,Collingwood,West Coast Eagles,
-165,20,31/07/2021 02:00,Marvel Stadium,Essendon,Sydney Swans,
-166,20,31/07/2021 02:00,Manuka Oval,GWS Giants,Port Adelaide,
-167,20,31/07/2021 02:00,MCG,Melbourne,Western Bulldogs,
-168,20,31/07/2021 02:00,Blundstone Arena,North Melbourne,Geelong Cats,
-169,20,31/07/2021 02:00,Marvel Stadium,St Kilda,Carlton,
-170,20,31/07/2021 02:30,Adelaide Oval,Adelaide Crows,Hawthorn,
-171,20,31/07/2021 04:00,Optus Stadium,Fremantle,Richmond,
+143,17,08/07/2021 09:40,Adelaide Oval,Port Adelaide,Melbourne,55 - 86
+138,17,09/07/2021 09:50,Marvel Stadium,Essendon,Adelaide Crows,84 - 21
+140,17,10/07/2021 03:45,University of Tasmania Stadium,Hawthorn,Fremantle,46 - 108
+137,17,10/07/2021 06:35,MCG,Carlton,Geelong Cats,44 - 70
+136,17,10/07/2021 09:25,Metricon Stadium,Brisbane Lions,St Kilda,63 - 95
+139,17,11/07/2021 02:40,Mars Stadium,GWS Giants,Gold Coast Suns,64 - 65
+142,17,11/07/2021 05:20,Marvel Stadium,Western Bulldogs,Sydney Swans,60 - 79
+141,17,11/07/2021 06:10,MCG,Richmond,Collingwood,71 - 87
+144,17,12/07/2021 09:40,Optus Stadium,West Coast Eagles,North Melbourne,60 - 70
+153,18,15/07/2021 10:10,Optus Stadium,Fremantle,Geelong Cats,31 - 100
+150,18,16/07/2021 10:05,Metricon Stadium,Richmond,Brisbane Lions,106 - 86
+151,18,17/07/2021 03:45,Marvel Stadium,St Kilda,Port Adelaide,61 - 74
+146,18,17/07/2021 06:35,Metricon Stadium,Gold Coast Suns,Western Bulldogs,79 - 90
+148,18,17/07/2021 09:25,MCG,Melbourne,Hawthorn,79 - 79
+149,18,18/07/2021 02:35,Metricon Stadium,North Melbourne,Essendon,74 - 92
+145,18,18/07/2021 05:20,MCG,Collingwood,Carlton,62 - 91
+152,18,18/07/2021 06:40,Adelaide Oval,Adelaide Crows,West Coast Eagles,56 - 98
+147,18,18/07/2021 08:10,Metricon Stadium,GWS Giants,Sydney Swans,72 - 98
+161,19,23/07/2021 09:10,Marvel Stadium,Port Adelaide,Collingwood,
+154,19,24/07/2021 03:45,Marvel Stadium,Carlton,North Melbourne,
+163,19,24/07/2021 03:45,Gabba,Brisbane Lions,Gold Coast Suns,
+162,19,24/07/2021 06:35,Optus Stadium,West Coast Eagles,St Kilda,
+167,19,24/07/2021 09:25,MCG,Melbourne,Western Bulldogs,
+170,19,24/07/2021 09:40,Marvel Stadium,Adelaide Crows,Hawthorn,
+159,19,25/07/2021 02:30,Metricon Stadium,Sydney Swans,Fremantle,
+156,19,25/07/2021 17:20,MCG,Geelong Cats,Richmond,
+155,19,25/07/2021 20:10,Metricon Stadium,Essendon,GWS Giants,
+165,20,30/07/2021 09:50,Marvel Stadium,Essendon,Sydney Swans,
+168,20,31/07/2021 03:45,Blundstone Arena,North Melbourne,Geelong Cats,
+157,20,31/07/2021 05:20,Gabba,Gold Coast Suns,Melbourne,
+169,20,31/07/2021 06:35,Marvel Stadium,St Kilda,Carlton,
+160,20,31/07/2021 09:25,MCG,Western Bulldogs,Adelaide Crows,
+158,20,31/07/2021 09:40,Adelaide Oval,Hawthorn,Brisbane Lions,
+166,20,01/08/2021 03:10,TBC,GWS Giants,Port Adelaide,
+164,20,01/08/2021 04:10,MCG,Collingwood,West Coast Eagles,
+171,20,01/08/2021 07:10,Optus Stadium,Fremantle,Richmond,
 173,21,07/08/2021 02:00,Marvel Stadium,Carlton,Gold Coast Suns,
 174,21,07/08/2021 02:00,GMHBA Stadium,Geelong Cats,GWS Giants,
 175,21,07/08/2021 02:00,MCG,Hawthorn,Collingwood,
