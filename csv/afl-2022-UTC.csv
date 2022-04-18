@@ -41,8 +41,8 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 40,5,16/04/2022 03:45,Marvel Stadium,St Kilda,Gold Coast Suns,87 - 61
 41,5,16/04/2022 06:35,Adelaide Oval,Adelaide Crows,Richmond,101 - 82
 42,5,16/04/2022 09:25,MCG,Melbourne,GWS Giants,120 - 53
-43,5,17/04/2022 03:40,MCG,Carlton,Port Adelaide,
-44,5,17/04/2022 06:40,Marvel Stadium,Essendon,Fremantle,
+43,5,17/04/2022 03:40,MCG,Carlton,Port Adelaide,94 - 91
+44,5,17/04/2022 06:40,Marvel Stadium,Essendon,Fremantle,59 - 107
 45,5,18/04/2022 05:20,MCG,Hawthorn,Geelong Cats,
 46,6,22/04/2022 09:50,Manuka Oval,GWS Giants,St Kilda,
 47,6,23/04/2022 03:45,Mars Stadium,Western Bulldogs,Adelaide Crows,
@@ -102,8 +102,8 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 101,12,03/06/2022 02:00,MCG,Melbourne,Sydney Swans,
 102,12,03/06/2022 02:00,Marvel Stadium,Western Bulldogs,Geelong Cats,
 103,12,03/06/2022 02:30,Adelaide Oval,Adelaide Crows,West Coast Eagles,
-104,12,03/06/2022 02:30,TIO Stadium,Gold Coast Suns,North Melbourne,
 105,12,03/06/2022 04:00,Optus Stadium,Fremantle,Brisbane Lions,
+104,12,04/06/2022 06:35,TIO Stadium,Gold Coast Suns,North Melbourne,
 106,13,10/06/2022 02:00,Gabba,Brisbane Lions,St Kilda,
 107,13,10/06/2022 02:00,MCG,Collingwood,Melbourne,
 108,13,10/06/2022 02:00,MCG,Essendon,Carlton,
