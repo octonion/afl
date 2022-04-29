@@ -9,7 +9,8 @@ psql arf -c "vacuum full verbose analyze afl.results;"
 psql arf -c "drop table if exists afl._basic_factors;"
 psql arf -c "drop table if exists afl._parameter_levels;"
 
-R --vanilla -f sos/lmer.R
+#R --vanilla -f sos/lmer.R
+R -f sos/lmer.R
 
 psql arf -c "vacuum full verbose analyze afl._parameter_levels;"
 psql arf -c "vacuum full verbose analyze afl._basic_factors;"
