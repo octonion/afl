@@ -23,7 +23,7 @@ r.team_score::float as gs,
 from afl.results r
 
 where
-    r.year between 2021 and 2022
+    r.year between 2022 and 2022
 
 ;")
 
