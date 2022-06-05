@@ -1,100 +1,99 @@
 date,home,away,e_home,e_away,e_d
-2022-06-03,Western Bulldogs,Geelong Cats,77.65,85.02,-7.37
-2022-06-04,Adelaide Crows,West Coast Eagles,107.76,64.44,43.32
-2022-06-04,Gold Coast Suns,North Melbourne,106.05,56.12,49.94
-2022-06-04,Melbourne,Sydney Swans,86.75,69.93,16.82
-2022-06-05,Fremantle,Brisbane Lions,75.56,74.40,1.16
-2022-06-05,Hawthorn,Collingwood,87.52,95.16,-7.65
-2022-06-09,Richmond,Port Adelaide,83.00,69.46,13.54
-2022-06-10,Essendon,Carlton,75.23,97.57,-22.34
-2022-06-11,Brisbane Lions,St Kilda,84.80,80.11,4.69
-2022-06-11,Fremantle,Hawthorn,89.67,65.27,24.40
-2022-06-12,North Melbourne,GWS Giants,67.03,99.24,-32.21
-2022-06-13,Collingwood,Melbourne,70.28,86.23,-15.96
-2022-06-16,Richmond,Carlton,93.08,86.45,6.64
-2022-06-17,St Kilda,Essendon,98.59,62.13,36.46
-2022-06-18,GWS Giants,Western Bulldogs,78.85,93.32,-14.47
-2022-06-18,Port Adelaide,Sydney Swans,70.71,77.65,-6.94
-2022-06-18,West Coast Eagles,Geelong Cats,52.79,122.08,-69.28
-2022-06-19,Gold Coast Suns,Adelaide Crows,93.19,71.20,21.99
-2022-06-23,Melbourne,Brisbane Lions,84.63,76.14,8.49
-2022-06-24,West Coast Eagles,Essendon,67.51,101.04,-33.53
-2022-06-24,Western Bulldogs,Hawthorn,99.62,80.97,18.66
-2022-06-25,Carlton,Fremantle,70.65,76.15,-5.50
-2022-06-25,Geelong Cats,Richmond,90.81,78.89,11.92
-2022-06-25,Sydney Swans,St Kilda,77.89,82.11,-4.23
-2022-06-26,Collingwood,GWS Giants,96.54,78.70,17.83
-2022-06-26,North Melbourne,Adelaide Crows,68.07,94.46,-26.38
-2022-06-26,Port Adelaide,Gold Coast Suns,69.53,71.28,-1.75
-2022-06-30,Brisbane Lions,Western Bulldogs,96.05,80.67,15.37
-2022-07-01,Carlton,St Kilda,77.38,84.01,-6.64
-2022-07-02,Adelaide Crows,Melbourne,61.91,95.55,-33.64
-2022-07-02,Essendon,Sydney Swans,73.53,98.21,-24.68
-2022-07-02,Geelong Cats,North Melbourne,115.87,51.50,64.38
-2022-07-02,Gold Coast Suns,Collingwood,84.10,80.82,3.28
-2022-07-03,Fremantle,Port Adelaide,70.66,54.55,16.10
-2022-07-03,GWS Giants,Hawthorn,91.67,91.76,-0.09
-2022-07-03,Richmond,West Coast Eagles,130.11,57.48,72.63
-2022-07-07,Geelong Cats,Melbourne,72.99,75.22,-2.24
-2022-07-08,Sydney Swans,Western Bulldogs,88.22,82.69,5.53
-2022-07-09,Collingwood,North Melbourne,111.57,59.04,52.53
-2022-07-09,Gold Coast Suns,Richmond,83.12,85.97,-2.85
-2022-07-09,Port Adelaide,GWS Giants,79.81,69.41,10.40
-2022-07-09,St Kilda,Fremantle,68.60,65.44,3.16
-2022-07-10,Brisbane Lions,Essendon,111.27,68.93,42.34
-2022-07-10,Hawthorn,Adelaide Crows,96.97,83.84,13.13
-2022-07-10,West Coast Eagles,Carlton,59.86,120.93,-61.07
-2022-07-15,Western Bulldogs,St Kilda,75.66,81.78,-6.12
-2022-07-16,Adelaide Crows,Collingwood,77.95,94.21,-16.26
-2022-07-16,Carlton,Geelong Cats,79.41,87.34,-7.93
-2022-07-16,Fremantle,Sydney Swans,77.45,68.34,9.11
-2022-07-16,GWS Giants,Brisbane Lions,77.24,104.59,-27.35
-2022-07-16,North Melbourne,Richmond,60.71,114.04,-53.33
-2022-07-17,Essendon,Gold Coast Suns,72.30,90.15,-17.85
-2022-07-17,Hawthorn,West Coast Eagles,120.98,65.09,55.89
-2022-07-17,Melbourne,Port Adelaide,79.14,55.83,23.31
-2022-07-22,Richmond,Fremantle,73.04,76.08,-3.04
-2022-07-23,Brisbane Lions,Gold Coast Suns,94.82,76.22,18.60
-2022-07-23,North Melbourne,Hawthorn,68.76,106.04,-37.28
-2022-07-23,Port Adelaide,Geelong Cats,63.81,77.88,-14.07
-2022-07-23,Sydney Swans,Adelaide Crows,101.53,72.41,29.11
-2022-07-23,Western Bulldogs,Melbourne,70.70,83.03,-12.33
-2022-07-24,Carlton,GWS Giants,99.32,77.84,21.47
-2022-07-24,Collingwood,Essendon,98.69,73.09,25.60
-2022-07-24,West Coast Eagles,St Kilda,51.45,117.43,-65.98
-2022-07-29,Adelaide Crows,Carlton,77.10,96.92,-19.83
-2022-07-29,Collingwood,Port Adelaide,78.03,70.29,7.74
-2022-07-29,Essendon,North Melbourne,95.91,65.85,30.06
-2022-07-29,Fremantle,Melbourne,63.63,66.93,-3.29
-2022-07-29,Geelong Cats,Western Bulldogs,88.47,74.62,13.86
-2022-07-29,Gold Coast Suns,West Coast Eagles,116.27,55.28,60.99
-2022-07-29,Richmond,Brisbane Lions,88.76,94.74,-5.97
-2022-07-29,St Kilda,Hawthorn,98.93,71.49,27.44
-2022-07-29,Sydney Swans,GWS Giants,99.97,76.08,23.89
-2022-08-05,Brisbane Lions,Carlton,98.67,82.50,16.17
-2022-08-05,Geelong Cats,St Kilda,78.11,74.10,4.02
-2022-08-05,GWS Giants,Essendon,91.35,79.74,11.61
-2022-08-05,Hawthorn,Gold Coast Suns,83.19,90.46,-7.27
-2022-08-05,Melbourne,Collingwood,89.74,67.53,22.20
-2022-08-05,North Melbourne,Sydney Swans,59.39,111.03,-51.64
-2022-08-05,Port Adelaide,Richmond,72.29,79.76,-7.47
-2022-08-05,West Coast Eagles,Adelaide Crows,67.06,103.56,-36.49
-2022-08-05,Western Bulldogs,Fremantle,69.08,74.12,-5.04
-2022-08-12,Adelaide Crows,North Melbourne,98.29,65.42,32.88
-2022-08-12,Essendon,Port Adelaide,67.08,78.40,-11.32
-2022-08-12,Fremantle,West Coast Eagles,110.76,45.14,65.62
-2022-08-12,Gold Coast Suns,Geelong Cats,73.37,83.94,-10.57
-2022-08-12,Melbourne,Carlton,88.76,69.48,19.28
-2022-08-12,Richmond,Hawthorn,105.34,83.11,22.23
-2022-08-12,St Kilda,Brisbane Lions,83.37,81.49,1.88
-2022-08-12,Sydney Swans,Collingwood,91.63,82.20,9.43
-2022-08-12,Western Bulldogs,GWS Giants,97.12,75.77,21.34
-2022-08-19,Brisbane Lions,Melbourne,79.23,81.33,-2.10
-2022-08-19,Carlton,Collingwood,91.03,84.10,6.93
-2022-08-19,Essendon,Richmond,75.16,100.88,-25.71
-2022-08-19,Geelong Cats,West Coast Eagles,127.04,50.73,76.30
-2022-08-19,GWS Giants,Fremantle,63.56,84.00,-20.44
-2022-08-19,Hawthorn,Western Bulldogs,84.26,95.73,-11.48
-2022-08-19,North Melbourne,Gold Coast Suns,58.40,101.91,-43.52
-2022-08-19,Port Adelaide,Adelaide Crows,81.05,66.06,14.99
-2022-08-19,St Kilda,Sydney Swans,85.45,74.85,10.60
+2022-06-04,Adelaide Crows,West Coast Eagles,104.37,63.23,41.14
+2022-06-04,Gold Coast Suns,North Melbourne,106.69,54.95,51.74
+2022-06-04,Melbourne,Sydney Swans,82.97,70.64,12.33
+2022-06-05,Fremantle,Brisbane Lions,75.74,75.12,0.63
+2022-06-05,Hawthorn,Collingwood,87.53,95.46,-7.93
+2022-06-09,Richmond,Port Adelaide,83.47,69.67,13.79
+2022-06-10,Essendon,Carlton,75.16,97.93,-22.77
+2022-06-11,Brisbane Lions,St Kilda,85.38,80.38,5.01
+2022-06-11,Fremantle,Hawthorn,89.74,65.64,24.10
+2022-06-12,North Melbourne,GWS Giants,66.15,99.80,-33.65
+2022-06-13,Collingwood,Melbourne,70.84,84.54,-13.69
+2022-06-16,Richmond,Carlton,93.36,86.94,6.42
+2022-06-17,St Kilda,Essendon,98.60,62.34,36.27
+2022-06-18,GWS Giants,Western Bulldogs,79.30,93.75,-14.45
+2022-06-18,Port Adelaide,Sydney Swans,69.02,78.11,-9.09
+2022-06-18,West Coast Eagles,Geelong Cats,52.33,120.50,-68.16
+2022-06-19,Gold Coast Suns,Adelaide Crows,92.61,69.53,23.08
+2022-06-23,Melbourne,Brisbane Lions,83.00,77.10,5.90
+2022-06-24,West Coast Eagles,Essendon,66.87,99.55,-32.68
+2022-06-24,Western Bulldogs,Hawthorn,99.88,81.37,18.52
+2022-06-25,Carlton,Fremantle,71.04,76.32,-5.28
+2022-06-25,Geelong Cats,Richmond,91.10,79.32,11.78
+2022-06-25,Sydney Swans,St Kilda,78.22,80.34,-2.12
+2022-06-26,Collingwood,GWS Giants,96.71,79.03,17.68
+2022-06-26,North Melbourne,Adelaide Crows,66.42,93.19,-26.77
+2022-06-26,Port Adelaide,Gold Coast Suns,68.85,71.92,-3.07
+2022-06-30,Brisbane Lions,Western Bulldogs,96.74,81.15,15.60
+2022-07-01,Carlton,St Kilda,77.72,84.14,-6.42
+2022-07-02,Adelaide Crows,Melbourne,61.31,92.67,-31.35
+2022-07-02,Essendon,Sydney Swans,71.77,98.56,-26.79
+2022-07-02,Geelong Cats,North Melbourne,116.13,50.93,65.20
+2022-07-02,Gold Coast Suns,Collingwood,84.48,80.34,4.14
+2022-07-03,Fremantle,Port Adelaide,70.89,54.80,16.09
+2022-07-03,GWS Giants,Hawthorn,91.93,91.98,-0.05
+2022-07-03,Richmond,West Coast Eagles,128.48,57.14,71.33
+2022-07-07,Geelong Cats,Melbourne,73.55,73.82,-0.28
+2022-07-08,Sydney Swans,Western Bulldogs,88.63,81.11,7.51
+2022-07-09,Collingwood,North Melbourne,111.86,58.32,53.54
+2022-07-09,Gold Coast Suns,Richmond,83.70,85.60,-1.90
+2022-07-09,Port Adelaide,GWS Giants,79.78,69.90,9.88
+2022-07-09,St Kilda,Fremantle,68.85,65.76,3.09
+2022-07-10,Brisbane Lions,Essendon,111.77,69.11,42.66
+2022-07-10,Hawthorn,Adelaide Crows,95.94,82.62,13.33
+2022-07-10,West Coast Eagles,Carlton,59.29,119.47,-60.19
+2022-07-15,Western Bulldogs,St Kilda,76.05,82.15,-6.10
+2022-07-16,Adelaide Crows,Collingwood,76.66,93.46,-16.79
+2022-07-16,Carlton,Geelong Cats,79.62,87.57,-7.94
+2022-07-16,Fremantle,Sydney Swans,75.71,68.82,6.90
+2022-07-16,GWS Giants,Brisbane Lions,77.59,105.26,-27.67
+2022-07-16,North Melbourne,Richmond,60.02,114.71,-54.69
+2022-07-17,Essendon,Gold Coast Suns,71.59,90.74,-19.15
+2022-07-17,Hawthorn,West Coast Eagles,119.15,64.58,54.57
+2022-07-17,Melbourne,Port Adelaide,77.68,56.25,21.43
+2022-07-22,Richmond,Fremantle,73.53,76.42,-2.89
+2022-07-23,Brisbane Lions,Gold Coast Suns,94.39,76.85,17.54
+2022-07-23,North Melbourne,Hawthorn,67.84,106.39,-38.55
+2022-07-23,Port Adelaide,Geelong Cats,63.81,78.28,-14.47
+2022-07-23,Sydney Swans,Adelaide Crows,100.59,69.71,30.88
+2022-07-23,Western Bulldogs,Melbourne,71.35,81.65,-10.30
+2022-07-24,Carlton,GWS Giants,99.55,78.18,21.37
+2022-07-24,Collingwood,Essendon,98.84,73.13,25.72
+2022-07-24,West Coast Eagles,St Kilda,51.09,115.79,-64.70
+2022-07-29,Adelaide Crows,Carlton,75.84,96.20,-20.36
+2022-07-29,Collingwood,Port Adelaide,78.34,70.33,8.01
+2022-07-29,Essendon,North Melbourne,95.94,65.08,30.87
+2022-07-29,Fremantle,Melbourne,64.10,65.87,-1.77
+2022-07-29,Geelong Cats,Western Bulldogs,88.82,74.98,13.83
+2022-07-29,Gold Coast Suns,West Coast Eagles,115.01,54.35,60.66
+2022-07-29,Richmond,Brisbane Lions,89.19,95.51,-6.32
+2022-07-29,St Kilda,Hawthorn,98.93,71.81,27.12
+2022-07-29,Sydney Swans,GWS Giants,100.19,74.65,25.53
+2022-08-05,Brisbane Lions,Carlton,99.09,82.94,16.16
+2022-08-05,Geelong Cats,St Kilda,78.39,74.27,4.12
+2022-08-05,GWS Giants,Essendon,91.62,79.84,11.78
+2022-08-05,Hawthorn,Gold Coast Suns,82.48,91.05,-8.57
+2022-08-05,Melbourne,Collingwood,87.83,68.19,19.64
+2022-08-05,North Melbourne,Sydney Swans,57.24,111.53,-54.30
+2022-08-05,Port Adelaide,Richmond,72.39,80.34,-7.95
+2022-08-05,West Coast Eagles,Adelaide Crows,65.69,100.45,-34.76
+2022-08-05,Western Bulldogs,Fremantle,69.51,74.51,-5.00
+2022-08-12,Adelaide Crows,North Melbourne,96.81,63.93,32.89
+2022-08-12,Essendon,Port Adelaide,67.19,78.48,-11.29
+2022-08-12,Fremantle,West Coast Eagles,109.11,44.94,64.17
+2022-08-12,Gold Coast Suns,Geelong Cats,73.78,83.41,-9.63
+2022-08-12,Melbourne,Carlton,86.89,70.19,16.70
+2022-08-12,Richmond,Hawthorn,105.66,83.46,22.21
+2022-08-12,St Kilda,Brisbane Lions,83.51,82.18,1.32
+2022-08-12,Sydney Swans,Collingwood,91.76,80.54,11.22
+2022-08-12,Western Bulldogs,GWS Giants,97.40,76.33,21.07
+2022-08-19,Brisbane Lions,Melbourne,80.11,79.89,0.22
+2022-08-19,Carlton,Collingwood,91.18,84.35,6.83
+2022-08-19,Essendon,Richmond,75.26,101.36,-26.10
+2022-08-19,Geelong Cats,West Coast Eagles,125.19,50.37,74.82
+2022-08-19,GWS Giants,Fremantle,63.97,84.23,-20.25
+2022-08-19,Hawthorn,Western Bulldogs,84.53,96.14,-11.60
+2022-08-19,North Melbourne,Gold Coast Suns,57.09,102.69,-45.60
+2022-08-19,Port Adelaide,Adelaide Crows,80.10,65.26,14.83
+2022-08-19,St Kilda,Sydney Swans,83.47,75.29,8.18
