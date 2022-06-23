@@ -1,10 +1,6 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2022-06-18 | GWS Giants        | Western Bulldogs  |  82.51 |  97.19 | -14.68
- 2022-06-18 | Port Adelaide     | Sydney Swans      |  71.12 |  75.81 |  -4.69
- 2022-06-18 | West Coast Eagles | Geelong Cats      |  53.35 | 113.86 | -60.50
- 2022-06-19 | Gold Coast Suns   | Adelaide Crows    |  92.56 |  69.95 |  22.61
  2022-06-23 | Melbourne         | Brisbane Lions    |  81.22 |  78.40 |   2.82
  2022-06-24 | West Coast Eagles | Essendon          |  65.49 |  98.80 | -33.31
  2022-06-24 | Western Bulldogs  | Hawthorn          | 101.73 |  82.66 |  19.07
@@ -86,7 +82,7 @@ BEGIN
  2022-08-19 | North Melbourne   | Gold Coast Suns   |  56.28 | 102.84 | -46.56
  2022-08-19 | Port Adelaide     | Adelaide Crows    |  81.31 |  64.28 |  17.03
  2022-08-19 | St Kilda          | Sydney Swans      |  81.08 |  77.66 |   3.42
-(85 rows)
+(81 rows)
 
-COPY 85
+COPY 81
 COMMIT
