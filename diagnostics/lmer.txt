@@ -1,18 +1,18 @@
-[1] 300   7
-[1] 600   7
+[1] 306   7
+[1] 612   7
 [1] TRUE
-[1] 600   5
-start par. =  1 1 1 fn =  11382.87 
+[1] 612   5
+start par. =  1 1 1 fn =  11639.16 
 At return
-eval: 182 fn:      10937.874 par: 0.165533 0.139106 0.124416
-(NM) 20: f = 10937.9 at  0.165533  0.139106  0.124416   4.35591 0.0636397
-(NM) 40: f = 10937.9 at  0.165533  0.139106  0.124416   4.35591 0.0636397
-(NM) 60: f = 10937.9 at  0.165533  0.139106  0.124416   4.35591 0.0636397
-(NM) 80: f = 10937.9 at  0.165528  0.139126  0.124245   4.35504 0.0636229
-(NM) 100: f = 10937.9 at  0.165511  0.139056  0.124378   4.35503 0.0636444
-(NM) 120: f = 10937.9 at  0.165522  0.139088  0.124419   4.35507 0.0636488
-(NM) 140: f = 10937.9 at  0.165528    0.1391  0.124413   4.35507 0.0636471
-(NM) 160: f = 10937.9 at  0.165534  0.139103   0.12442   4.35508 0.0636495
+eval: 174 fn:      11183.238 par: 0.163995 0.136879 0.123070
+(NM) 20: f = 11183.2 at 0.163995 0.136879  0.12307  4.35508 0.066759
+(NM) 40: f = 11183.2 at 0.163995 0.136879  0.12307  4.35508 0.066759
+(NM) 60: f = 11183.2 at 0.163995 0.136879  0.12307  4.35508 0.066759
+(NM) 80: f = 11183.2 at  0.163967  0.136893  0.123231   4.35404 0.0668266
+(NM) 100: f = 11183.2 at  0.164014  0.136887  0.123091   4.35419 0.0667651
+(NM) 120: f = 11183.2 at  0.163986  0.136876  0.123074   4.35421 0.0667754
+(NM) 140: f = 11183.2 at  0.163998  0.136875  0.123075   4.35424 0.0667697
+(NM) 160: f = 11183.2 at  0.163996  0.136874  0.123068   4.35425 0.0667697
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: poisson  ( log )
@@ -20,16 +20,16 @@ Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
    Data: g
 Weights: w
       AIC       BIC    logLik  deviance  df.resid 
-10947.874 10969.859 -5468.937 10937.874       595 
+11193.238 11215.322 -5591.619 11183.238       607 
 Random effects:
  Groups  Name        Std.Dev.
- game_id (Intercept) 0.1655  
- defense (Intercept) 0.1391  
- offense (Intercept) 0.1244  
-Number of obs: 600, groups:  game_id, 150; defense, 18; offense, 18
+ game_id (Intercept) 0.1640  
+ defense (Intercept) 0.1369  
+ offense (Intercept) 0.1231  
+Number of obs: 612, groups:  game_id, 153; defense, 18; offense, 18
 Fixed Effects:
       (Intercept)  fieldoffense_home  
-          4.35507            0.06365  
+          4.35425            0.06677  
 Generalized linear mixed model fit by maximum likelihood (Laplace
   Approximation) [glmerMod]
  Family: poisson  ( log )
@@ -38,27 +38,27 @@ Formula: gs ~ field + (1 | offense) + (1 | defense) + (1 | game_id)
 Weights: w
 
      AIC      BIC   logLik deviance df.resid 
- 10947.9  10969.9  -5468.9  10937.9      595 
+ 11193.2  11215.3  -5591.6  11183.2      607 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--5.8733 -1.6006 -0.0586  1.4849  6.7292 
+-5.9678 -1.5983 -0.0238  1.5064  6.8936 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- game_id (Intercept) 0.02740  0.1655  
- defense (Intercept) 0.01935  0.1391  
- offense (Intercept) 0.01548  0.1244  
-Number of obs: 600, groups:  game_id, 150; defense, 18; offense, 18
+ game_id (Intercept) 0.02689  0.1640  
+ defense (Intercept) 0.01874  0.1369  
+ offense (Intercept) 0.01515  0.1231  
+Number of obs: 612, groups:  game_id, 153; defense, 18; offense, 18
 
 Fixed effects:
                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)       4.355073   0.046258  94.147   <2e-16 ***
-fieldoffense_home 0.063648   0.006473   9.833   <2e-16 ***
+(Intercept)       4.354246   0.045602   95.48   <2e-16 ***
+fieldoffense_home 0.066769   0.006403   10.43   <2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Correlation of Fixed Effects:
             (Intr)
-fildffns_hm -0.072
+fildffns_hm -0.073
 [1] TRUE
