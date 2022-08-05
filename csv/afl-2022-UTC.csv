@@ -162,14 +162,14 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 156,19,24/07/2022 05:20,MCG,Collingwood,Essendon,80 - 76
 162,19,24/07/2022 06:40,Optus Stadium,West Coast Eagles,St Kilda,62 - 90
 171,20,29/07/2022 10:10,Optus Stadium,Fremantle,Melbourne,39 - 85
-163,20,30/07/2022 03:45,MCG,Collingwood,Port Adelaide,
-169,20,30/07/2022 04:10,SCG,Sydney Swans,GWS Giants,
-168,20,30/07/2022 06:35,Marvel Stadium,St Kilda,Hawthorn,
-165,20,30/07/2022 09:25,GMHBA Stadium,Geelong Cats,Western Bulldogs,
-170,20,30/07/2022 09:30,Adelaide Oval,Adelaide Crows,Carlton,
-166,20,31/07/2022 03:10,Metricon Stadium,Gold Coast Suns,West Coast Eagles,
-167,20,31/07/2022 05:20,MCG,Richmond,Brisbane Lions,
-164,20,31/07/2022 06:40,Marvel Stadium,Essendon,North Melbourne,
+163,20,30/07/2022 03:45,MCG,Collingwood,Port Adelaide,88 - 82
+169,20,30/07/2022 04:10,SCG,Sydney Swans,GWS Giants,112 - 39
+168,20,30/07/2022 06:35,Marvel Stadium,St Kilda,Hawthorn,75 - 63
+165,20,30/07/2022 09:25,GMHBA Stadium,Geelong Cats,Western Bulldogs,94 - 66
+170,20,30/07/2022 09:30,Adelaide Oval,Adelaide Crows,Carlton,84 - 55
+166,20,31/07/2022 03:10,Metricon Stadium,Gold Coast Suns,West Coast Eagles,107 - 104
+167,20,31/07/2022 05:20,MCG,Richmond,Brisbane Lions,104 - 97
+164,20,31/07/2022 06:40,Marvel Stadium,Essendon,North Melbourne,114 - 66
 176,21,05/08/2022 09:50,MCG,Melbourne,Collingwood,
 175,21,06/08/2022 03:45,University of Tasmania Stadium,Hawthorn,Gold Coast Suns,
 174,21,06/08/2022 04:10,GIANTS Stadium,GWS Giants,Essendon,
@@ -188,15 +188,15 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 184,22,14/08/2022 03:10,MCG,Richmond,Hawthorn,
 186,22,14/08/2022 05:20,SCG,Sydney Swans,Collingwood,
 181,22,14/08/2022 06:40,Marvel Stadium,Essendon,Port Adelaide,
-190,23,19/08/2022 02:00,Gabba,Brisbane Lions,Melbourne,
-191,23,19/08/2022 02:00,MCG,Carlton,Collingwood,
-192,23,19/08/2022 02:00,MCG,Essendon,Richmond,
-193,23,19/08/2022 02:00,GMHBA Stadium,Geelong Cats,West Coast Eagles,
-194,23,19/08/2022 02:00,Manuka Oval,GWS Giants,Fremantle,
-195,23,19/08/2022 02:00,University of Tasmania Stadium,Hawthorn,Western Bulldogs,
-196,23,19/08/2022 02:00,Marvel Stadium,North Melbourne,Gold Coast Suns,
-197,23,19/08/2022 02:00,Marvel Stadium,St Kilda,Sydney Swans,
-198,23,19/08/2022 02:30,Adelaide Oval,Port Adelaide,Adelaide Crows,
+190,23,19/08/2022 09:50,Gabba,Brisbane Lions,Melbourne,
+194,23,20/08/2022 03:45,Manuka Oval,GWS Giants,Fremantle,
+196,23,20/08/2022 04:10,Marvel Stadium,North Melbourne,Gold Coast Suns,
+193,23,20/08/2022 06:35,GMHBA Stadium,Geelong Cats,West Coast Eagles,
+192,23,20/08/2022 09:25,MCG,Essendon,Richmond,
+198,23,20/08/2022 09:30,Adelaide Oval,Port Adelaide,Adelaide Crows,
+195,23,21/08/2022 03:10,University of Tasmania Stadium,Hawthorn,Western Bulldogs,
+191,23,21/08/2022 05:20,MCG,Carlton,Collingwood,
+197,23,21/08/2022 06:40,Marvel Stadium,St Kilda,Sydney Swans,
 199,Finals W1,26/08/2022 00:00,TBA,To be announced,To be announced,
 200,Finals W1,27/08/2022 00:00,TBA,To be announced,To be announced,
 201,Finals W1,27/08/2022 00:00,TBA,To be announced,To be announced,
