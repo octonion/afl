@@ -1,11 +1,10 @@
 BEGIN
-    date    |      home      |       away       | e_home | e_away |  e_d  
-------------+----------------+------------------+--------+--------+-------
- 2022-09-01 | Brisbane Lions | Richmond         |  97.41 |  91.30 |  6.10
- 2022-09-02 | Melbourne      | Sydney Swans     |  82.00 |  71.92 | 10.08
- 2022-09-03 | Fremantle      | Western Bulldogs |  79.45 |  71.75 |  7.71
- 2022-09-03 | Geelong Cats   | Collingwood      |  93.88 |  67.66 | 26.22
-(4 rows)
+    date    |     home     |       away       | e_home | e_away |  e_d  
+------------+--------------+------------------+--------+--------+-------
+ 2022-09-02 | Melbourne    | Sydney Swans     |  80.85 |  73.42 |  7.43
+ 2022-09-03 | Fremantle    | Western Bulldogs |  79.36 |  71.81 |  7.55
+ 2022-09-03 | Geelong Cats | Collingwood      |  93.85 |  67.70 | 26.16
+(3 rows)
 
-COPY 4
+COPY 3
 COMMIT
