@@ -1,9 +1,8 @@
 BEGIN
-    date    |     home     |      away      | e_home | e_away |  e_d  
-------------+--------------+----------------+--------+--------+-------
- 2022-09-16 | Geelong Cats | Brisbane Lions |  97.30 |  76.92 | 20.39
- 2022-09-17 | Sydney Swans | Collingwood    |  89.31 |  72.73 | 16.58
-(2 rows)
+    date    |     home     |     away     | e_home | e_away |  e_d  
+------------+--------------+--------------+--------+--------+-------
+ 2022-09-24 | Geelong Cats | Sydney Swans |  88.33 |  73.52 | 14.81
+(1 row)
 
-COPY 2
+COPY 1
 COMMIT
