@@ -1,7 +1,6 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2023-04-13 | Adelaide Crows    | Carlton           |  86.85 |  81.19 |   5.66
  2023-04-14 | Fremantle         | Gold Coast Suns   |  80.10 |  67.58 |  12.52
  2023-04-14 | Richmond          | Sydney Swans      |  86.18 |  84.91 |   1.27
  2023-04-15 | Brisbane Lions    | North Melbourne   | 121.72 |  63.17 |  58.55
@@ -172,7 +171,7 @@ BEGIN
  2023-08-25 | Port Adelaide     | Richmond          |  82.05 |  80.37 |   1.67
  2023-08-25 | Sydney Swans      | Melbourne         |  80.11 |  79.44 |   0.68
  2023-08-25 | West Coast Eagles | Adelaide Crows    |  76.17 | 104.02 | -27.85
-(171 rows)
+(170 rows)
 
-COPY 171
+COPY 170
 COMMIT
