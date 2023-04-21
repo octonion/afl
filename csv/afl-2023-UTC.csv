@@ -41,9 +41,9 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 40,5,15/04/2023 03:10,Adelaide Hills,Brisbane Lions,North Melbourne,152 - 77
 41,5,15/04/2023 06:10,Adelaide Oval,Essendon,Melbourne,104 - 77
 42,5,15/04/2023 09:50,Adelaide Oval,Port Adelaide,Western Bulldogs,70 - 56
-43,5,16/04/2023 03:10,Adelaide Oval,Geelong Cats,West Coast Eagles,
-44,5,16/04/2023 05:20,Norwood Oval,GWS Giants,Hawthorn,
-45,5,16/04/2023 06:50,Adelaide Oval,Collingwood,St Kilda,
+43,5,16/04/2023 03:10,Adelaide Oval,Geelong Cats,West Coast Eagles,136 - 89
+44,5,16/04/2023 05:20,Norwood Oval,GWS Giants,Hawthorn,77 - 75
+45,5,16/04/2023 06:50,Adelaide Oval,Collingwood,St Kilda,70 - 64
 46,6,21/04/2023 10:10,Optus Stadium,Fremantle,Western Bulldogs,
 47,6,22/04/2023 03:45,Adelaide Oval,Port Adelaide,West Coast Eagles,
 48,6,22/04/2023 06:35,Manuka Oval,GWS Giants,Brisbane Lions,
@@ -51,7 +51,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 50,6,23/04/2023 03:10,University of Tasmania Stadium,Hawthorn,Adelaide Crows,
 51,6,23/04/2023 05:20,Marvel Stadium,Carlton,St Kilda,
 52,6,23/04/2023 06:40,Heritage Bank Stadium,Gold Coast Suns,North Melbourne,
-53,6,24/04/2023 09:20,MCG,Melbourne,Richmond,
+53,6,24/04/2023 09:25,MCG,Melbourne,Richmond,
 54,6,25/04/2023 05:20,MCG,Collingwood,Essendon,
 55,7,28/04/2023 09:50,Marvel Stadium,St Kilda,Port Adelaide,
 56,7,29/04/2023 03:45,Gabba,Brisbane Lions,Fremantle,
