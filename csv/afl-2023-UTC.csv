@@ -94,7 +94,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 93,11,27/05/2023 04:10,MCG,Melbourne,Fremantle,72 - 79
 94,11,27/05/2023 06:35,GMHBA Stadium,Geelong Cats,GWS Giants,74 - 81
 95,11,27/05/2023 09:25,TIO Stadium,Gold Coast Suns,Western Bulldogs,84 - 77
-96,11,27/05/2023 09:30,Optus Stadium,West Coast Eagles,Essendon,46 - 96
+96,11,27/05/2023 09:40,Optus Stadium,West Coast Eagles,Essendon,46 - 96
 97,11,28/05/2023 03:10,MCG,Richmond,Port Adelaide,67 - 77
 98,11,28/05/2023 05:20,Marvel Stadium,Collingwood,North Melbourne,105 - 70
 99,11,28/05/2023 06:40,Adelaide Oval,Adelaide Crows,Brisbane Lions,95 - 78
@@ -103,8 +103,8 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 102,12,03/06/2023 06:35,Optus Stadium,West Coast Eagles,Collingwood,57 - 120
 103,12,03/06/2023 09:25,Marvel Stadium,Western Bulldogs,Geelong Cats,75 - 97
 104,12,03/06/2023 09:30,TIO Stadium,Gold Coast Suns,Adelaide Crows,112 - 87
-105,12,04/06/2023 03:10,GIANTS Stadium,GWS Giants,Richmond,
-106,12,04/06/2023 06:40,Marvel Stadium,Essendon,North Melbourne,
+105,12,04/06/2023 03:10,GIANTS Stadium,GWS Giants,Richmond,104 - 110
+106,12,04/06/2023 06:40,Marvel Stadium,Essendon,North Melbourne,105 - 99
 107,13,08/06/2023 09:10,SCG,Sydney Swans,St Kilda,
 108,13,09/06/2023 09:50,Marvel Stadium,Western Bulldogs,Port Adelaide,
 109,13,10/06/2023 03:45,MCG,Hawthorn,Brisbane Lions,
