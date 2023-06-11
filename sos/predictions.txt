@@ -1,107 +1,106 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2023-06-09 | Western Bulldogs  | Port Adelaide     |  82.41 |  81.08 |   1.33
- 2023-06-10 | Adelaide Crows    | West Coast Eagles | 125.76 |  59.84 |  65.92
- 2023-06-10 | Fremantle         | Richmond          |  82.90 |  76.34 |   6.56
- 2023-06-10 | Hawthorn          | Brisbane Lions    |  69.47 | 103.58 | -34.11
- 2023-06-11 | Carlton           | Essendon          |  78.00 |  78.68 |  -0.68
- 2023-06-11 | North Melbourne   | GWS Giants        |  82.85 |  92.52 |  -9.67
- 2023-06-12 | Melbourne         | Collingwood       |  80.63 |  78.08 |   2.55
- 2023-06-15 | Port Adelaide     | Geelong Cats      |  97.11 |  88.13 |   8.98
- 2023-06-16 | Brisbane Lions    | Sydney Swans      | 100.58 |  74.26 |  26.32
- 2023-06-17 | GWS Giants        | Fremantle         |  85.81 |  88.29 |  -2.48
- 2023-06-17 | Richmond          | St Kilda          |  70.09 |  75.12 |  -5.03
- 2023-06-18 | Carlton           | Gold Coast Suns   |  77.19 |  74.20 |   2.99
- 2023-06-18 | North Melbourne   | Western Bulldogs  |  67.97 |  91.54 | -23.57
- 2023-06-22 | Geelong Cats      | Melbourne         |  88.18 |  89.20 |  -1.02
- 2023-06-23 | St Kilda          | Brisbane Lions    |  79.28 |  78.10 |   1.19
- 2023-06-24 | Fremantle         | Essendon          |  85.96 |  84.17 |   1.79
- 2023-06-24 | Sydney Swans      | West Coast Eagles | 117.77 |  60.81 |  56.96
- 2023-06-25 | Collingwood       | Adelaide Crows    |  93.53 |  71.07 |  22.46
- 2023-06-25 | Gold Coast Suns   | Hawthorn          |  96.65 |  67.55 |  29.10
- 2023-06-29 | Brisbane Lions    | Richmond          |  95.95 |  70.09 |  25.86
- 2023-06-30 | Sydney Swans      | Geelong Cats      |  87.57 |  90.28 |  -2.72
- 2023-07-01 | Adelaide Crows    | North Melbourne   | 110.73 |  67.48 |  43.25
- 2023-07-01 | Essendon          | Port Adelaide     |  89.09 |  88.24 |   0.85
- 2023-07-01 | Gold Coast Suns   | Collingwood       |  71.22 |  85.34 | -14.11
- 2023-07-01 | Western Bulldogs  | Fremantle         |  84.90 |  72.43 |  12.47
- 2023-07-02 | Hawthorn          | Carlton           |  70.73 |  81.20 | -10.47
- 2023-07-02 | Melbourne         | GWS Giants        | 107.94 |  70.08 |  37.86
- 2023-07-02 | West Coast Eagles | St Kilda          |  56.15 | 105.74 | -49.60
- 2023-07-06 | Richmond          | Sydney Swans      |  82.78 |  76.73 |   6.05
- 2023-07-07 | Western Bulldogs  | Collingwood       |  69.87 |  79.23 |  -9.36
- 2023-07-08 | Brisbane Lions    | West Coast Eagles | 135.06 |  56.15 |  78.91
- 2023-07-08 | GWS Giants        | Hawthorn          |  95.82 |  76.44 |  19.38
- 2023-07-08 | Port Adelaide     | Gold Coast Suns   |  95.22 |  77.04 |  18.18
- 2023-07-08 | St Kilda          | Melbourne         |  76.91 |  75.65 |   1.26
- 2023-07-09 | Essendon          | Adelaide Crows    |  89.81 |  84.96 |   4.85
- 2023-07-09 | Fremantle         | Carlton           |  81.69 |  72.71 |   8.98
- 2023-07-09 | Geelong Cats      | North Melbourne   | 116.41 |  68.47 |  47.94
- 2023-07-13 | Sydney Swans      | Western Bulldogs  |  79.72 |  77.42 |   2.30
- 2023-07-14 | Melbourne         | Brisbane Lions    |  89.96 |  82.61 |   7.34
- 2023-07-15 | Adelaide Crows    | GWS Giants        | 103.76 |  76.99 |  26.76
- 2023-07-15 | Carlton           | Port Adelaide     |  76.96 |  83.86 |  -6.89
- 2023-07-15 | Collingwood       | Fremantle         |  95.59 |  65.95 |  29.65
- 2023-07-15 | Geelong Cats      | Essendon          |  97.40 |  83.56 |  13.83
- 2023-07-15 | Gold Coast Suns   | St Kilda          |  72.87 |  77.09 |  -4.22
- 2023-07-16 | North Melbourne   | Hawthorn          |  83.98 |  81.58 |   2.40
- 2023-07-16 | West Coast Eagles | Richmond          |  63.26 | 101.94 | -38.68
- 2023-07-21 | Essendon          | Western Bulldogs  |  82.96 |  76.59 |   6.37
- 2023-07-22 | Brisbane Lions    | Geelong Cats      | 100.42 |  83.36 |  17.06
- 2023-07-22 | Carlton           | West Coast Eagles | 105.88 |  57.17 |  48.71
- 2023-07-22 | Fremantle         | Sydney Swans      |  86.89 |  80.88 |   6.01
- 2023-07-22 | Port Adelaide     | Collingwood       |  80.49 |  85.09 |  -4.59
- 2023-07-22 | Richmond          | Hawthorn          |  92.96 |  65.82 |  27.14
- 2023-07-23 | GWS Giants        | Gold Coast Suns   |  83.53 |  87.44 |  -3.91
- 2023-07-23 | Melbourne         | Adelaide Crows    |  95.87 |  76.92 |  18.94
- 2023-07-23 | St Kilda          | North Melbourne   | 101.53 |  58.07 |  43.47
- 2023-07-28 | Collingwood       | Carlton           |  89.36 |  59.84 |  29.52
- 2023-07-29 | Adelaide Crows    | Port Adelaide     |  91.41 |  87.77 |   3.64
- 2023-07-29 | Essendon          | Sydney Swans      |  91.27 |  79.57 |  11.70
- 2023-07-29 | Geelong Cats      | Fremantle         |  99.01 |  79.56 |  19.45
- 2023-07-29 | Gold Coast Suns   | Brisbane Lions    |  79.47 |  90.30 | -10.83
- 2023-07-29 | Western Bulldogs  | GWS Giants        |  93.54 |  71.12 |  22.42
- 2023-07-30 | Hawthorn          | St Kilda          |  63.70 |  88.43 | -24.73
- 2023-07-30 | Richmond          | Melbourne         |  74.15 |  85.23 | -11.09
- 2023-07-30 | West Coast Eagles | North Melbourne   |  78.41 |  92.09 | -13.68
- 2023-08-04 | Western Bulldogs  | Richmond          |  80.54 |  69.00 |  11.54
- 2023-08-05 | Adelaide Crows    | Gold Coast Suns   |  91.68 |  77.66 |  14.02
- 2023-08-05 | Essendon          | West Coast Eagles | 122.56 |  60.16 |  62.40
- 2023-08-05 | Geelong Cats      | Port Adelaide     |  96.10 |  89.06 |   7.04
- 2023-08-05 | GWS Giants        | Sydney Swans      |  85.32 |  89.11 |  -3.79
- 2023-08-05 | Hawthorn          | Collingwood       |  62.26 |  97.89 | -35.63
- 2023-08-06 | Fremantle         | Brisbane Lions    |  80.23 |  92.76 | -12.53
- 2023-08-06 | North Melbourne   | Melbourne         |  66.98 | 105.64 | -38.66
- 2023-08-06 | St Kilda          | Carlton           |  80.73 |  61.22 |  19.50
- 2023-08-11 | Collingwood       | Geelong Cats      |  94.90 |  74.72 |  20.19
- 2023-08-12 | Brisbane Lions    | Adelaide Crows    |  98.97 |  79.30 |  19.67
- 2023-08-12 | Carlton           | Melbourne         |  70.62 |  83.99 | -13.37
- 2023-08-12 | North Melbourne   | Essendon          |  73.98 |  98.96 | -24.98
- 2023-08-12 | Sydney Swans      | Gold Coast Suns   |  85.86 |  78.92 |   6.94
- 2023-08-12 | West Coast Eagles | Fremantle         |  66.68 | 107.01 | -40.32
- 2023-08-13 | Hawthorn          | Western Bulldogs  |  68.39 |  86.94 | -18.56
- 2023-08-13 | Port Adelaide     | GWS Giants        | 107.76 |  76.38 |  31.39
- 2023-08-13 | St Kilda          | Richmond          |  81.92 |  64.28 |  17.64
- 2023-08-18 | Collingwood       | Brisbane Lions    |  87.77 |  76.33 |  11.43
- 2023-08-19 | Adelaide Crows    | Sydney Swans      |  93.65 |  79.14 |  14.51
- 2023-08-19 | Gold Coast Suns   | Carlton           |  80.91 |  70.79 |  10.12
- 2023-08-19 | GWS Giants        | Essendon          |  84.41 |  92.73 |  -8.32
- 2023-08-19 | Richmond          | North Melbourne   |  97.88 |  65.42 |  32.46
- 2023-08-19 | St Kilda          | Geelong Cats      |  85.73 |  76.45 |   9.29
- 2023-08-20 | Fremantle         | Port Adelaide     |  84.82 |  89.70 |  -4.88
- 2023-08-20 | Melbourne         | Hawthorn          | 109.41 |  61.80 |  47.61
- 2023-08-20 | Western Bulldogs  | West Coast Eagles | 113.37 |  55.27 |  58.10
- 2023-08-25 | Brisbane Lions    | St Kilda          |  85.16 |  72.71 |  12.45
- 2023-08-25 | Carlton           | GWS Giants        |  87.36 |  73.56 |  13.80
- 2023-08-25 | Essendon          | Collingwood       |  75.53 |  86.23 | -10.70
- 2023-08-25 | Geelong Cats      | Western Bulldogs  |  89.49 |  77.30 |  12.19
- 2023-08-25 | Hawthorn          | Fremantle         |  75.66 |  89.49 | -13.83
- 2023-08-25 | North Melbourne   | Gold Coast Suns   |  73.21 |  93.32 | -20.11
- 2023-08-25 | Port Adelaide     | Richmond          |  92.79 |  74.10 |  18.69
- 2023-08-25 | Sydney Swans      | Melbourne         |  78.56 |  89.34 | -10.79
- 2023-08-25 | West Coast Eagles | Adelaide Crows    |  65.25 | 115.32 | -50.07
-(100 rows)
+ 2023-06-10 | Adelaide Crows    | West Coast Eagles | 133.36 |  58.93 |  74.43
+ 2023-06-10 | Fremantle         | Richmond          |  81.22 |  77.03 |   4.20
+ 2023-06-10 | Hawthorn          | Brisbane Lions    |  73.42 |  98.34 | -24.92
+ 2023-06-11 | Carlton           | Essendon          |  78.25 |  78.22 |   0.03
+ 2023-06-11 | North Melbourne   | GWS Giants        |  83.15 |  92.42 |  -9.27
+ 2023-06-12 | Melbourne         | Collingwood       |  80.76 |  77.41 |   3.35
+ 2023-06-15 | Port Adelaide     | Geelong Cats      |  97.24 |  87.55 |   9.70
+ 2023-06-16 | Brisbane Lions    | Sydney Swans      |  98.58 |  76.04 |  22.53
+ 2023-06-17 | GWS Giants        | Fremantle         |  86.85 |  86.75 |   0.09
+ 2023-06-17 | Richmond          | St Kilda          |  70.50 |  74.03 |  -3.53
+ 2023-06-18 | Carlton           | Gold Coast Suns   |  77.46 |  73.61 |   3.85
+ 2023-06-18 | North Melbourne   | Western Bulldogs  |  68.11 |  91.60 | -23.50
+ 2023-06-22 | Geelong Cats      | Melbourne         |  88.64 |  88.34 |   0.30
+ 2023-06-23 | St Kilda          | Brisbane Lions    |  81.90 |  75.51 |   6.39
+ 2023-06-24 | Fremantle         | Essendon          |  85.30 |  84.35 |   0.95
+ 2023-06-24 | Sydney Swans      | West Coast Eagles | 121.83 |  60.19 |  61.63
+ 2023-06-25 | Collingwood       | Adelaide Crows    |  93.02 |  72.70 |  20.32
+ 2023-06-25 | Gold Coast Suns   | Hawthorn          |  94.62 |  68.98 |  25.63
+ 2023-06-29 | Brisbane Lions    | Richmond          |  92.95 |  72.03 |  20.93
+ 2023-06-30 | Sydney Swans      | Geelong Cats      |  87.99 |  89.82 |  -1.84
+ 2023-07-01 | Adelaide Crows    | North Melbourne   | 114.74 |  66.74 |  48.01
+ 2023-07-01 | Essendon          | Port Adelaide     |  89.26 |  87.80 |   1.46
+ 2023-07-01 | Gold Coast Suns   | Collingwood       |  71.34 |  84.62 | -13.28
+ 2023-07-01 | Western Bulldogs  | Fremantle         |  86.08 |  71.06 |  15.03
+ 2023-07-02 | Hawthorn          | Carlton           |  72.81 |  78.83 |  -6.03
+ 2023-07-02 | Melbourne         | GWS Giants        | 108.13 |  69.80 |  38.33
+ 2023-07-02 | West Coast Eagles | St Kilda          |  55.85 | 108.33 | -52.48
+ 2023-07-06 | Richmond          | Sydney Swans      |  83.63 |  75.65 |   7.98
+ 2023-07-07 | Western Bulldogs  | Collingwood       |  70.30 |  78.38 |  -8.08
+ 2023-07-08 | Brisbane Lions    | West Coast Eagles | 136.02 |  57.06 |  78.97
+ 2023-07-08 | GWS Giants        | Hawthorn          |  94.06 |  78.01 |  16.06
+ 2023-07-08 | Port Adelaide     | Gold Coast Suns   |  95.65 |  76.32 |  19.33
+ 2023-07-08 | St Kilda          | Melbourne         |  77.47 |  74.73 |   2.74
+ 2023-07-09 | Essendon          | Adelaide Crows    |  89.66 |  86.96 |   2.69
+ 2023-07-09 | Fremantle         | Carlton           |  80.97 |  72.79 |   8.18
+ 2023-07-09 | Geelong Cats      | North Melbourne   | 117.36 |  67.93 |  49.43
+ 2023-07-13 | Sydney Swans      | Western Bulldogs  |  80.15 |  77.16 |   2.99
+ 2023-07-14 | Melbourne         | Brisbane Lions    |  92.48 |  80.32 |  12.16
+ 2023-07-15 | Adelaide Crows    | GWS Giants        | 107.13 |  76.22 |  30.91
+ 2023-07-15 | Carlton           | Port Adelaide     |  77.02 |  83.34 |  -6.32
+ 2023-07-15 | Collingwood       | Fremantle         |  96.32 |  64.79 |  31.52
+ 2023-07-15 | Geelong Cats      | Essendon          |  97.89 |  82.93 |  14.96
+ 2023-07-15 | Gold Coast Suns   | St Kilda          |  72.65 |  76.95 |  -4.30
+ 2023-07-16 | North Melbourne   | Hawthorn          |  82.37 |  83.55 |  -1.18
+ 2023-07-16 | West Coast Eagles | Richmond          |  62.46 | 104.85 | -42.38
+ 2023-07-21 | Essendon          | Western Bulldogs  |  83.14 |  76.41 |   6.73
+ 2023-07-22 | Brisbane Lions    | Geelong Cats      |  98.24 |  85.14 |  13.10
+ 2023-07-22 | Carlton           | West Coast Eagles | 109.04 |  56.58 |  52.46
+ 2023-07-22 | Fremantle         | Sydney Swans      |  86.14 |  81.32 |   4.82
+ 2023-07-22 | Port Adelaide     | Collingwood       |  80.78 |  84.14 |  -3.37
+ 2023-07-22 | Richmond          | Hawthorn          |  91.81 |  66.36 |  25.45
+ 2023-07-23 | GWS Giants        | Gold Coast Suns   |  83.98 |  86.79 |  -2.81
+ 2023-07-23 | Melbourne         | Adelaide Crows    |  95.51 |  78.75 |  16.77
+ 2023-07-23 | St Kilda          | North Melbourne   | 102.57 |  57.47 |  45.11
+ 2023-07-28 | Collingwood       | Carlton           |  89.31 |  59.44 |  29.87
+ 2023-07-29 | Adelaide Crows    | Port Adelaide     |  94.20 |  86.80 |   7.40
+ 2023-07-29 | Essendon          | Sydney Swans      |  91.58 |  79.44 |  12.14
+ 2023-07-29 | Geelong Cats      | Fremantle         | 100.21 |  78.00 |  22.21
+ 2023-07-29 | Gold Coast Suns   | Brisbane Lions    |  81.69 |  87.80 |  -6.11
+ 2023-07-29 | Western Bulldogs  | GWS Giants        |  94.12 |  70.67 |  23.45
+ 2023-07-30 | Hawthorn          | St Kilda          |  65.30 |  86.20 | -20.90
+ 2023-07-30 | Richmond          | Melbourne         |  74.98 |  83.59 |  -8.60
+ 2023-07-30 | West Coast Eagles | North Melbourne   |  78.65 |  94.06 | -15.41
+ 2023-08-04 | Western Bulldogs  | Richmond          |  80.07 |  68.98 |  11.09
+ 2023-08-05 | Adelaide Crows    | Gold Coast Suns   |  94.74 |  76.66 |  18.08
+ 2023-08-05 | Essendon          | West Coast Eagles | 126.36 |  59.61 |  66.76
+ 2023-08-05 | Geelong Cats      | Port Adelaide     |  96.35 |  88.36 |   7.99
+ 2023-08-05 | GWS Giants        | Sydney Swans      |  85.68 |  88.92 |  -3.24
+ 2023-08-05 | Hawthorn          | Collingwood       |  64.12 |  94.79 | -30.67
+ 2023-08-06 | Fremantle         | Brisbane Lions    |  81.65 |  90.80 |  -9.15
+ 2023-08-06 | North Melbourne   | Melbourne         |  67.27 | 105.24 | -37.97
+ 2023-08-06 | St Kilda          | Carlton           |  81.22 |  60.53 |  20.68
+ 2023-08-11 | Collingwood       | Geelong Cats      |  94.69 |  74.36 |  20.33
+ 2023-08-12 | Brisbane Lions    | Adelaide Crows    |  96.51 |  83.25 |  13.27
+ 2023-08-12 | Carlton           | Melbourne         |  70.86 |  83.33 | -12.47
+ 2023-08-12 | North Melbourne   | Essendon          |  74.29 |  98.79 | -24.50
+ 2023-08-12 | Sydney Swans      | Gold Coast Suns   |  86.54 |  78.31 |   8.24
+ 2023-08-12 | West Coast Eagles | Fremantle         |  67.15 | 108.00 | -40.85
+ 2023-08-13 | Hawthorn          | Western Bulldogs  |  70.32 |  84.72 | -14.40
+ 2023-08-13 | Port Adelaide     | GWS Giants        | 108.16 |  75.87 |  32.28
+ 2023-08-13 | St Kilda          | Richmond          |  81.47 |  64.06 |  17.41
+ 2023-08-18 | Collingwood       | Brisbane Lions    |  90.06 |  74.15 |  15.91
+ 2023-08-19 | Adelaide Crows    | Sydney Swans      |  96.65 |  78.54 |  18.11
+ 2023-08-19 | Gold Coast Suns   | Carlton           |  81.01 |  70.38 |  10.63
+ 2023-08-19 | GWS Giants        | Essendon          |  84.84 |  92.23 |  -7.39
+ 2023-08-19 | Richmond          | North Melbourne   |  99.28 |  64.28 |  35.00
+ 2023-08-19 | St Kilda          | Geelong Cats      |  86.11 |  75.73 |  10.38
+ 2023-08-20 | Fremantle         | Port Adelaide     |  83.96 |  89.88 |  -5.92
+ 2023-08-20 | Melbourne         | Hawthorn          | 107.11 |  63.11 |  44.01
+ 2023-08-20 | Western Bulldogs  | West Coast Eagles | 117.18 |  54.65 |  62.53
+ 2023-08-25 | Brisbane Lions    | St Kilda          |  83.11 |  74.42 |   8.69
+ 2023-08-25 | Carlton           | GWS Giants        |  87.59 |  73.18 |  14.41
+ 2023-08-25 | Essendon          | Collingwood       |  75.81 |  85.49 |  -9.68
+ 2023-08-25 | Geelong Cats      | Western Bulldogs  |  89.74 |  76.90 |  12.85
+ 2023-08-25 | Hawthorn          | Fremantle         |  78.51 |  85.93 |  -7.42
+ 2023-08-25 | North Melbourne   | Gold Coast Suns   |  73.54 |  92.96 | -19.43
+ 2023-08-25 | Port Adelaide     | Richmond          |  92.01 |  74.06 |  17.95
+ 2023-08-25 | Sydney Swans      | Melbourne         |  79.17 |  88.65 |  -9.48
+ 2023-08-25 | West Coast Eagles | Adelaide Crows    |  64.86 | 121.18 | -56.32
+(99 rows)
 
-COPY 100
+COPY 99
 COMMIT
