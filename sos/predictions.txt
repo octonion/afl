@@ -1,7 +1,6 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2023-07-13 | Sydney Swans      | Western Bulldogs  |  84.54 |  75.59 |   8.95
  2023-07-14 | Melbourne         | Brisbane Lions    |  83.39 |  77.08 |   6.32
  2023-07-15 | Adelaide Crows    | GWS Giants        | 101.93 |  77.05 |  24.88
  2023-07-15 | Carlton           | Port Adelaide     |  80.23 |  79.30 |   0.92
@@ -64,7 +63,7 @@ BEGIN
  2023-08-25 | Port Adelaide     | Richmond          |  95.28 |  72.80 |  22.48
  2023-08-25 | Sydney Swans      | Melbourne         |  77.60 |  79.90 |  -2.30
  2023-08-25 | West Coast Eagles | Adelaide Crows    |  64.99 | 125.89 | -60.90
-(63 rows)
+(62 rows)
 
-COPY 63
+COPY 62
 COMMIT
