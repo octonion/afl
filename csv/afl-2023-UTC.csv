@@ -145,13 +145,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 144,17,09/07/2023 06:40,Optus Stadium,Fremantle,Carlton,45 - 98
 151,18,13/07/2023 09:20,SCG,Sydney Swans,Western Bulldogs,78 - 76
 149,18,14/07/2023 09:50,MCG,Melbourne,Brisbane Lions,105 - 104
-146,18,15/07/2023 03:45,MCG,Collingwood,Fremantle,
-148,18,15/07/2023 04:10,Heritage Bank Stadium,Gold Coast Suns,St Kilda,
-145,18,15/07/2023 06:35,Marvel Stadium,Carlton,Port Adelaide,
-147,18,15/07/2023 09:25,GMHBA Stadium,Geelong Cats,Essendon,
-152,18,15/07/2023 09:40,Adelaide Oval,Adelaide Crows,GWS Giants,
-150,18,16/07/2023 03:10,Marvel Stadium,North Melbourne,Hawthorn,
-153,18,16/07/2023 06:40,Optus Stadium,West Coast Eagles,Richmond,
+146,18,15/07/2023 03:45,MCG,Collingwood,Fremantle,113 - 67
+148,18,15/07/2023 04:10,Heritage Bank Stadium,Gold Coast Suns,St Kilda,77 - 51
+145,18,15/07/2023 06:35,Marvel Stadium,Carlton,Port Adelaide,122 - 72
+147,18,15/07/2023 09:25,GMHBA Stadium,Geelong Cats,Essendon,122 - 45
+152,18,15/07/2023 09:40,Adelaide Oval,Adelaide Crows,GWS Giants,57 - 71
+150,18,16/07/2023 03:10,Marvel Stadium,North Melbourne,Hawthorn,40 - 88
+153,18,16/07/2023 06:40,Optus Stadium,West Coast Eagles,Richmond,60 - 98
 156,19,21/07/2023 09:50,Marvel Stadium,Essendon,Western Bulldogs,
 159,19,22/07/2023 03:45,MCG,Richmond,Hawthorn,
 155,19,22/07/2023 04:10,Marvel Stadium,Carlton,West Coast Eagles,
@@ -181,7 +181,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 180,21,06/08/2023 06:40,Optus Stadium,Fremantle,Brisbane Lions,
 183,22,11/08/2023 09:50,MCG,Collingwood,Geelong Cats,
 185,22,12/08/2023 03:45,Marvel Stadium,North Melbourne,Essendon,
-187,22,12/08/2023 04:10,SCG,Sydney Swans,Gold Coast Suns,
+187,22,12/08/2023 03:45,SCG,Sydney Swans,Gold Coast Suns,
 182,22,12/08/2023 06:35,Gabba,Brisbane Lions,Adelaide Crows,
 181,22,12/08/2023 09:25,MCG,Carlton,Melbourne,
 189,22,12/08/2023 10:10,Optus Stadium,West Coast Eagles,Fremantle,
