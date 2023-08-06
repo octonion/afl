@@ -3,46 +3,46 @@ CREATE TABLE
 INSERT 0 18
  rk |       team        |  str  |  ofs  |  dfs  |  sos  
 ----+-------------------+-------+-------+-------+-------
-  1 | Collingwood       |  0.28 |  0.11 | -0.17 | -0.01
+  1 | Collingwood       |  0.24 |  0.10 | -0.15 | -0.01
   2 | Brisbane Lions    |  0.21 |  0.12 | -0.09 |  0.00
   3 | Melbourne         |  0.20 |  0.09 | -0.11 |  0.00
-  4 | Geelong Cats      |  0.14 |  0.08 | -0.07 | -0.01
-  5 | Adelaide Crows    |  0.13 |  0.12 | -0.01 | -0.02
+  4 | Geelong Cats      |  0.14 |  0.08 | -0.06 | -0.01
+  5 | Adelaide Crows    |  0.14 |  0.12 | -0.02 | -0.02
   6 | Carlton           |  0.11 |  0.01 | -0.10 |  0.00
-  7 | Port Adelaide     |  0.10 |  0.10 |  0.00 |  0.01
+  7 | Port Adelaide     |  0.10 |  0.11 |  0.00 |  0.01
   8 | Western Bulldogs  |  0.10 |  0.02 | -0.08 |  0.00
-  9 | Sydney Swans      |  0.08 |  0.06 | -0.02 |  0.00
+  9 | Sydney Swans      |  0.09 |  0.07 | -0.02 |  0.00
  10 | St Kilda          |  0.04 | -0.06 | -0.10 | -0.01
- 11 | GWS Giants        |  0.01 |  0.00 | -0.01 |  0.01
- 12 | Essendon          | -0.01 |  0.02 |  0.03 |  0.00
- 13 | Gold Coast Suns   | -0.03 | -0.03 |  0.00 |  0.00
+ 11 | GWS Giants        |  0.01 |  0.01 |  0.00 |  0.01
+ 12 | Gold Coast Suns   | -0.03 | -0.04 |  0.00 |  0.00
+ 13 | Essendon          | -0.04 | -0.01 |  0.03 |  0.00
  14 | Richmond          | -0.05 | -0.02 |  0.03 |  0.02
  15 | Fremantle         | -0.11 | -0.05 |  0.06 |  0.00
- 16 | Hawthorn          | -0.23 | -0.11 |  0.12 |  0.01
- 17 | North Melbourne   | -0.37 | -0.17 |  0.19 |  0.02
- 18 | West Coast Eagles | -0.63 | -0.28 |  0.34 |  0.04
+ 16 | Hawthorn          | -0.19 | -0.08 |  0.11 |  0.01
+ 17 | North Melbourne   | -0.36 | -0.17 |  0.19 |  0.02
+ 18 | West Coast Eagles | -0.60 | -0.27 |  0.32 |  0.03
 (18 rows)
 
  rk |       team        |  str  |  ofs  |  dfs  |  sos  
 ----+-------------------+-------+-------+-------+-------
-  1 | Collingwood       |  0.28 |  0.11 | -0.17 | -0.01
+  1 | Collingwood       |  0.24 |  0.10 | -0.15 | -0.01
   2 | Brisbane Lions    |  0.21 |  0.12 | -0.09 |  0.00
   3 | Melbourne         |  0.20 |  0.09 | -0.11 |  0.00
-  4 | Geelong Cats      |  0.14 |  0.08 | -0.07 | -0.01
-  5 | Adelaide Crows    |  0.13 |  0.12 | -0.01 | -0.02
+  4 | Geelong Cats      |  0.14 |  0.08 | -0.06 | -0.01
+  5 | Adelaide Crows    |  0.14 |  0.12 | -0.02 | -0.02
   6 | Carlton           |  0.11 |  0.01 | -0.10 |  0.00
-  7 | Port Adelaide     |  0.10 |  0.10 |  0.00 |  0.01
+  7 | Port Adelaide     |  0.10 |  0.11 |  0.00 |  0.01
   8 | Western Bulldogs  |  0.10 |  0.02 | -0.08 |  0.00
-  9 | Sydney Swans      |  0.08 |  0.06 | -0.02 |  0.00
+  9 | Sydney Swans      |  0.09 |  0.07 | -0.02 |  0.00
  10 | St Kilda          |  0.04 | -0.06 | -0.10 | -0.01
- 11 | GWS Giants        |  0.01 |  0.00 | -0.01 |  0.01
- 12 | Essendon          | -0.01 |  0.02 |  0.03 |  0.00
- 13 | Gold Coast Suns   | -0.03 | -0.03 |  0.00 |  0.00
+ 11 | GWS Giants        |  0.01 |  0.01 |  0.00 |  0.01
+ 12 | Gold Coast Suns   | -0.03 | -0.04 |  0.00 |  0.00
+ 13 | Essendon          | -0.04 | -0.01 |  0.03 |  0.00
  14 | Richmond          | -0.05 | -0.02 |  0.03 |  0.02
  15 | Fremantle         | -0.11 | -0.05 |  0.06 |  0.00
- 16 | Hawthorn          | -0.23 | -0.11 |  0.12 |  0.01
- 17 | North Melbourne   | -0.37 | -0.17 |  0.19 |  0.02
- 18 | West Coast Eagles | -0.63 | -0.28 |  0.34 |  0.04
+ 16 | Hawthorn          | -0.19 | -0.08 |  0.11 |  0.01
+ 17 | North Melbourne   | -0.36 | -0.17 |  0.19 |  0.02
+ 18 | West Coast Eagles | -0.60 | -0.27 |  0.32 |  0.03
 (18 rows)
 
 COPY 18
