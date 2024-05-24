@@ -7,7 +7,7 @@ INSERT 0 18
   2 | Western Bulldogs  |  0.18 |  0.11 | -0.06 | -0.01
   3 | Melbourne         |  0.16 |  0.01 | -0.15 | -0.01
   4 | GWS Giants        |  0.14 |  0.09 | -0.05 |  0.00
-  5 | Collingwood       |  0.10 |  0.07 | -0.03 |  0.00
+  5 | Collingwood       |  0.11 |  0.07 | -0.03 |  0.00
   6 | Geelong Cats      |  0.10 |  0.10 |  0.01 | -0.01
   7 | Brisbane Lions    |  0.09 |  0.00 | -0.09 | -0.01
   8 | Fremantle         |  0.05 | -0.08 | -0.13 | -0.01
@@ -29,7 +29,7 @@ INSERT 0 18
   2 | Western Bulldogs  |  0.18 |  0.11 | -0.06 | -0.01
   3 | Melbourne         |  0.16 |  0.01 | -0.15 | -0.01
   4 | GWS Giants        |  0.14 |  0.09 | -0.05 |  0.00
-  5 | Collingwood       |  0.10 |  0.07 | -0.03 |  0.00
+  5 | Collingwood       |  0.11 |  0.07 | -0.03 |  0.00
   6 | Geelong Cats      |  0.10 |  0.10 |  0.01 | -0.01
   7 | Brisbane Lions    |  0.09 |  0.00 | -0.09 | -0.01
   8 | Fremantle         |  0.05 | -0.08 | -0.13 | -0.01
