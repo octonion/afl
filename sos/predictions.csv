@@ -1,88 +1,88 @@
 date,home,away,e_home,e_away,e_d
-2024-06-21,Carlton,Geelong Cats,95.64,87.15,8.48
-2024-06-22,GWS Giants,Sydney Swans,76.61,90.54,-13.93
-2024-06-22,Melbourne,North Melbourne,108.58,63.14,45.43
-2024-06-22,Port Adelaide,Brisbane Lions,81.54,83.11,-1.56
-2024-06-23,Essendon,West Coast Eagles,97.24,66.21,31.02
-2024-06-23,Fremantle,Gold Coast Suns,82.26,71.60,10.67
-2024-06-28,Brisbane Lions,Melbourne,84.15,71.89,12.25
-2024-06-29,Adelaide Crows,GWS Giants,75.70,81.03,-5.34
-2024-06-29,Geelong Cats,Essendon,93.02,78.12,14.90
-2024-06-29,Gold Coast Suns,Collingwood,84.84,81.64,3.21
-2024-06-29,North Melbourne,Western Bulldogs,70.58,119.84,-49.25
-2024-06-29,Sydney Swans,Fremantle,95.51,66.23,29.27
-2024-06-30,Richmond,Carlton,69.17,104.56,-35.38
-2024-06-30,St Kilda,Port Adelaide,76.94,78.02,-1.08
-2024-06-30,West Coast Eagles,Hawthorn,73.45,87.75,-14.31
-2024-07-05,Collingwood,Essendon,90.54,77.09,13.45
-2024-07-06,Fremantle,Richmond,99.78,56.84,42.94
-2024-07-06,Geelong Cats,Hawthorn,95.38,76.28,19.10
-2024-07-06,GWS Giants,Carlton,91.38,81.68,9.71
-2024-07-06,North Melbourne,Gold Coast Suns,71.26,104.92,-33.67
-2024-07-06,Port Adelaide,Western Bulldogs,83.28,90.68,-7.40
-2024-07-07,Brisbane Lions,Adelaide Crows,87.49,71.62,15.87
-2024-07-07,Melbourne,West Coast Eagles,94.61,61.93,32.69
-2024-07-07,St Kilda,Sydney Swans,65.42,95.94,-30.52
-2024-07-12,Collingwood,Geelong Cats,90.57,84.87,5.70
-2024-07-13,Adelaide Crows,St Kilda,80.21,69.20,11.01
-2024-07-13,Hawthorn,Fremantle,74.34,79.92,-5.57
-2024-07-13,Melbourne,Essendon,82.21,73.04,9.17
-2024-07-13,Sydney Swans,North Melbourne,139.97,57.37,82.59
-2024-07-13,Western Bulldogs,Carlton,99.51,85.39,14.12
-2024-07-14,Gold Coast Suns,Port Adelaide,85.90,77.71,8.19
-2024-07-14,Richmond,GWS Giants,63.08,98.60,-35.52
-2024-07-14,West Coast Eagles,Brisbane Lions,67.78,95.70,-27.93
-2024-07-19,Essendon,Adelaide Crows,82.16,75.69,6.47
-2024-07-20,Geelong Cats,Western Bulldogs,89.89,90.77,-0.88
-2024-07-20,GWS Giants,Gold Coast Suns,87.95,73.43,14.51
-2024-07-20,Hawthorn,Collingwood,81.43,85.80,-4.37
-2024-07-20,Port Adelaide,Richmond,101.98,63.04,38.94
-2024-07-20,St Kilda,West Coast Eagles,88.61,64.85,23.75
-2024-07-21,Brisbane Lions,Sydney Swans,76.45,92.68,-16.23
-2024-07-21,Carlton,North Melbourne,126.26,68.43,57.83
-2024-07-21,Fremantle,Melbourne,78.87,68.48,10.39
-2024-07-26,Carlton,Port Adelaide,95.54,80.75,14.80
-2024-07-27,Fremantle,West Coast Eagles,97.05,59.67,37.38
-2024-07-27,Gold Coast Suns,Brisbane Lions,81.32,81.12,0.20
-2024-07-27,Melbourne,GWS Giants,75.99,77.93,-1.95
-2024-07-27,North Melbourne,Geelong Cats,73.07,113.56,-40.48
-2024-07-27,St Kilda,Essendon,76.99,76.49,0.50
-2024-07-28,Adelaide Crows,Hawthorn,83.97,74.15,9.82
-2024-07-28,Collingwood,Richmond,107.13,62.26,44.87
-2024-07-28,Sydney Swans,Western Bulldogs,102.41,77.11,25.30
-2024-08-02,West Coast Eagles,Gold Coast Suns,69.88,91.43,-21.55
-2024-08-02,Western Bulldogs,Melbourne,91.81,73.43,18.39
-2024-08-03,Collingwood,Carlton,91.77,87.22,4.55
-2024-08-03,Geelong Cats,Adelaide Crows,90.46,75.72,14.74
-2024-08-03,North Melbourne,Richmond,86.43,83.31,3.12
-2024-08-03,Port Adelaide,Sydney Swans,73.24,97.89,-24.66
-2024-08-04,Essendon,Fremantle,76.14,77.94,-1.80
-2024-08-04,GWS Giants,Hawthorn,92.43,70.48,21.96
-2024-08-04,St Kilda,Brisbane Lions,72.84,81.45,-8.61
-2024-08-09,Sydney Swans,Collingwood,104.61,71.11,33.50
-2024-08-10,Brisbane Lions,GWS Giants,83.16,78.84,4.32
-2024-08-10,Essendon,Gold Coast Suns,82.42,79.45,2.98
-2024-08-10,Fremantle,Geelong Cats,84.36,77.48,6.88
-2024-08-10,Melbourne,Port Adelaide,82.16,74.50,7.66
-2024-08-10,North Melbourne,West Coast Eagles,84.06,87.45,-3.38
-2024-08-11,Adelaide Crows,Western Bulldogs,79.14,88.24,-9.10
-2024-08-11,Carlton,Hawthorn,98.02,77.29,20.73
-2024-08-11,Richmond,St Kilda,66.84,84.20,-17.36
-2024-08-16,Essendon,Sydney Swans,71.80,97.96,-26.16
-2024-08-17,Collingwood,Brisbane Lions,85.66,82.09,3.58
-2024-08-17,Gold Coast Suns,Melbourne,80.39,74.13,6.26
-2024-08-17,GWS Giants,Fremantle,81.24,72.04,9.20
-2024-08-17,Port Adelaide,Adelaide Crows,83.81,75.65,8.16
-2024-08-17,St Kilda,Geelong Cats,77.02,84.21,-7.19
-2024-08-18,Hawthorn,Richmond,97.61,64.67,32.94
-2024-08-18,West Coast Eagles,Carlton,72.61,101.69,-29.08
-2024-08-18,Western Bulldogs,North Melbourne,129.65,65.24,64.41
-2024-08-23,Brisbane Lions,Essendon,89.97,73.89,16.08
-2024-08-23,Carlton,St Kilda,93.64,72.13,21.50
-2024-08-23,Fremantle,Port Adelaide,84.27,71.79,12.49
-2024-08-23,Geelong Cats,West Coast Eagles,107.06,66.24,40.82
-2024-08-23,Hawthorn,North Melbourne,108.95,69.22,39.73
-2024-08-23,Melbourne,Collingwood,81.15,78.27,2.88
-2024-08-23,Richmond,Gold Coast Suns,66.57,94.00,-27.43
-2024-08-23,Sydney Swans,Adelaide Crows,103.06,64.32,38.73
-2024-08-23,Western Bulldogs,GWS Giants,90.74,80.52,10.22
+2024-06-21,Carlton,Geelong Cats,100.90,85.35,15.56
+2024-06-22,GWS Giants,Sydney Swans,76.78,90.22,-13.44
+2024-06-22,Melbourne,North Melbourne,108.68,62.86,45.83
+2024-06-22,Port Adelaide,Brisbane Lions,81.64,82.85,-1.21
+2024-06-23,Essendon,West Coast Eagles,97.63,65.92,31.72
+2024-06-23,Fremantle,Gold Coast Suns,82.60,71.17,11.44
+2024-06-28,Brisbane Lions,Melbourne,84.22,71.63,12.58
+2024-06-29,Adelaide Crows,GWS Giants,75.72,80.77,-5.05
+2024-06-29,Geelong Cats,Essendon,92.29,80.04,12.25
+2024-06-29,Gold Coast Suns,Collingwood,84.75,81.58,3.17
+2024-06-29,North Melbourne,Western Bulldogs,70.82,119.29,-48.46
+2024-06-29,Sydney Swans,Fremantle,95.62,66.14,29.49
+2024-06-30,Richmond,Carlton,68.57,106.93,-38.36
+2024-06-30,St Kilda,Port Adelaide,77.04,77.80,-0.76
+2024-06-30,West Coast Eagles,Hawthorn,73.66,87.47,-13.81
+2024-07-05,Collingwood,Essendon,90.76,76.88,13.88
+2024-07-06,Fremantle,Richmond,100.08,56.53,43.55
+2024-07-06,Geelong Cats,Hawthorn,94.86,77.96,16.90
+2024-07-06,GWS Giants,Carlton,90.74,83.48,7.25
+2024-07-06,North Melbourne,Gold Coast Suns,71.41,104.33,-32.92
+2024-07-06,Port Adelaide,Western Bulldogs,83.58,90.32,-6.74
+2024-07-07,Brisbane Lions,Adelaide Crows,87.62,71.32,16.29
+2024-07-07,Melbourne,West Coast Eagles,94.85,61.65,33.20
+2024-07-07,St Kilda,Sydney Swans,65.52,95.73,-30.21
+2024-07-12,Collingwood,Geelong Cats,93.27,83.79,9.48
+2024-07-13,Adelaide Crows,St Kilda,80.35,68.93,11.42
+2024-07-13,Hawthorn,Fremantle,74.33,79.91,-5.58
+2024-07-13,Melbourne,Essendon,82.26,72.84,9.42
+2024-07-13,Sydney Swans,North Melbourne,140.19,57.18,83.01
+2024-07-13,Western Bulldogs,Carlton,98.70,87.53,11.17
+2024-07-14,Gold Coast Suns,Port Adelaide,85.88,77.51,8.37
+2024-07-14,Richmond,GWS Giants,63.04,98.29,-35.24
+2024-07-14,West Coast Eagles,Brisbane Lions,67.85,95.49,-27.65
+2024-07-19,Essendon,Adelaide Crows,82.39,75.34,7.06
+2024-07-20,Geelong Cats,Western Bulldogs,89.45,92.79,-3.34
+2024-07-20,GWS Giants,Gold Coast Suns,88.20,73.00,15.20
+2024-07-20,Hawthorn,Collingwood,81.42,85.80,-4.39
+2024-07-20,Port Adelaide,Richmond,102.11,62.75,39.36
+2024-07-20,St Kilda,West Coast Eagles,88.80,64.66,24.14
+2024-07-21,Brisbane Lions,Sydney Swans,76.61,92.40,-15.79
+2024-07-21,Carlton,North Melbourne,129.72,67.57,62.15
+2024-07-21,Fremantle,Melbourne,79.05,68.19,10.86
+2024-07-26,Carlton,Port Adelaide,98.22,79.74,18.47
+2024-07-27,Fremantle,West Coast Eagles,97.45,59.40,38.05
+2024-07-27,Gold Coast Suns,Brisbane Lions,81.29,80.94,0.34
+2024-07-27,Melbourne,GWS Giants,76.05,77.63,-1.59
+2024-07-27,North Melbourne,Geelong Cats,75.09,112.15,-37.06
+2024-07-27,St Kilda,Essendon,77.01,76.39,0.62
+2024-07-28,Adelaide Crows,Hawthorn,84.19,73.82,10.37
+2024-07-28,Collingwood,Richmond,107.47,61.92,45.55
+2024-07-28,Sydney Swans,Western Bulldogs,102.85,76.81,26.03
+2024-08-02,West Coast Eagles,Gold Coast Suns,70.04,91.05,-21.02
+2024-08-02,Western Bulldogs,Melbourne,91.81,73.34,18.47
+2024-08-03,Collingwood,Carlton,91.25,89.15,2.11
+2024-08-03,Geelong Cats,Adelaide Crows,89.80,77.42,12.38
+2024-08-03,North Melbourne,Richmond,86.52,82.87,3.65
+2024-08-03,Port Adelaide,Sydney Swans,73.36,97.63,-24.26
+2024-08-04,Essendon,Fremantle,76.31,77.74,-1.43
+2024-08-04,GWS Giants,Hawthorn,92.76,70.13,22.63
+2024-08-04,St Kilda,Brisbane Lions,72.91,81.24,-8.33
+2024-08-09,Sydney Swans,Collingwood,104.75,71.02,33.72
+2024-08-10,Brisbane Lions,GWS Giants,83.24,78.59,4.65
+2024-08-10,Essendon,Gold Coast Suns,82.75,78.97,3.78
+2024-08-10,Fremantle,Geelong Cats,86.86,76.50,10.36
+2024-08-10,Melbourne,Port Adelaide,82.29,74.18,8.11
+2024-08-10,North Melbourne,West Coast Eagles,84.25,87.09,-2.84
+2024-08-11,Adelaide Crows,Western Bulldogs,79.39,87.86,-8.46
+2024-08-11,Carlton,Hawthorn,100.92,76.27,24.65
+2024-08-11,Richmond,St Kilda,66.90,83.87,-16.98
+2024-08-16,Essendon,Sydney Swans,72.04,97.60,-25.56
+2024-08-17,Collingwood,Brisbane Lions,85.93,81.76,4.17
+2024-08-17,Gold Coast Suns,Melbourne,80.30,73.94,6.36
+2024-08-17,GWS Giants,Fremantle,81.33,71.86,9.46
+2024-08-17,Port Adelaide,Adelaide Crows,83.91,75.36,8.55
+2024-08-17,St Kilda,Geelong Cats,79.14,83.26,-4.12
+2024-08-18,Hawthorn,Richmond,97.66,64.48,33.19
+2024-08-18,West Coast Eagles,Carlton,72.05,104.13,-32.07
+2024-08-18,Western Bulldogs,North Melbourne,129.69,65.14,64.55
+2024-08-23,Brisbane Lions,Essendon,90.04,73.73,16.31
+2024-08-23,Carlton,St Kilda,96.31,71.22,25.09
+2024-08-23,Fremantle,Port Adelaide,84.55,71.48,13.07
+2024-08-23,Geelong Cats,West Coast Eagles,106.41,67.74,38.67
+2024-08-23,Hawthorn,North Melbourne,108.97,69.08,39.89
+2024-08-23,Melbourne,Collingwood,81.20,78.07,3.13
+2024-08-23,Richmond,Gold Coast Suns,66.65,93.51,-26.86
+2024-08-23,Sydney Swans,Adelaide Crows,103.25,64.09,39.16
+2024-08-23,Western Bulldogs,GWS Giants,90.75,80.45,10.29
