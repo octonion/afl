@@ -74,7 +74,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 73,9,09/05/2024 09:30,MCG,Carlton,Melbourne,77 - 76
 74,9,10/05/2024 09:10,GMHBA Stadium,Geelong Cats,Port Adelaide,95 - 101
 75,9,10/05/2024 10:30,Optus Stadium,Fremantle,Sydney Swans,39 - 87
-76,9,11/05/2024 03:45,UTAS Stadium,Hawthorn,St Kilda,73 - 64
+76,9,11/05/2024 03:45,UTAS Stadium,Hawthorn,St Kilda,58 - 53
 77,9,11/05/2024 06:35,Marvel Stadium,Essendon,GWS Giants,82 - 62
 78,9,11/05/2024 09:30,MCG,Richmond,Western Bulldogs,42 - 133
 79,9,11/05/2024 09:30,TIO Stadium,Gold Coast Suns,North Melbourne,120 - 52
@@ -125,15 +125,15 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 124,15,22/06/2024 09:30,MCG,Melbourne,North Melbourne,70 - 67
 125,15,23/06/2024 03:00,Marvel Stadium,Essendon,West Coast Eagles,122 - 92
 126,15,23/06/2024 06:00,Optus Stadium,Fremantle,Gold Coast Suns,85 - 65
-127,16,28/06/2024 09:40,Gabba,Brisbane Lions,Melbourne,
-130,16,29/06/2024 03:45,Marvel Stadium,North Melbourne,Western Bulldogs,
-133,16,29/06/2024 03:45,SCG,Sydney Swans,Fremantle,
-129,16,29/06/2024 06:35,People First Stadium,Gold Coast Suns,Collingwood,
-128,16,29/06/2024 09:30,MCG,Geelong Cats,Essendon,
-134,16,29/06/2024 09:30,Adelaide Oval,Adelaide Crows,GWS Giants,
-132,16,30/06/2024 03:10,Marvel Stadium,St Kilda,Port Adelaide,
-131,16,30/06/2024 05:20,MCG,Richmond,Carlton,
-135,16,30/06/2024 06:40,Optus Stadium,West Coast Eagles,Hawthorn,
+127,16,28/06/2024 09:40,Gabba,Brisbane Lions,Melbourne,86 - 81
+130,16,29/06/2024 03:45,Marvel Stadium,North Melbourne,Western Bulldogs,60 - 77
+133,16,29/06/2024 03:45,SCG,Sydney Swans,Fremantle,98 - 99
+129,16,29/06/2024 06:35,People First Stadium,Gold Coast Suns,Collingwood,101 - 90
+128,16,29/06/2024 09:30,MCG,Geelong Cats,Essendon,105 - 60
+134,16,29/06/2024 09:30,Adelaide Oval,Adelaide Crows,GWS Giants,94 - 78
+132,16,30/06/2024 03:10,Marvel Stadium,St Kilda,Port Adelaide,60 - 62
+131,16,30/06/2024 05:20,MCG,Richmond,Carlton,70 - 131
+135,16,30/06/2024 06:40,Optus Stadium,West Coast Eagles,Hawthorn,33 - 94
 137,17,05/07/2024 09:40,MCG,Collingwood,Essendon,
 141,17,06/07/2024 03:45,Marvel Stadium,North Melbourne,Gold Coast Suns,
 143,17,06/07/2024 03:45,Adelaide Oval,Port Adelaide,Western Bulldogs,
