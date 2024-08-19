@@ -1,25 +1,19 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2024-08-16 | Essendon          | Sydney Swans      |  79.02 |  96.37 | -17.35
- 2024-08-17 | Collingwood       | Brisbane Lions    |  81.75 |  90.00 |  -8.24
- 2024-08-17 | Gold Coast Suns   | Melbourne         |  79.21 |  74.80 |   4.41
- 2024-08-17 | GWS Giants        | Fremantle         |  83.36 |  76.14 |   7.22
- 2024-08-17 | Port Adelaide     | Adelaide Crows    |  86.48 |  74.99 |  11.49
- 2024-08-17 | St Kilda          | Geelong Cats      |  75.40 |  79.32 |  -3.93
- 2024-08-18 | Hawthorn          | Richmond          | 106.73 |  60.16 |  46.57
- 2024-08-18 | West Coast Eagles | Carlton           |  76.01 | 104.26 | -28.26
- 2024-08-18 | Western Bulldogs  | North Melbourne   | 119.06 |  64.21 |  54.85
- 2024-08-23 | Melbourne         | Collingwood       |  81.92 |  76.87 |   5.05
- 2024-08-24 | Brisbane Lions    | Essendon          | 101.27 |  73.27 |  28.00
- 2024-08-24 | Geelong Cats      | West Coast Eagles | 110.12 |  66.50 |  43.62
- 2024-08-24 | Hawthorn          | North Melbourne   | 111.04 |  64.71 |  46.33
- 2024-08-24 | Richmond          | Gold Coast Suns   |  69.86 |  93.61 | -23.75
- 2024-08-24 | Sydney Swans      | Adelaide Crows    |  96.12 |  73.03 |  23.09
- 2024-08-25 | Carlton           | St Kilda          |  87.91 |  73.64 |  14.27
- 2024-08-25 | Fremantle         | Port Adelaide     |  82.67 |  74.85 |   7.82
- 2024-08-25 | Western Bulldogs  | GWS Giants        |  89.74 |  78.37 |  11.38
-(18 rows)
+ 2024-08-18 | Hawthorn          | Richmond          | 108.44 |  60.71 |  47.73
+ 2024-08-18 | West Coast Eagles | Carlton           |  72.51 | 103.91 | -31.39
+ 2024-08-18 | Western Bulldogs  | North Melbourne   | 121.16 |  62.54 |  58.63
+ 2024-08-23 | Melbourne         | Collingwood       |  83.29 |  76.12 |   7.16
+ 2024-08-24 | Brisbane Lions    | Essendon          | 100.91 |  72.28 |  28.63
+ 2024-08-24 | Geelong Cats      | West Coast Eagles | 110.43 |  65.73 |  44.70
+ 2024-08-24 | Hawthorn          | North Melbourne   | 112.94 |  64.15 |  48.79
+ 2024-08-24 | Richmond          | Gold Coast Suns   |  71.75 |  93.49 | -21.74
+ 2024-08-24 | Sydney Swans      | Adelaide Crows    |  95.92 |  71.55 |  24.37
+ 2024-08-25 | Carlton           | St Kilda          |  87.99 |  73.14 |  14.85
+ 2024-08-25 | Fremantle         | Port Adelaide     |  82.44 |  75.16 |   7.28
+ 2024-08-25 | Western Bulldogs  | GWS Giants        |  91.16 |  77.93 |  13.22
+(12 rows)
 
-COPY 18
+COPY 12
 COMMIT
