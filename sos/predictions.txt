@@ -1,15 +1,8 @@
 BEGIN
-    date    |       home       |       away        | e_home | e_away |  e_d   
-------------+------------------+-------------------+--------+--------+--------
- 2024-08-24 | Brisbane Lions   | Essendon          | 100.91 |  72.28 |  28.63
- 2024-08-24 | Geelong Cats     | West Coast Eagles | 110.43 |  65.73 |  44.70
- 2024-08-24 | Hawthorn         | North Melbourne   | 112.94 |  64.15 |  48.79
- 2024-08-24 | Richmond         | Gold Coast Suns   |  71.75 |  93.49 | -21.74
- 2024-08-24 | Sydney Swans     | Adelaide Crows    |  95.92 |  71.55 |  24.37
- 2024-08-25 | Carlton          | St Kilda          |  87.99 |  73.14 |  14.85
- 2024-08-25 | Fremantle        | Port Adelaide     |  82.44 |  75.16 |   7.28
- 2024-08-25 | Western Bulldogs | GWS Giants        |  91.16 |  77.93 |  13.22
-(8 rows)
+    date    |     home     |      away      | e_home | e_away | e_d  
+------------+--------------+----------------+--------+--------+------
+ 2024-09-28 | Sydney Swans | Brisbane Lions |  91.09 |  81.29 | 9.80
+(1 row)
 
-COPY 8
+COPY 1
 COMMIT

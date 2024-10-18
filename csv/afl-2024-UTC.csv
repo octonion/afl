@@ -197,12 +197,21 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 196,23,18/08/2024 03:10,Marvel Stadium,Western Bulldogs,North Melbourne,138 - 42
 194,23,18/08/2024 05:20,MCG,Hawthorn,Richmond,131 - 68
 198,23,18/08/2024 06:40,Optus Stadium,West Coast Eagles,Carlton,34 - 99
-203,24,23/08/2024 09:40,MCG,Melbourne,Collingwood,
-201,24,24/08/2024 03:45,GMHBA Stadium,Geelong Cats,West Coast Eagles,
-204,24,24/08/2024 04:10,MCG,Richmond,Gold Coast Suns,
-202,24,24/08/2024 06:35,UTAS Stadium,Hawthorn,North Melbourne,
-199,24,24/08/2024 09:25,Gabba,Brisbane Lions,Essendon,
-205,24,24/08/2024 09:40,SCG,Sydney Swans,Adelaide Crows,
-206,24,25/08/2024 02:30,Mars Stadium,Western Bulldogs,GWS Giants,
-200,24,25/08/2024 05:20,Marvel Stadium,Carlton,St Kilda,
-207,24,25/08/2024 08:10,Optus Stadium,Fremantle,Port Adelaide,
+203,24,23/08/2024 09:40,MCG,Melbourne,Collingwood,57 - 103
+202,24,24/08/2024 02:30,UTAS Stadium,Hawthorn,North Melbourne,170 - 46
+201,24,24/08/2024 03:45,GMHBA Stadium,Geelong Cats,West Coast Eagles,168 - 75
+204,24,24/08/2024 05:20,MCG,Richmond,Gold Coast Suns,66 - 94
+199,24,24/08/2024 09:30,Gabba,Brisbane Lions,Essendon,87 - 67
+205,24,24/08/2024 09:40,SCG,Sydney Swans,Adelaide Crows,121 - 90
+206,24,25/08/2024 02:30,Mars Stadium,Western Bulldogs,GWS Giants,98 - 61
+200,24,25/08/2024 05:20,Marvel Stadium,Carlton,St Kilda,74 - 76
+207,24,25/08/2024 08:10,Optus Stadium,Fremantle,Port Adelaide,67 - 87
+208,Finals W1,05/09/2024 09:40,Adelaide Oval,Port Adelaide,Geelong Cats,54 - 138
+209,Finals W1,06/09/2024 09:40,MCG,Western Bulldogs,Hawthorn,62 - 99
+210,Finals W1,07/09/2024 05:20,SCG,Sydney Swans,GWS Giants,88 - 82
+211,Finals W1,07/09/2024 09:30,Gabba,Brisbane Lions,Carlton,99 - 71
+212,Semi Finals,13/09/2024 09:40,Adelaide Oval,Port Adelaide,Hawthorn,75 - 72
+213,Semi Finals,14/09/2024 09:30,ENGIE Stadium,GWS Giants,Brisbane Lions,100 - 105
+214,Prelim Finals,20/09/2024 09:40,SCG,Sydney Swans,Port Adelaide,95 - 59
+215,Prelim Finals,21/09/2024 07:15,MCG,Geelong Cats,Brisbane Lions,85 - 95
+216,Grand Final,28/09/2024 04:30,MCG,Sydney Swans,Brisbane Lions,
