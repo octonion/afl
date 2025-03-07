@@ -17,6 +17,9 @@ cp csv/afl*.csv /tmp/data
 dos2unix /tmp/data/*
 tail -q -n+2 /tmp/data/*.csv >> /tmp/games.csv
 sed -e 's/$/,,/' -i /tmp/games.csv
+
+rpl "GWS GIANTS" "GWS Giants" /tmp/games.csv
+
 psql arf -f loaders/load_games.sql
 
 rm /tmp/data/*.csv
