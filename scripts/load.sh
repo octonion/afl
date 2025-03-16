@@ -19,6 +19,7 @@ tail -q -n+2 /tmp/data/*.csv >> /tmp/games.csv
 sed -e 's/$/,,/' -i /tmp/games.csv
 
 rpl "GWS GIANTS" "GWS Giants" /tmp/games.csv
+rpl "Gold Coast SUNS" "Gold Coast Suns" /tmp/games.csv
 
 psql arf -f loaders/load_games.sql
 
