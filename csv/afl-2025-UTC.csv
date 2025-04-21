@@ -50,8 +50,8 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 49,6,19/04/2025 03:20,MCG,Melbourne,Fremantle,107 - 97
 50,6,19/04/2025 06:15,Adelaide Oval,Adelaide Crows,GWS GIANTS,52 - 34
 51,6,19/04/2025 09:35,Marvel Stadium,Richmond,Gold Coast SUNS,80 - 69
-52,6,20/04/2025 05:20,SCG,Sydney Swans,Port Adelaide,
-53,6,20/04/2025 09:20,Marvel Stadium,Western Bulldogs,St Kilda,
+52,6,20/04/2025 05:20,SCG,Sydney Swans,Port Adelaide,77 - 85
+53,6,20/04/2025 09:20,Marvel Stadium,Western Bulldogs,St Kilda,127 - 56
 54,6,21/04/2025 05:20,MCG,Geelong Cats,Hawthorn,
 55,7,24/04/2025 09:30,MCG,Melbourne,Richmond,
 56,7,25/04/2025 05:20,MCG,Collingwood,Essendon,
@@ -59,9 +59,9 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 58,7,26/04/2025 03:20,Marvel Stadium,St Kilda,Brisbane Lions,
 59,7,26/04/2025 06:15,Adelaide Oval,Port Adelaide,North Melbourne,
 60,7,26/04/2025 09:35,Manuka Oval,GWS GIANTS,Western Bulldogs,
-61,7,27/04/2025 03:10,People First Stadium,Gold Coast SUNS,Sydney Swans,
+61,7,27/04/2025 03:15,People First Stadium,Gold Coast SUNS,Sydney Swans,
 62,7,27/04/2025 05:20,MCG,Carlton,Geelong Cats,
-63,7,27/04/2025 06:40,Marvel Stadium,Hawthorn,West Coast Eagles,
+63,7,27/04/2025 06:45,Marvel Stadium,Hawthorn,West Coast Eagles,
 64,8,01/05/2025 09:30,Marvel Stadium,Essendon,North Melbourne,
 65,8,02/05/2025 09:40,Marvel Stadium,St Kilda,Fremantle,
 66,8,03/05/2025 03:20,Mars Stadium,Western Bulldogs,Port Adelaide,
