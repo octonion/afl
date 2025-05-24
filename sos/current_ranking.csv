@@ -1,5 +1,5 @@
 rk,team,str,ofs,dfs,sos
-1,Western Bulldogs,0.24,0.15,-0.09,-0.01
+1,Western Bulldogs,0.24,0.15,-0.08,-0.01
 2,Geelong Cats,0.23,0.17,-0.06,-0.01
 3,Collingwood,0.21,0.10,-0.11,-0.01
 4,Hawthorn,0.18,0.08,-0.09,-0.03
@@ -16,4 +16,4 @@ rk,team,str,ofs,dfs,sos
 15,Melbourne,-0.16,-0.13,0.03,0.01
 16,North Melbourne,-0.28,-0.09,0.19,0.02
 17,West Coast Eagles,-0.40,-0.19,0.21,0.02
-18,Richmond,-0.43,-0.23,0.19,0.02
+18,Richmond,-0.42,-0.24,0.19,0.02
