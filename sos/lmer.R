@@ -19,11 +19,11 @@ r.team_score::float as gs,
 --(case when r.year<2021 then 0.80*r.team_score::float
 --      else r.team_score::float
 --end) as gs,
-(year-2023) as w
+(year-2024) as w
 from afl.results r
 
 where
-    r.year between 2024 and 2025
+    r.year between 2025 and 2025
 
 ;")
 
