@@ -1,19 +1,19 @@
 rk,team,str,ofs,dfs,sos
 1,Adelaide Crows,0.33,0.18,-0.16,-0.02
-2,Western Bulldogs,0.31,0.25,-0.05,-0.02
+2,Western Bulldogs,0.31,0.26,-0.05,-0.02
 3,Geelong Cats,0.29,0.20,-0.09,-0.02
-4,Collingwood,0.27,0.10,-0.17,-0.03
-5,Gold Coast Suns,0.19,0.11,-0.08,-0.01
+4,Collingwood,0.25,0.09,-0.16,-0.03
+5,Gold Coast Suns,0.22,0.12,-0.10,-0.01
 6,Hawthorn,0.15,0.06,-0.09,-0.02
-7,GWS Giants,0.13,0.06,-0.07,0.00
-8,Brisbane Lions,0.13,0.07,-0.06,0.01
+7,Brisbane Lions,0.15,0.08,-0.07,0.01
+8,GWS Giants,0.13,0.07,-0.06,0.00
 9,Fremantle,0.09,0.03,-0.06,-0.03
-10,Sydney Swans,-0.04,-0.04,0.01,0.01
-11,St Kilda,-0.08,-0.01,0.07,-0.01
-12,Carlton,-0.10,-0.10,0.00,0.00
-13,Melbourne,-0.13,-0.04,0.08,0.01
-14,Port Adelaide,-0.16,-0.10,0.06,0.02
-15,Essendon,-0.28,-0.18,0.10,0.01
+10,Sydney Swans,-0.05,-0.05,0.00,0.01
+11,St Kilda,-0.08,-0.01,0.08,-0.01
+12,Melbourne,-0.10,-0.02,0.08,0.01
+13,Carlton,-0.10,-0.10,0.01,0.00
+14,Port Adelaide,-0.16,-0.10,0.07,0.02
+15,Essendon,-0.27,-0.19,0.09,0.01
 16,North Melbourne,-0.28,-0.10,0.18,0.02
-17,Richmond,-0.38,-0.25,0.13,0.01
-18,West Coast Eagles,-0.43,-0.22,0.22,0.03
+17,Richmond,-0.41,-0.28,0.13,0.02
+18,West Coast Eagles,-0.46,-0.23,0.23,0.03
