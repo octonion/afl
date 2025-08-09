@@ -2,7 +2,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 2,OR,07/03/2025 08:40,SCG,Sydney Swans,Hawthorn,76 - 96
 4,OR,09/03/2025 04:20,ENGIE Stadium,GWS GIANTS,Collingwood,104 - 52
 1,OR,29/03/2025 08:35,Gabba,Brisbane Lions,Geelong Cats,70 - 61
-3,OR,22/08/2025 14:00,People First Stadium,Gold Coast SUNS,Essendon,
+3,OR,27/08/2025 09:20,People First Stadium,Gold Coast SUNS,Essendon,
 5,1,13/03/2025 08:30,MCG,Richmond,Carlton,82 - 69
 6,1,14/03/2025 08:40,MCG,Hawthorn,Essendon,111 - 85
 7,1,15/03/2025 02:20,GMHBA Stadium,Geelong Cats,Fremantle,147 - 69
@@ -180,7 +180,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 172,21,03/08/2025 05:15,GMHBA Stadium,Geelong Cats,Port Adelaide,153 - 65
 180,21,03/08/2025 07:10,Optus Stadium,Fremantle,Carlton,94 - 67
 186,22,07/08/2025 09:30,MCG,Hawthorn,Collingwood,110 - 46
-181,22,08/08/2025 09:40,GMHBA Stadium,Geelong Cats,Essendon,
+181,22,08/08/2025 09:40,GMHBA Stadium,Geelong Cats,Essendon,109 - 65
 184,22,09/08/2025 03:20,MCG,Richmond,St Kilda,
 187,22,09/08/2025 06:15,Gabba,Brisbane Lions,Sydney Swans,
 183,22,09/08/2025 09:35,Marvel Stadium,Carlton,Gold Coast SUNS,
@@ -197,15 +197,15 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 190,23,17/08/2025 03:10,Ninja Stadium,North Melbourne,Richmond,
 196,23,17/08/2025 05:15,SCG,Sydney Swans,Geelong Cats,
 192,23,17/08/2025 06:40,Marvel Stadium,Western Bulldogs,West Coast Eagles,
-199,24,22/08/2025 14:00,ENGIE Stadium,GWS GIANTS,St Kilda,
-200,24,22/08/2025 14:00,Marvel Stadium,North Melbourne,Adelaide Crows,
-201,24,22/08/2025 14:00,Marvel Stadium,Western Bulldogs,Fremantle,
-202,24,22/08/2025 14:00,MCG,Collingwood,Melbourne,
-203,24,22/08/2025 14:00,MCG,Richmond,Geelong Cats,
-204,24,22/08/2025 14:00,MCG,Essendon,Carlton,
-205,24,22/08/2025 14:00,Gabba,Brisbane Lions,Hawthorn,
-206,24,22/08/2025 14:30,Adelaide Oval,Port Adelaide,Gold Coast SUNS,
-207,24,22/08/2025 16:00,Optus Stadium,West Coast Eagles,Sydney Swans,
+204,24,21/08/2025 09:30,MCG,Essendon,Carlton,
+202,24,22/08/2025 09:10,MCG,Collingwood,Melbourne,
+206,24,22/08/2025 10:10,Adelaide Oval,Port Adelaide,Gold Coast SUNS,
+200,24,23/08/2025 03:20,Marvel Stadium,North Melbourne,Adelaide Crows,
+203,24,23/08/2025 06:15,MCG,Richmond,Geelong Cats,
+207,24,23/08/2025 09:35,Optus Stadium,West Coast Eagles,Sydney Swans,
+199,24,24/08/2025 02:20,ENGIE Stadium,GWS GIANTS,St Kilda,
+201,24,24/08/2025 05:15,Marvel Stadium,Western Bulldogs,Fremantle,
+205,24,24/08/2025 09:20,Gabba,Brisbane Lions,Hawthorn,
 208,Finals W1,05/09/2025 14:00,TBA,To be announced,To be announced,
 209,Finals W1,05/09/2025 14:00,TBA,To be announced,To be announced,
 210,Finals W1,05/09/2025 14:00,TBA,To be announced,To be announced,
