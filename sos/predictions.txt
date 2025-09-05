@@ -1,10 +1,10 @@
 BEGIN
     date    |      home      |      away       | e_home | e_away |  e_d  
 ------------+----------------+-----------------+--------+--------+-------
- 2025-09-04 | Adelaide Crows | Collingwood     |  84.85 |  72.48 | 12.37
- 2025-09-05 | Geelong Cats   | Brisbane Lions  |  97.65 |  78.86 | 18.79
- 2025-09-06 | Fremantle      | Gold Coast Suns |  80.69 |  84.35 | -3.66
- 2025-09-06 | GWS Giants     | Hawthorn        |  82.97 |  79.83 |  3.14
+ 2025-09-04 | Adelaide Crows | Collingwood     |  82.50 |  72.94 |  9.57
+ 2025-09-05 | Geelong Cats   | Brisbane Lions  |  97.52 |  78.98 | 18.54
+ 2025-09-06 | Fremantle      | Gold Coast Suns |  80.69 |  84.41 | -3.72
+ 2025-09-06 | GWS Giants     | Hawthorn        |  82.92 |  79.94 |  2.98
 (4 rows)
 
 COPY 4
