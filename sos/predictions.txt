@@ -1,8 +1,8 @@
 BEGIN
-    date    |      home      |      away       | e_home | e_away |  e_d  
-------------+----------------+-----------------+--------+--------+-------
- 2025-09-12 | Adelaide Crows | Hawthorn        |  86.66 |  74.79 | 11.86
- 2025-09-13 | Brisbane Lions | Gold Coast Suns |  85.42 |  82.11 |  3.31
+    date    |      home      |      away       | e_home | e_away | e_d  
+------------+----------------+-----------------+--------+--------+------
+ 2025-09-12 | Adelaide Crows | Hawthorn        |  85.14 |  76.62 | 8.52
+ 2025-09-13 | Brisbane Lions | Gold Coast Suns |  85.39 |  82.14 | 3.25
 (2 rows)
 
 COPY 2
