@@ -1,8 +1,8 @@
 BEGIN
-    date    |      home      |      away       | e_home | e_away | e_d  
-------------+----------------+-----------------+--------+--------+------
- 2025-09-12 | Adelaide Crows | Hawthorn        |  85.14 |  76.62 | 8.52
- 2025-09-13 | Brisbane Lions | Gold Coast Suns |  85.39 |  82.14 | 3.25
+    date    |     home     |      away      | e_home | e_away |  e_d  
+------------+--------------+----------------+--------+--------+-------
+ 2025-09-19 | Geelong Cats | Hawthorn       |  93.73 |  79.00 | 14.73
+ 2025-09-20 | Collingwood  | Brisbane Lions |  82.38 |  73.49 |  8.89
 (2 rows)
 
 COPY 2
