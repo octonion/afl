@@ -1,9 +1,8 @@
 BEGIN
     date    |     home     |      away      | e_home | e_away |  e_d  
 ------------+--------------+----------------+--------+--------+-------
- 2025-09-19 | Geelong Cats | Hawthorn       |  95.27 |  79.38 | 15.90
- 2025-09-20 | Collingwood  | Brisbane Lions |  82.33 |  73.44 |  8.89
-(2 rows)
+ 2025-09-27 | Geelong Cats | Brisbane Lions |  97.35 |  80.07 | 17.28
+(1 row)
 
-COPY 2
+COPY 1
 COMMIT
