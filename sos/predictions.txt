@@ -1,8 +1,214 @@
 BEGIN
-    date    |     home     |      away      | e_home | e_away |  e_d  
-------------+--------------+----------------+--------+--------+-------
- 2025-09-27 | Geelong Cats | Brisbane Lions |  97.35 |  80.07 | 17.28
-(1 row)
+    date    |       home        |       away        | e_home | e_away |  e_d   
+------------+-------------------+-------------------+--------+--------+--------
+ 2026-03-05 | Sydney Swans      | Carlton           |  81.90 |  72.69 |   9.21
+ 2026-03-06 | Gold Coast Suns   | Geelong Cats      |  87.14 |  91.33 |  -4.19
+ 2026-03-07 | Brisbane Lions    | Western Bulldogs  |  91.41 |  91.27 |   0.14
+ 2026-03-07 | GWS Giants        | Hawthorn          |  82.92 |  83.02 |  -0.10
+ 2026-03-08 | St Kilda          | Collingwood       |  70.33 |  88.16 | -17.83
+ 2026-03-12 | Carlton           | Richmond          |  89.45 |  59.27 |  30.18
+ 2026-03-13 | Essendon          | Hawthorn          |  61.96 |  96.35 | -34.39
+ 2026-03-14 | Collingwood       | Adelaide Crows    |  79.12 |  76.83 |   2.29
+ 2026-03-14 | Geelong Cats      | Fremantle         | 100.93 |  75.61 |  25.32
+ 2026-03-14 | Sydney Swans      | Brisbane Lions    |  74.15 |  88.18 | -14.03
+ 2026-03-14 | Western Bulldogs  | GWS Giants        | 103.81 |  82.83 |  20.98
+ 2026-03-15 | Gold Coast Suns   | West Coast Eagles | 117.13 |  57.12 |  60.02
+ 2026-03-15 | Melbourne         | St Kilda          |  88.30 |  81.35 |   6.96
+ 2026-03-15 | North Melbourne   | Port Adelaide     |  86.77 |  86.04 |   0.74
+ 2026-03-19 | Hawthorn          | Sydney Swans      |  92.39 |  68.20 |  24.18
+ 2026-03-20 | Adelaide Crows    | Western Bulldogs  |  91.89 |  89.59 |   2.30
+ 2026-03-21 | Fremantle         | Melbourne         |  93.03 |  73.95 |  19.08
+ 2026-03-21 | GWS Giants        | St Kilda          |  98.58 |  72.91 |  25.67
+ 2026-03-21 | Richmond          | Gold Coast Suns   |  59.13 |  98.97 | -39.84
+ 2026-03-22 | Port Adelaide     | Essendon          |  85.26 |  70.37 |  14.89
+ 2026-03-22 | West Coast Eagles | North Melbourne   |  79.62 |  92.99 | -13.37
+ 2026-03-26 | Geelong Cats      | Adelaide Crows    |  93.80 |  83.29 |  10.52
+ 2026-03-27 | Collingwood       | GWS Giants        |  85.38 |  74.37 |  11.01
+ 2026-03-28 | Essendon          | North Melbourne   |  83.55 |  82.45 |   1.10
+ 2026-03-28 | Fremantle         | Richmond          |  99.03 |  56.66 |  42.36
+ 2026-03-28 | St Kilda          | Brisbane Lions    |  73.92 |  94.34 | -20.42
+ 2026-03-29 | Carlton           | Melbourne         |  84.03 |  77.34 |   6.69
+ 2026-03-29 | Port Adelaide     | West Coast Eagles |  96.16 |  67.06 |  29.11
+ 2026-04-02 | Brisbane Lions    | Collingwood       |  82.07 |  75.07 |   7.01
+ 2026-04-03 | Adelaide Crows    | Fremantle         |  91.58 |  71.95 |  19.62
+ 2026-04-03 | North Melbourne   | Carlton           |  79.56 |  88.21 |  -8.65
+ 2026-04-04 | Richmond          | Port Adelaide     |  69.42 |  81.25 | -11.83
+ 2026-04-04 | West Coast Eagles | Sydney Swans      |  65.61 |  95.73 | -30.12
+ 2026-04-05 | Melbourne         | Gold Coast Suns   |  77.16 |  92.97 | -15.81
+ 2026-04-05 | Western Bulldogs  | Essendon          | 120.48 |  61.89 |  58.59
+ 2026-04-06 | Hawthorn          | Geelong Cats      |  86.81 |  87.91 |  -1.10
+ 2026-04-09 | Adelaide Crows    | Carlton           |  95.78 |  64.99 |  30.79
+ 2026-04-10 | Collingwood       | Fremantle         |  85.13 |  69.75 |  15.38
+ 2026-04-11 | Essendon          | Melbourne         |  74.12 |  86.07 | -11.95
+ 2026-04-11 | Hawthorn          | Western Bulldogs  |  89.19 |  90.16 |  -0.97
+ 2026-04-11 | North Melbourne   | Brisbane Lions    |  72.03 | 107.01 | -34.98
+ 2026-04-11 | Sydney Swans      | Gold Coast Suns   |  76.09 |  86.36 | -10.27
+ 2026-04-12 | Geelong Cats      | West Coast Eagles | 132.50 |  57.41 |  75.09
+ 2026-04-12 | GWS Giants        | Richmond          | 105.59 |  56.83 |  48.75
+ 2026-04-12 | Port Adelaide     | St Kilda          |  81.45 |  82.93 |  -1.48
+ 2026-04-16 | Carlton           | Collingwood       |  67.65 |  82.91 | -15.26
+ 2026-04-17 | Geelong Cats      | Western Bulldogs  | 101.27 |  94.14 |   7.13
+ 2026-04-17 | Sydney Swans      | GWS Giants        |  78.54 |  85.80 |  -7.27
+ 2026-04-18 | Adelaide Crows    | St Kilda          | 101.84 |  67.56 |  34.27
+ 2026-04-18 | Gold Coast Suns   | Essendon          | 103.86 |  59.94 |  43.92
+ 2026-04-18 | Hawthorn          | Port Adelaide     | 101.40 |  63.80 |  37.60
+ 2026-04-19 | Melbourne         | Brisbane Lions    |  75.19 |  94.93 | -19.74
+ 2026-04-19 | North Melbourne   | Richmond          |  90.60 |  71.47 |  19.13
+ 2026-04-19 | West Coast Eagles | Fremantle         |  63.12 | 101.64 | -38.52
+ 2026-04-23 | Western Bulldogs  | Sydney Swans      | 107.59 |  73.17 |  34.42
+ 2026-04-24 | Richmond          | Melbourne         |  68.09 |  88.08 | -19.99
+ 2026-04-25 | Essendon          | Collingwood       |  59.67 |  92.28 | -32.60
+ 2026-04-25 | Fremantle         | Carlton           |  86.95 |  69.93 |  17.02
+ 2026-04-25 | Hawthorn          | Gold Coast Suns   |  86.37 |  77.72 |   8.66
+ 2026-04-25 | Port Adelaide     | Geelong Cats      |  71.54 | 107.22 | -35.68
+ 2026-04-26 | Brisbane Lions    | Adelaide Crows    |  84.67 |  80.75 |   3.92
+ 2026-04-26 | GWS Giants        | North Melbourne   | 111.82 |  71.04 |  40.77
+ 2026-04-26 | St Kilda          | West Coast Eagles | 102.48 |  65.36 |  37.12
+ 2026-04-30 | Collingwood       | Hawthorn          |  79.63 |  74.57 |   5.06
+ 2026-05-01 | Adelaide Crows    | Port Adelaide     | 104.47 |  63.40 |  41.08
+ 2026-05-01 | Western Bulldogs  | Fremantle         | 103.51 |  77.68 |  25.83
+ 2026-05-02 | Carlton           | St Kilda          |  83.51 |  76.03 |   7.48
+ 2026-05-02 | Essendon          | Brisbane Lions    |  62.72 |  98.75 | -36.03
+ 2026-05-02 | Geelong Cats      | North Melbourne   | 127.31 |  69.18 |  58.13
+ 2026-05-02 | West Coast Eagles | Richmond          |  75.18 |  74.39 |   0.79
+ 2026-05-03 | Gold Coast Suns   | GWS Giants        |  89.49 |  80.22 |   9.27
+ 2026-05-03 | Sydney Swans      | Melbourne         |  87.62 |  76.86 |  10.76
+ 2026-05-07 | Fremantle         | Hawthorn          |  77.76 |  82.77 |  -5.01
+ 2026-05-08 | Brisbane Lions    | Carlton           |  95.28 |  66.22 |  29.06
+ 2026-05-08 | Port Adelaide     | Western Bulldogs  |  73.50 | 109.96 | -36.46
+ 2026-05-09 | Geelong Cats      | Collingwood       |  90.93 |  77.42 |  13.50
+ 2026-05-09 | Gold Coast Suns   | St Kilda          |  99.22 |  70.64 |  28.58
+ 2026-05-09 | GWS Giants        | Essendon          | 103.18 |  61.87 |  41.32
+ 2026-05-09 | North Melbourne   | Sydney Swans      |  79.06 |  91.98 | -12.92
+ 2026-05-10 | Melbourne         | West Coast Eagles | 104.25 |  65.77 |  38.47
+ 2026-05-10 | Richmond          | Adelaide Crows    |  56.55 | 101.58 | -45.02
+ 2026-05-14 | Brisbane Lions    | Geelong Cats      |  88.97 |  89.00 |  -0.03
+ 2026-05-15 | Gold Coast Suns   | Port Adelaide     | 101.79 |  66.28 |  35.50
+ 2026-05-15 | Sydney Swans      | Collingwood       |  70.54 |  82.40 | -11.86
+ 2026-05-16 | Adelaide Crows    | North Melbourne   | 115.51 |  65.83 |  49.68
+ 2026-05-16 | Carlton           | Western Bulldogs  |  75.35 | 100.81 | -25.46
+ 2026-05-16 | Melbourne         | Hawthorn          |  74.27 |  92.62 | -18.35
+ 2026-05-17 | Essendon          | Fremantle         |  66.24 |  90.12 | -23.88
+ 2026-05-17 | St Kilda          | Richmond          |  92.98 |  63.01 |  29.97
+ 2026-05-17 | West Coast Eagles | GWS Giants        |  63.31 | 108.37 | -45.07
+ 2026-05-21 | Hawthorn          | Adelaide Crows    |  82.61 |  79.77 |   2.85
+ 2026-05-22 | Fremantle         | St Kilda          |  92.45 |  72.70 |  19.75
+ 2026-05-22 | Richmond          | Essendon          |  70.83 |  73.47 |  -2.64
+ 2026-05-23 | Collingwood       | West Coast Eagles | 111.76 |  52.95 |  58.81
+ 2026-05-23 | Geelong Cats      | Sydney Swans      | 104.91 |  71.22 |  33.69
+ 2026-05-23 | North Melbourne   | Gold Coast Suns   |  73.91 | 104.80 | -30.89
+ 2026-05-23 | Port Adelaide     | Carlton           |  76.61 |  79.78 |  -3.17
+ 2026-05-24 | GWS Giants        | Brisbane Lions    |  83.94 |  85.09 |  -1.15
+ 2026-05-24 | Western Bulldogs  | Melbourne         | 115.82 |  74.20 |  41.63
+ 2026-05-28 | St Kilda          | Hawthorn          |  73.02 |  92.05 | -19.03
+ 2026-05-29 | Carlton           | Geelong Cats      |  73.34 |  98.30 | -24.96
+ 2026-05-30 | Brisbane Lions    | Fremantle         |  91.10 |  73.31 |  17.79
+ 2026-05-30 | Sydney Swans      | Richmond          |  93.27 |  58.90 |  34.37
+ 2026-05-30 | Western Bulldogs  | Collingwood       |  93.25 |  79.55 |  13.70
+ 2026-05-31 | Melbourne         | GWS Giants        |  79.64 |  92.37 | -12.73
+ 2026-05-31 | West Coast Eagles | Essendon          |  73.47 |  80.98 |  -7.51
+ 2026-06-04 | Adelaide Crows    | Geelong Cats      |  89.44 |  87.35 |   2.08
+ 2026-06-05 | Hawthorn          | Western Bulldogs  |  89.19 |  90.16 |  -0.97
+ 2026-06-06 | Gold Coast Suns   | Brisbane Lions    |  84.49 |  82.44 |   2.05
+ 2026-06-06 | North Melbourne   | Fremantle         |  76.06 |  97.65 | -21.59
+ 2026-06-06 | West Coast Eagles | Port Adelaide     |  72.01 |  89.55 | -17.54
+ 2026-06-07 | Essendon          | Carlton           |  69.28 |  81.40 | -12.12
+ 2026-06-07 | Sydney Swans      | St Kilda          |  87.08 |  75.56 |  11.52
+ 2026-06-08 | Collingwood       | Melbourne         |  95.26 |  66.62 |  28.64
+ 2026-06-11 | Western Bulldogs  | Adelaide Crows    |  96.20 |  85.57 |  10.63
+ 2026-06-12 | Geelong Cats      | Gold Coast Suns   |  98.08 |  81.15 |  16.93
+ 2026-06-13 | Melbourne         | Essendon          |  92.43 |  69.02 |  23.41
+ 2026-06-13 | North Melbourne   | West Coast Eagles |  99.86 |  74.14 |  25.72
+ 2026-06-13 | Port Adelaide     | Sydney Swans      |  76.13 |  83.19 |  -7.05
+ 2026-06-14 | Richmond          | Brisbane Lions    |  57.62 | 101.05 | -43.43
+ 2026-06-14 | St Kilda          | GWS Giants        |  78.30 |  91.80 | -13.50
+ 2026-06-18 | Fremantle         | Geelong Cats      |  81.20 |  93.99 | -12.79
+ 2026-06-19 | Gold Coast Suns   | Hawthorn          |  83.46 |  80.43 |   3.02
+ 2026-06-20 | Adelaide Crows    | Melbourne         | 102.47 |  68.73 |  33.75
+ 2026-06-20 | Collingwood       | Port Adelaide     |  97.12 |  61.45 |  35.67
+ 2026-06-20 | GWS Giants        | Carlton           |  92.71 |  70.14 |  22.58
+ 2026-06-21 | Richmond          | North Melbourne   |  76.75 |  84.37 |  -7.62
+ 2026-06-21 | St Kilda          | Western Bulldogs  |  78.33 | 107.19 | -28.86
+ 2026-06-27 | Brisbane Lions    | Sydney Swans      |  94.69 |  69.05 |  25.64
+ 2026-06-27 | Carlton           | West Coast Eagles |  98.59 |  61.48 |  37.11
+ 2026-06-27 | Collingwood       | Richmond          | 101.40 |  51.05 |  50.35
+ 2026-06-27 | Fremantle         | Gold Coast Suns   |  80.79 |  83.09 |  -2.30
+ 2026-06-27 | Hawthorn          | GWS Giants        |  89.15 |  77.21 |  11.93
+ 2026-06-27 | North Melbourne   | Essendon          |  88.54 |  77.81 |  10.73
+ 2026-06-27 | Port Adelaide     | Adelaide Crows    |  68.08 |  97.29 | -29.21
+ 2026-07-04 | Essendon          | St Kilda          |  73.66 |  84.62 | -10.96
+ 2026-07-04 | Geelong Cats      | Brisbane Lions    |  95.57 |  82.85 |  12.72
+ 2026-07-04 | Gold Coast Suns   | Collingwood       |  80.38 |  77.03 |   3.35
+ 2026-07-04 | GWS Giants        | Fremantle         |  88.65 |  77.65 |  11.00
+ 2026-07-04 | Hawthorn          | Melbourne         |  99.46 |  69.17 |  30.29
+ 2026-07-04 | Port Adelaide     | North Melbourne   |  92.39 |  80.81 |  11.59
+ 2026-07-04 | Richmond          | Carlton           |  63.64 |  83.30 | -19.65
+ 2026-07-04 | Sydney Swans      | Western Bulldogs  |  78.57 | 100.19 | -21.62
+ 2026-07-04 | West Coast Eagles | Adelaide Crows    |  58.66 | 111.95 | -53.29
+ 2026-07-11 | Adelaide Crows    | Gold Coast Suns   |  88.99 |  77.22 |  11.77
+ 2026-07-11 | Brisbane Lions    | Essendon          | 106.04 |  58.41 |  47.63
+ 2026-07-11 | Carlton           | Hawthorn          |  70.24 |  86.57 | -16.33
+ 2026-07-11 | Collingwood       | North Melbourne   | 107.38 |  63.81 |  43.57
+ 2026-07-11 | Fremantle         | Sydney Swans      |  86.41 |  72.92 |  13.49
+ 2026-07-11 | GWS Giants        | Geelong Cats      |  86.58 |  94.27 |  -7.69
+ 2026-07-11 | Melbourne         | Richmond          |  94.58 |  63.41 |  31.18
+ 2026-07-11 | St Kilda          | Port Adelaide     |  89.06 |  75.85 |  13.20
+ 2026-07-11 | Western Bulldogs  | West Coast Eagles | 135.89 |  58.98 |  76.91
+ 2026-07-18 | Collingwood       | Carlton           |  89.04 |  63.00 |  26.04
+ 2026-07-18 | Essendon          | GWS Giants        |  66.44 |  96.09 | -29.65
+ 2026-07-18 | Geelong Cats      | St Kilda          | 112.24 |  71.00 |  41.24
+ 2026-07-18 | Gold Coast Suns   | Western Bulldogs  |  89.53 |  93.67 |  -4.14
+ 2026-07-18 | North Melbourne   | Melbourne         |  85.11 |  93.27 |  -8.16
+ 2026-07-18 | Port Adelaide     | Fremantle         |  73.25 |  88.32 | -15.07
+ 2026-07-18 | Richmond          | Hawthorn          |  56.92 |  98.59 | -41.67
+ 2026-07-18 | Sydney Swans      | Adelaide Crows    |  72.78 |  88.64 | -15.86
+ 2026-07-18 | West Coast Eagles | Brisbane Lions    |  59.77 | 111.37 | -51.60
+ 2026-07-25 | Adelaide Crows    | Collingwood       |  82.50 |  73.68 |   8.82
+ 2026-07-25 | Brisbane Lions    | Port Adelaide     | 103.93 |  64.59 |  39.34
+ 2026-07-25 | Carlton           | Gold Coast Suns   |  72.97 |  86.90 | -13.93
+ 2026-07-25 | Fremantle         | West Coast Eagles | 109.14 |  58.78 |  50.36
+ 2026-07-25 | GWS Giants        | Sydney Swans      |  92.14 |  73.13 |  19.00
+ 2026-07-25 | Hawthorn          | Essendon          | 103.46 |  57.70 |  45.77
+ 2026-07-25 | Melbourne         | Geelong Cats      |  77.55 | 105.17 | -27.62
+ 2026-07-25 | North Melbourne   | St Kilda          |  84.59 |  91.70 |  -7.11
+ 2026-07-25 | Western Bulldogs  | Richmond          | 123.29 |  56.86 |  66.43
+ 2026-08-01 | Carlton           | Brisbane Lions    |  71.11 |  88.73 | -17.62
+ 2026-08-01 | Collingwood       | Geelong Cats      |  83.14 |  84.67 |  -1.53
+ 2026-08-01 | Essendon          | Adelaide Crows    |  61.56 |  99.26 | -37.70
+ 2026-08-01 | Fremantle         | Western Bulldogs  |  83.42 |  96.39 | -12.97
+ 2026-08-01 | Gold Coast Suns   | Melbourne         |  99.84 |  71.86 |  27.98
+ 2026-08-01 | Hawthorn          | North Melbourne   | 112.12 |  66.25 |  45.86
+ 2026-08-01 | Port Adelaide     | GWS Giants        |  73.46 |  94.17 | -20.71
+ 2026-08-01 | Richmond          | West Coast Eagles |  79.88 |  70.01 |   9.87
+ 2026-08-01 | St Kilda          | Sydney Swans      |  81.14 |  81.09 |   0.05
+ 2026-08-08 | Adelaide Crows    | Richmond          | 109.08 |  52.66 |  56.41
+ 2026-08-08 | Brisbane Lions    | Hawthorn          |  85.21 |  78.38 |   6.83
+ 2026-08-08 | Geelong Cats      | Essendon          | 117.48 |  60.24 |  57.24
+ 2026-08-08 | GWS Giants        | Gold Coast Suns   |  86.14 |  83.33 |   2.81
+ 2026-08-08 | Melbourne         | Fremantle         |  79.41 |  86.63 |  -7.22
+ 2026-08-08 | St Kilda          | Carlton           |  81.65 |  77.77 |   3.88
+ 2026-08-08 | Sydney Swans      | Port Adelaide     |  89.33 |  70.90 |  18.43
+ 2026-08-08 | West Coast Eagles | Collingwood       |  56.86 | 104.07 | -47.21
+ 2026-08-08 | Western Bulldogs  | North Melbourne   | 130.56 |  71.08 |  59.49
+ 2026-08-15 | Brisbane Lions    | Gold Coast Suns   |  88.53 |  78.68 |   9.85
+ 2026-08-15 | Essendon          | Sydney Swans      |  68.85 |  84.88 | -16.03
+ 2026-08-15 | Fremantle         | Adelaide Crows    |  77.27 |  85.28 |  -8.01
+ 2026-08-15 | GWS Giants        | West Coast Eagles | 116.38 |  58.95 |  57.42
+ 2026-08-15 | Hawthorn          | Collingwood       |  80.08 |  74.15 |   5.93
+ 2026-08-15 | North Melbourne   | Geelong Cats      |  74.29 | 118.55 | -44.27
+ 2026-08-15 | Port Adelaide     | Melbourne         |  81.96 |  84.36 |  -2.39
+ 2026-08-15 | Richmond          | St Kilda          |  67.67 |  86.59 | -18.92
+ 2026-08-15 | Western Bulldogs  | Carlton           | 108.26 |  70.17 |  38.09
+ 2026-08-22 | Adelaide Crows    | GWS Giants        |  91.85 |  76.72 |  15.12
+ 2026-08-22 | Carlton           | Fremantle         |  75.10 |  80.97 |  -5.88
+ 2026-08-22 | Collingwood       | Brisbane Lions    |  80.61 |  76.43 |   4.18
+ 2026-08-22 | Essendon          | Port Adelaide     |  75.57 |  79.40 |  -3.83
+ 2026-08-22 | Geelong Cats      | Richmond          | 120.22 |  55.34 |  64.88
+ 2026-08-22 | Melbourne         | Western Bulldogs  |  79.68 | 107.86 | -28.18
+ 2026-08-22 | St Kilda          | Gold Coast Suns   |  75.86 |  92.40 | -16.54
+ 2026-08-22 | Sydney Swans      | North Melbourne   |  98.77 |  73.62 |  25.15
+ 2026-08-22 | West Coast Eagles | Hawthorn          |  59.04 | 108.66 | -49.62
+(207 rows)
 
-COPY 1
+COPY 207
 COMMIT

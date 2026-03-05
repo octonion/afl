@@ -4,7 +4,7 @@ library(lme4)
 library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
-con <- dbConnect(drv, dbname="arf")
+con <- dbConnect(drv, dbname="afl")
 
 query <- dbSendQuery(con, "
 select
@@ -23,7 +23,7 @@ r.team_score::float as gs,
 from afl.results r
 
 where
-    r.year between 2025 and 2025
+    r.year between 2025 and 2026
 
 ;")
 
