@@ -4,7 +4,7 @@ library(lme4)
 library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
-con <- dbConnect(drv, dbname="afl")
+con <- dbConnect(drv, dbname="arf")
 
 query <- dbSendQuery(con, "
 select
