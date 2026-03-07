@@ -1,208 +1,207 @@
 date,home,away,e_home,e_away,e_d
-2026-03-05,Sydney Swans,Carlton,90.35,68.58,21.77
-2026-03-06,Gold Coast Suns,Geelong Cats,87.58,90.82,-3.25
-2026-03-07,Brisbane Lions,Western Bulldogs,91.85,90.63,1.22
-2026-03-07,GWS Giants,Hawthorn,83.23,82.39,0.85
-2026-03-08,St Kilda,Collingwood,70.64,87.55,-16.90
-2026-03-12,Carlton,Richmond,87.28,61.69,25.59
-2026-03-13,Essendon,Hawthorn,62.07,95.69,-33.62
-2026-03-14,Collingwood,Adelaide Crows,79.33,76.43,2.90
-2026-03-14,Geelong Cats,Fremantle,101.15,75.30,25.85
-2026-03-14,Sydney Swans,Brisbane Lions,77.95,85.75,-7.80
-2026-03-14,Western Bulldogs,GWS Giants,104.09,82.40,21.69
-2026-03-15,Gold Coast Suns,West Coast Eagles,117.78,56.69,61.09
-2026-03-15,Melbourne,St Kilda,88.63,80.93,7.70
-2026-03-15,North Melbourne,Port Adelaide,86.90,85.40,1.49
-2026-03-19,Hawthorn,Sydney Swans,90.45,71.18,19.27
-2026-03-20,Adelaide Crows,Western Bulldogs,92.14,89.19,2.95
-2026-03-21,Fremantle,Melbourne,93.47,73.43,20.04
-2026-03-21,GWS Giants,St Kilda,99.00,72.42,26.57
-2026-03-21,Richmond,Gold Coast Suns,59.29,98.57,-39.28
-2026-03-22,Port Adelaide,Essendon,85.34,69.87,15.47
-2026-03-22,West Coast Eagles,North Melbourne,79.77,92.39,-12.62
-2026-03-26,Geelong Cats,Adelaide Crows,94.22,82.83,11.38
-2026-03-27,Collingwood,GWS Giants,85.44,74.06,11.38
-2026-03-28,Essendon,North Melbourne,83.74,81.78,1.95
-2026-03-28,Fremantle,Richmond,99.53,56.23,43.29
-2026-03-28,St Kilda,Brisbane Lions,74.05,93.98,-19.93
-2026-03-29,Carlton,Melbourne,81.97,80.56,1.41
-2026-03-29,Port Adelaide,West Coast Eagles,96.40,66.56,29.85
-2026-04-02,Brisbane Lions,Collingwood,82.55,74.39,8.16
-2026-04-03,Adelaide Crows,Fremantle,91.72,71.67,20.05
-2026-04-03,North Melbourne,Carlton,83.44,85.26,-1.81
-2026-04-04,Richmond,Port Adelaide,69.61,80.68,-11.07
-2026-04-04,West Coast Eagles,Sydney Swans,64.17,100.04,-35.87
-2026-04-05,Melbourne,Gold Coast Suns,77.42,92.57,-15.15
-2026-04-05,Western Bulldogs,Essendon,120.90,61.44,59.45
-2026-04-06,Hawthorn,Geelong Cats,87.09,87.41,-0.32
-2026-04-09,Adelaide Crows,Carlton,100.62,62.85,37.77
-2026-04-10,Collingwood,Fremantle,85.17,69.48,15.69
-2026-04-11,Essendon,Melbourne,74.29,85.56,-11.26
-2026-04-11,Hawthorn,Western Bulldogs,89.41,89.67,-0.27
-2026-04-11,North Melbourne,Brisbane Lions,71.99,106.60,-34.61
-2026-04-11,Sydney Swans,Gold Coast Suns,80.14,83.93,-3.80
-2026-04-12,Geelong Cats,West Coast Eagles,133.13,57.02,76.12
-2026-04-12,GWS Giants,Richmond,106.09,56.41,49.68
-2026-04-12,Port Adelaide,St Kilda,81.58,82.48,-0.89
-2026-04-16,Carlton,Collingwood,66.03,86.22,-20.20
-2026-04-17,Geelong Cats,Western Bulldogs,101.62,93.71,7.91
-2026-04-17,Sydney Swans,GWS Giants,82.62,83.36,-0.74
-2026-04-18,Adelaide Crows,St Kilda,102.16,67.25,34.92
-2026-04-18,Gold Coast Suns,Essendon,104.26,59.51,44.75
-2026-04-18,Hawthorn,Port Adelaide,101.67,63.30,38.37
-2026-04-19,Melbourne,Brisbane Lions,75.31,94.58,-19.26
-2026-04-19,North Melbourne,Richmond,90.80,71.05,19.74
-2026-04-19,West Coast Eagles,Fremantle,63.13,101.28,-38.14
-2026-04-23,Western Bulldogs,Sydney Swans,105.46,76.36,29.11
-2026-04-24,Richmond,Melbourne,68.31,87.65,-19.34
-2026-04-25,Essendon,Collingwood,59.84,91.57,-31.73
-2026-04-25,Fremantle,Carlton,91.47,67.48,23.99
-2026-04-25,Hawthorn,Gold Coast Suns,86.59,77.33,9.26
-2026-04-25,Port Adelaide,Geelong Cats,71.68,106.64,-34.95
-2026-04-26,Brisbane Lions,Adelaide Crows,85.16,80.11,5.05
-2026-04-26,GWS Giants,North Melbourne,112.30,70.42,41.88
-2026-04-26,St Kilda,West Coast Eagles,102.97,64.90,38.07
-2026-04-30,Collingwood,Hawthorn,79.76,74.16,5.60
-2026-05-01,Adelaide Crows,Port Adelaide,104.78,62.96,41.82
-2026-05-01,Western Bulldogs,Fremantle,103.76,77.30,26.46
-2026-05-02,Carlton,St Kilda,81.45,79.20,2.25
-2026-05-02,Essendon,Brisbane Lions,62.73,98.30,-35.57
-2026-05-02,Geelong Cats,North Melbourne,127.80,68.70,59.11
-2026-05-02,West Coast Eagles,Richmond,75.36,74.02,1.35
-2026-05-03,Gold Coast Suns,GWS Giants,89.77,79.80,9.96
-2026-05-03,Sydney Swans,Melbourne,92.33,74.63,17.69
-2026-05-07,Fremantle,Hawthorn,78.08,82.13,-4.04
-2026-05-08,Brisbane Lions,Carlton,100.30,63.87,36.43
-2026-05-08,Port Adelaide,Western Bulldogs,73.58,109.39,-35.81
-2026-05-09,Geelong Cats,Collingwood,91.34,76.92,14.42
-2026-05-09,Gold Coast Suns,St Kilda,99.67,70.25,29.43
-2026-05-09,GWS Giants,Essendon,103.55,61.35,42.20
-2026-05-09,North Melbourne,Sydney Swans,77.31,96.03,-18.72
-2026-05-10,Melbourne,West Coast Eagles,104.73,65.31,39.42
-2026-05-10,Richmond,Adelaide Crows,56.76,101.03,-44.27
-2026-05-14,Brisbane Lions,Geelong Cats,89.47,88.35,1.13
-2026-05-15,Gold Coast Suns,Port Adelaide,102.23,65.77,36.46
-2026-05-15,Sydney Swans,Collingwood,74.37,79.88,-5.51
-2026-05-16,Adelaide Crows,North Melbourne,115.89,65.38,50.51
-2026-05-16,Carlton,Western Bulldogs,73.46,105.05,-31.59
-2026-05-16,Melbourne,Hawthorn,74.52,92.06,-17.54
-2026-05-17,Essendon,Fremantle,66.27,89.65,-23.38
-2026-05-17,St Kilda,Richmond,93.38,62.64,30.75
-2026-05-17,West Coast Eagles,GWS Giants,63.33,107.95,-44.62
-2026-05-21,Hawthorn,Adelaide Crows,82.89,79.26,3.63
-2026-05-22,Fremantle,St Kilda,92.87,72.19,20.68
-2026-05-22,Richmond,Essendon,71.00,73.00,-2.01
-2026-05-23,Collingwood,West Coast Eagles,112.10,52.61,59.49
-2026-05-23,Geelong Cats,Sydney Swans,102.81,74.38,28.42
-2026-05-23,North Melbourne,Gold Coast Suns,74.01,104.34,-30.33
-2026-05-23,Port Adelaide,Carlton,80.35,77.09,3.26
-2026-05-24,GWS Giants,Brisbane Lions,84.12,84.64,-0.51
-2026-05-24,Western Bulldogs,Melbourne,116.32,73.77,42.55
-2026-05-28,St Kilda,Hawthorn,73.26,91.48,-18.21
-2026-05-29,Carlton,Geelong Cats,71.56,102.40,-30.84
-2026-05-30,Brisbane Lions,Fremantle,91.42,72.83,18.60
-2026-05-30,Sydney Swans,Richmond,98.31,57.16,41.16
-2026-05-30,Western Bulldogs,Collingwood,93.70,78.96,14.74
-2026-05-31,Melbourne,GWS Giants,79.82,91.94,-12.12
-2026-05-31,West Coast Eagles,Essendon,73.56,80.50,-6.94
-2026-06-04,Adelaide Crows,Geelong Cats,89.76,86.94,2.82
-2026-06-05,Hawthorn,Western Bulldogs,89.41,89.67,-0.27
-2026-06-06,Gold Coast Suns,Brisbane Lions,84.70,82.09,2.61
-2026-06-06,North Melbourne,Fremantle,76.06,97.22,-21.16
-2026-06-06,West Coast Eagles,Port Adelaide,72.13,88.96,-16.84
-2026-06-07,Essendon,Carlton,72.70,78.62,-5.91
-2026-06-07,Sydney Swans,St Kilda,91.74,73.38,18.36
-2026-06-08,Collingwood,Melbourne,95.48,66.31,29.17
-2026-06-11,Western Bulldogs,Adelaide Crows,96.65,85.03,11.62
-2026-06-12,Geelong Cats,Gold Coast Suns,98.42,80.82,17.60
-2026-06-13,Melbourne,Essendon,92.71,68.56,24.15
-2026-06-13,North Melbourne,West Coast Eagles,100.12,73.62,26.50
-2026-06-13,Port Adelaide,Sydney Swans,74.44,86.83,-12.38
-2026-06-14,Richmond,Brisbane Lions,57.68,100.71,-43.03
-2026-06-14,St Kilda,GWS Giants,78.48,91.36,-12.88
-2026-06-18,Fremantle,Geelong Cats,81.60,93.34,-11.74
-2026-06-19,Gold Coast Suns,Hawthorn,83.80,79.91,3.89
-2026-06-20,Adelaide Crows,Melbourne,102.82,68.40,34.42
-2026-06-20,Collingwood,Port Adelaide,97.30,61.03,36.26
-2026-06-20,GWS Giants,Carlton,97.50,67.69,29.81
-2026-06-21,Richmond,North Melbourne,76.99,83.79,-6.79
-2026-06-21,St Kilda,Western Bulldogs,78.60,106.66,-28.06
-2026-06-27,Brisbane Lions,Sydney Swans,92.92,71.94,20.99
-2026-06-27,Carlton,West Coast Eagles,96.24,63.91,32.33
-2026-06-27,Collingwood,Richmond,101.66,50.78,50.89
-2026-06-27,Fremantle,Gold Coast Suns,81.13,82.58,-1.45
-2026-06-27,Hawthorn,GWS Giants,89.27,76.81,12.47
-2026-06-27,North Melbourne,Essendon,88.62,77.28,11.35
-2026-06-27,Port Adelaide,Adelaide Crows,68.22,96.69,-28.47
-2026-07-04,Essendon,St Kilda,73.82,84.12,-10.29
-2026-07-04,Geelong Cats,Brisbane Lions,95.74,82.57,13.17
-2026-07-04,Gold Coast Suns,Collingwood,80.80,76.47,4.33
-2026-07-04,GWS Giants,Fremantle,88.88,77.19,11.69
-2026-07-04,Hawthorn,Melbourne,99.76,68.77,30.99
-2026-07-04,Port Adelaide,North Melbourne,92.55,80.19,12.36
-2026-07-04,Richmond,Carlton,66.85,80.55,-13.70
-2026-07-04,Sydney Swans,Western Bulldogs,82.74,97.33,-14.58
-2026-07-04,West Coast Eagles,Adelaide Crows,58.81,111.40,-52.60
-2026-07-11,Adelaide Crows,Gold Coast Suns,89.24,76.92,12.32
-2026-07-11,Brisbane Lions,Essendon,106.52,57.89,48.63
-2026-07-11,Carlton,Hawthorn,68.48,90.09,-21.62
-2026-07-11,Collingwood,North Melbourne,107.61,63.38,44.23
-2026-07-11,Fremantle,Sydney Swans,84.75,76.00,8.74
-2026-07-11,GWS Giants,Geelong Cats,86.98,93.64,-6.66
-2026-07-11,Melbourne,Richmond,94.98,63.04,31.95
-2026-07-11,St Kilda,Port Adelaide,89.37,75.29,14.09
-2026-07-11,Western Bulldogs,West Coast Eagles,136.58,58.53,78.04
-2026-07-18,Collingwood,Carlton,93.43,60.93,32.50
-2026-07-18,Essendon,GWS Giants,66.48,95.56,-29.08
-2026-07-18,Geelong Cats,St Kilda,112.67,70.65,42.01
-2026-07-18,Gold Coast Suns,Western Bulldogs,89.90,93.17,-3.27
-2026-07-18,North Melbourne,Melbourne,85.27,92.78,-7.51
-2026-07-18,Port Adelaide,Fremantle,73.24,87.90,-14.66
-2026-07-18,Richmond,Hawthorn,57.07,98.03,-40.96
-2026-07-18,Sydney Swans,Adelaide Crows,76.72,86.03,-9.31
-2026-07-18,West Coast Eagles,Brisbane Lions,59.76,111.05,-51.29
-2026-07-25,Adelaide Crows,Collingwood,82.82,73.21,9.61
-2026-07-25,Brisbane Lions,Port Adelaide,104.44,63.97,40.47
-2026-07-25,Carlton,Gold Coast Suns,71.15,90.59,-19.45
-2026-07-25,Fremantle,West Coast Eagles,109.75,58.26,51.48
-2026-07-25,GWS Giants,Sydney Swans,90.33,76.25,14.09
-2026-07-25,Hawthorn,Essendon,103.69,57.28,46.41
-2026-07-25,Melbourne,Geelong Cats,77.87,104.64,-26.76
-2026-07-25,North Melbourne,St Kilda,84.73,91.22,-6.49
-2026-07-25,Western Bulldogs,Richmond,123.86,56.49,67.36
-2026-08-01,Carlton,Brisbane Lions,69.21,92.56,-23.35
-2026-08-01,Collingwood,Geelong Cats,83.35,84.29,-0.93
-2026-08-01,Essendon,Adelaide Crows,61.73,98.62,-36.88
-2026-08-01,Fremantle,Western Bulldogs,83.77,95.76,-11.99
-2026-08-01,Gold Coast Suns,Melbourne,100.31,71.45,28.86
-2026-08-01,Hawthorn,North Melbourne,112.45,65.74,46.71
-2026-08-01,Port Adelaide,GWS Giants,73.48,93.70,-20.22
-2026-08-01,Richmond,West Coast Eagles,80.21,69.55,10.66
-2026-08-01,St Kilda,Sydney Swans,79.51,84.66,-5.15
-2026-08-08,Adelaide Crows,Richmond,109.48,52.38,57.10
-2026-08-08,Brisbane Lions,Hawthorn,85.62,77.73,7.89
-2026-08-08,Geelong Cats,Essendon,117.85,59.85,58.00
-2026-08-08,GWS Giants,Gold Coast Suns,86.48,82.84,3.64
-2026-08-08,Melbourne,Fremantle,79.57,86.25,-6.68
-2026-08-08,St Kilda,Carlton,85.82,75.16,10.66
-2026-08-08,Sydney Swans,Port Adelaide,94.09,68.70,25.39
-2026-08-08,West Coast Eagles,Collingwood,57.01,103.45,-46.44
-2026-08-08,Western Bulldogs,North Melbourne,131.11,70.52,60.59
-2026-08-15,Brisbane Lions,Gold Coast Suns,88.96,78.16,10.80
-2026-08-15,Essendon,Sydney Swans,67.36,88.56,-21.19
-2026-08-15,Fremantle,Adelaide Crows,77.66,84.64,-6.98
-2026-08-15,GWS Giants,West Coast Eagles,116.98,58.45,58.54
-2026-08-15,Hawthorn,Collingwood,80.36,73.60,6.76
-2026-08-15,North Melbourne,Geelong Cats,74.44,117.94,-43.50
-2026-08-15,Port Adelaide,Melbourne,82.11,83.89,-1.78
-2026-08-15,Richmond,St Kilda,67.88,86.18,-18.30
-2026-08-15,Western Bulldogs,Carlton,113.83,67.79,46.04
-2026-08-22,Adelaide Crows,GWS Giants,92.01,76.40,15.61
-2026-08-22,Carlton,Fremantle,73.12,84.41,-11.29
-2026-08-22,Collingwood,Brisbane Lions,80.61,76.18,4.43
-2026-08-22,Essendon,Port Adelaide,75.71,78.75,-3.04
-2026-08-22,Geelong Cats,Richmond,120.74,55.03,65.70
-2026-08-22,Melbourne,Western Bulldogs,79.94,107.34,-27.40
-2026-08-22,St Kilda,Gold Coast Suns,76.12,91.98,-15.86
-2026-08-22,Sydney Swans,North Melbourne,104.07,71.34,32.72
-2026-08-22,West Coast Eagles,Hawthorn,59.12,108.09,-48.97
+2026-03-06,Gold Coast Suns,Geelong Cats,95.81,84.21,11.60
+2026-03-07,Brisbane Lions,Western Bulldogs,92.21,90.06,2.15
+2026-03-07,GWS Giants,Hawthorn,83.60,81.81,1.79
+2026-03-08,St Kilda,Collingwood,70.87,87.15,-16.28
+2026-03-12,Carlton,Richmond,87.82,61.29,26.53
+2026-03-13,Essendon,Hawthorn,62.39,95.01,-32.62
+2026-03-14,Collingwood,Adelaide Crows,79.59,76.01,3.58
+2026-03-14,Geelong Cats,Fremantle,98.53,78.24,20.29
+2026-03-14,Sydney Swans,Brisbane Lions,78.31,85.18,-6.86
+2026-03-14,Western Bulldogs,GWS Giants,104.55,81.87,22.67
+2026-03-15,Gold Coast Suns,West Coast Eagles,123.40,54.21,69.19
+2026-03-15,Melbourne,St Kilda,89.45,80.14,9.30
+2026-03-15,North Melbourne,Port Adelaide,87.56,84.75,2.82
+2026-03-19,Hawthorn,Sydney Swans,90.90,70.70,20.21
+2026-03-20,Adelaide Crows,Western Bulldogs,92.66,88.54,4.12
+2026-03-21,Fremantle,Melbourne,93.86,73.04,20.83
+2026-03-21,GWS Giants,St Kilda,99.68,71.82,27.86
+2026-03-21,Richmond,Gold Coast Suns,57.27,102.15,-44.89
+2026-03-22,Port Adelaide,Essendon,85.54,69.62,15.92
+2026-03-22,West Coast Eagles,North Melbourne,80.28,91.89,-11.61
+2026-03-26,Geelong Cats,Adelaide Crows,91.80,86.03,5.77
+2026-03-27,Collingwood,GWS Giants,85.77,73.59,12.18
+2026-03-28,Essendon,North Melbourne,84.24,81.29,2.94
+2026-03-28,Fremantle,Richmond,100.16,55.81,44.35
+2026-03-28,St Kilda,Brisbane Lions,74.28,93.51,-19.23
+2026-03-29,Carlton,Melbourne,82.30,80.20,2.10
+2026-03-29,Port Adelaide,West Coast Eagles,96.69,66.35,30.35
+2026-04-02,Brisbane Lions,Collingwood,82.88,73.89,8.99
+2026-04-03,Adelaide Crows,Fremantle,92.12,71.24,20.88
+2026-04-03,North Melbourne,Carlton,83.90,84.86,-0.96
+2026-04-04,Richmond,Port Adelaide,70.09,80.05,-9.96
+2026-04-04,West Coast Eagles,Sydney Swans,64.58,99.40,-34.82
+2026-04-05,Melbourne,Gold Coast Suns,74.94,95.73,-20.79
+2026-04-05,Western Bulldogs,Essendon,121.41,61.10,60.31
+2026-04-06,Hawthorn,Geelong Cats,91.36,84.29,7.07
+2026-04-09,Adelaide Crows,Carlton,101.16,62.46,38.69
+2026-04-10,Collingwood,Fremantle,85.43,69.13,16.30
+2026-04-11,Essendon,Melbourne,74.56,85.15,-10.59
+2026-04-11,Hawthorn,Western Bulldogs,89.81,89.08,0.73
+2026-04-11,North Melbourne,Brisbane Lions,72.40,105.89,-33.49
+2026-04-11,Sydney Swans,Gold Coast Suns,77.39,87.00,-9.61
+2026-04-12,Geelong Cats,West Coast Eagles,129.86,59.24,70.62
+2026-04-12,GWS Giants,Richmond,106.62,56.04,50.58
+2026-04-12,Port Adelaide,St Kilda,82.00,81.99,0.01
+2026-04-16,Carlton,Collingwood,66.42,85.62,-19.20
+2026-04-17,Geelong Cats,Western Bulldogs,99.11,97.25,1.86
+2026-04-17,Sydney Swans,GWS Giants,82.97,82.87,0.10
+2026-04-18,Adelaide Crows,St Kilda,102.96,66.65,36.31
+2026-04-18,Gold Coast Suns,Essendon,109.17,56.88,52.28
+2026-04-18,Hawthorn,Port Adelaide,102.33,62.76,39.57
+2026-04-19,Melbourne,Brisbane Lions,75.84,93.73,-17.89
+2026-04-19,North Melbourne,Richmond,91.33,70.64,20.69
+2026-04-19,West Coast Eagles,Fremantle,63.43,100.78,-37.34
+2026-04-23,Western Bulldogs,Sydney Swans,106.02,75.86,30.15
+2026-04-24,Richmond,Melbourne,68.51,87.31,-18.80
+2026-04-25,Essendon,Collingwood,60.18,90.91,-30.73
+2026-04-25,Fremantle,Carlton,92.01,67.05,24.96
+2026-04-25,Hawthorn,Gold Coast Suns,83.61,80.10,3.51
+2026-04-25,Port Adelaide,Geelong Cats,75.07,103.06,-27.99
+2026-04-26,Brisbane Lions,Adelaide Crows,85.40,79.67,5.73
+2026-04-26,GWS Giants,North Melbourne,112.88,70.00,42.88
+2026-04-26,St Kilda,West Coast Eagles,103.31,64.70,38.60
+2026-04-30,Collingwood,Hawthorn,80.08,73.67,6.41
+2026-05-01,Adelaide Crows,Port Adelaide,105.58,62.38,43.20
+2026-05-01,Western Bulldogs,Fremantle,104.13,76.91,27.22
+2026-05-02,Carlton,St Kilda,82.11,78.56,3.55
+2026-05-02,Essendon,Brisbane Lions,63.07,97.54,-34.47
+2026-05-02,Geelong Cats,North Melbourne,124.71,71.35,53.36
+2026-05-02,West Coast Eagles,Richmond,75.83,73.56,2.27
+2026-05-03,Gold Coast Suns,GWS Giants,94.01,76.22,17.78
+2026-05-03,Sydney Swans,Melbourne,92.58,74.36,18.22
+2026-05-07,Fremantle,Hawthorn,78.54,81.49,-2.95
+2026-05-08,Brisbane Lions,Carlton,100.67,63.54,37.13
+2026-05-08,Port Adelaide,Western Bulldogs,73.80,108.92,-35.12
+2026-05-09,Geelong Cats,Collingwood,89.08,79.78,9.30
+2026-05-09,Gold Coast Suns,St Kilda,104.65,66.99,37.66
+2026-05-09,GWS Giants,Essendon,103.98,60.99,43.00
+2026-05-09,North Melbourne,Sydney Swans,77.78,95.46,-17.67
+2026-05-10,Melbourne,West Coast Eagles,105.47,64.85,40.62
+2026-05-10,Richmond,Adelaide Crows,56.97,100.50,-43.53
+2026-05-14,Brisbane Lions,Geelong Cats,93.80,85.22,8.59
+2026-05-15,Gold Coast Suns,Port Adelaide,107.31,62.70,44.61
+2026-05-15,Sydney Swans,Collingwood,74.72,79.38,-4.67
+2026-05-16,Adelaide Crows,North Melbourne,116.59,64.96,51.63
+2026-05-16,Carlton,Western Bulldogs,73.89,104.36,-30.46
+2026-05-16,Melbourne,Hawthorn,75.01,91.29,-16.28
+2026-05-17,Essendon,Fremantle,66.56,89.15,-22.59
+2026-05-17,St Kilda,Richmond,93.71,62.38,31.32
+2026-05-17,West Coast Eagles,GWS Giants,63.68,107.27,-43.59
+2026-05-21,Hawthorn,Adelaide Crows,83.18,78.80,4.38
+2026-05-22,Fremantle,St Kilda,93.65,71.54,22.11
+2026-05-22,Richmond,Essendon,71.30,72.62,-1.31
+2026-05-23,Collingwood,West Coast Eagles,112.60,52.34,60.26
+2026-05-23,Geelong Cats,Sydney Swans,100.32,77.18,23.14
+2026-05-23,North Melbourne,Gold Coast Suns,71.54,108.15,-36.61
+2026-05-23,Port Adelaide,Carlton,80.57,76.84,3.72
+2026-05-24,GWS Giants,Brisbane Lions,84.52,84.00,0.52
+2026-05-24,Western Bulldogs,Melbourne,116.66,73.46,43.19
+2026-05-28,St Kilda,Hawthorn,73.47,91.08,-17.60
+2026-05-29,Carlton,Geelong Cats,75.17,98.75,-23.57
+2026-05-30,Brisbane Lions,Fremantle,91.67,72.46,19.21
+2026-05-30,Sydney Swans,Richmond,98.79,56.82,41.97
+2026-05-30,Western Bulldogs,Collingwood,94.15,78.43,15.72
+2026-05-31,Melbourne,GWS Giants,80.35,91.19,-10.84
+2026-05-31,West Coast Eagles,Essendon,73.96,80.06,-6.10
+2026-06-04,Adelaide Crows,Geelong Cats,94.26,83.78,10.49
+2026-06-05,Hawthorn,Western Bulldogs,89.81,89.08,0.73
+2026-06-06,Gold Coast Suns,Brisbane Lions,88.73,78.35,10.38
+2026-06-06,North Melbourne,Fremantle,76.40,96.78,-20.38
+2026-06-06,West Coast Eagles,Port Adelaide,72.70,88.25,-15.55
+2026-06-07,Essendon,Carlton,73.09,78.17,-5.08
+2026-06-07,Sydney Swans,St Kilda,92.37,72.83,19.53
+2026-06-08,Collingwood,Melbourne,95.71,66.03,29.68
+2026-06-11,Western Bulldogs,Adelaide Crows,97.01,84.56,12.45
+2026-06-12,Geelong Cats,Gold Coast Suns,92.27,87.44,4.83
+2026-06-13,Melbourne,Essendon,93.30,68.05,25.25
+2026-06-13,North Melbourne,West Coast Eagles,100.69,73.27,27.42
+2026-06-13,Port Adelaide,Sydney Swans,74.70,86.44,-11.74
+2026-06-14,Richmond,Brisbane Lions,57.95,100.02,-42.06
+2026-06-14,St Kilda,GWS Giants,78.70,90.98,-12.28
+2026-06-18,Fremantle,Geelong Cats,85.73,89.93,-4.19
+2026-06-19,Gold Coast Suns,Hawthorn,87.77,76.31,11.46
+2026-06-20,Adelaide Crows,Melbourne,103.20,68.04,35.16
+2026-06-20,Collingwood,Port Adelaide,97.91,60.54,37.38
+2026-06-20,GWS Giants,Carlton,97.94,67.31,30.62
+2026-06-21,Richmond,North Melbourne,77.40,83.35,-5.95
+2026-06-21,St Kilda,Western Bulldogs,78.84,106.22,-27.38
+2026-06-27,Brisbane Lions,Sydney Swans,93.33,71.47,21.86
+2026-06-27,Carlton,West Coast Eagles,96.82,63.57,33.25
+2026-06-27,Collingwood,Richmond,102.13,50.46,51.67
+2026-06-27,Fremantle,Gold Coast Suns,78.46,85.45,-6.99
+2026-06-27,Hawthorn,GWS Giants,89.64,76.30,13.35
+2026-06-27,North Melbourne,Essendon,89.08,76.88,12.20
+2026-06-27,Port Adelaide,Adelaide Crows,68.35,96.35,-28.00
+2026-07-04,Essendon,St Kilda,74.39,83.41,-9.01
+2026-07-04,Geelong Cats,Brisbane Lions,93.37,85.61,7.76
+2026-07-04,Gold Coast Suns,Collingwood,84.65,73.01,11.64
+2026-07-04,GWS Giants,Fremantle,89.19,76.77,12.42
+2026-07-04,Hawthorn,Melbourne,100.03,68.46,31.57
+2026-07-04,Port Adelaide,North Melbourne,92.86,79.91,12.95
+2026-07-04,Richmond,Carlton,67.16,80.15,-13.00
+2026-07-04,Sydney Swans,Western Bulldogs,83.13,96.76,-13.63
+2026-07-04,West Coast Eagles,Adelaide Crows,59.09,110.80,-51.71
+2026-07-11,Adelaide Crows,Gold Coast Suns,86.26,79.61,6.65
+2026-07-11,Brisbane Lions,Essendon,106.88,57.56,49.32
+2026-07-11,Carlton,Hawthorn,68.86,89.48,-20.62
+2026-07-11,Collingwood,North Melbourne,108.13,63.04,45.09
+2026-07-11,Fremantle,Sydney Swans,85.30,75.42,9.88
+2026-07-11,GWS Giants,Geelong Cats,91.26,90.28,0.98
+2026-07-11,Melbourne,Richmond,95.67,62.53,33.14
+2026-07-11,St Kilda,Port Adelaide,89.84,74.84,15.00
+2026-07-11,Western Bulldogs,West Coast Eagles,137.24,58.23,79.01
+2026-07-18,Collingwood,Carlton,93.82,60.62,33.20
+2026-07-18,Essendon,GWS Giants,66.82,94.90,-28.08
+2026-07-18,Geelong Cats,St Kilda,110.13,73.20,36.93
+2026-07-18,Gold Coast Suns,Western Bulldogs,94.18,88.99,5.19
+2026-07-18,North Melbourne,Melbourne,85.59,92.44,-6.85
+2026-07-18,Port Adelaide,Fremantle,73.37,87.64,-14.27
+2026-07-18,Richmond,Hawthorn,57.32,97.41,-40.09
+2026-07-18,Sydney Swans,Adelaide Crows,76.99,85.59,-8.60
+2026-07-18,West Coast Eagles,Brisbane Lions,60.11,110.26,-50.15
+2026-07-25,Adelaide Crows,Collingwood,83.29,72.64,10.65
+2026-07-25,Brisbane Lions,Port Adelaide,105.06,63.45,41.61
+2026-07-25,Carlton,Gold Coast Suns,68.80,93.84,-25.04
+2026-07-25,Fremantle,West Coast Eagles,110.42,57.89,52.53
+2026-07-25,GWS Giants,Sydney Swans,90.80,75.72,15.08
+2026-07-25,Hawthorn,Essendon,104.10,56.94,47.16
+2026-07-25,Melbourne,Geelong Cats,81.89,100.74,-18.85
+2026-07-25,North Melbourne,St Kilda,85.39,90.54,-5.15
+2026-07-25,Western Bulldogs,Richmond,124.48,56.14,68.34
+2026-08-01,Carlton,Brisbane Lions,69.62,91.87,-22.25
+2026-08-01,Collingwood,Geelong Cats,87.42,81.30,6.12
+2026-08-01,Essendon,Adelaide Crows,62.01,98.02,-36.01
+2026-08-01,Fremantle,Western Bulldogs,84.28,95.04,-10.76
+2026-08-01,Gold Coast Suns,Melbourne,104.90,68.39,36.50
+2026-08-01,Hawthorn,North Melbourne,113.01,65.36,47.65
+2026-08-01,Port Adelaide,GWS Giants,73.66,93.29,-19.63
+2026-08-01,Richmond,West Coast Eagles,80.60,69.21,11.39
+2026-08-01,St Kilda,Sydney Swans,79.80,84.30,-4.49
+2026-08-08,Adelaide Crows,Richmond,110.12,52.00,58.13
+2026-08-08,Brisbane Lions,Hawthorn,85.93,77.22,8.71
+2026-08-08,Geelong Cats,Essendon,114.88,62.16,52.72
+2026-08-08,GWS Giants,Gold Coast Suns,83.52,85.79,-2.27
+2026-08-08,Melbourne,Fremantle,80.03,85.66,-5.64
+2026-08-08,St Kilda,Carlton,86.08,74.94,11.14
+2026-08-08,Sydney Swans,Port Adelaide,94.71,68.17,26.54
+2026-08-08,West Coast Eagles,Collingwood,57.35,102.76,-45.41
+2026-08-08,Western Bulldogs,North Melbourne,131.79,70.13,61.66
+2026-08-15,Brisbane Lions,Gold Coast Suns,85.85,80.98,4.87
+2026-08-15,Essendon,Sydney Swans,67.76,87.94,-20.17
+2026-08-15,Fremantle,Adelaide Crows,78.06,84.07,-6.02
+2026-08-15,GWS Giants,West Coast Eagles,117.54,58.12,59.42
+2026-08-15,Hawthorn,Collingwood,80.73,73.09,7.64
+2026-08-15,North Melbourne,Geelong Cats,78.18,113.81,-35.63
+2026-08-15,Port Adelaide,Melbourne,82.19,83.70,-1.51
+2026-08-15,Richmond,St Kilda,68.35,85.52,-17.17
+2026-08-15,Western Bulldogs,Carlton,114.35,67.44,46.91
+2026-08-22,Adelaide Crows,GWS Giants,92.49,75.83,16.65
+2026-08-22,Carlton,Fremantle,73.46,83.97,-10.50
+2026-08-22,Collingwood,Brisbane Lions,80.96,75.64,5.32
+2026-08-22,Essendon,Port Adelaide,76.28,78.07,-1.79
+2026-08-22,Geelong Cats,Richmond,117.79,57.11,60.68
+2026-08-22,Melbourne,Western Bulldogs,80.50,106.47,-25.97
+2026-08-22,St Kilda,Gold Coast Suns,73.40,95.51,-22.11
+2026-08-22,Sydney Swans,North Melbourne,104.59,70.99,33.61
+2026-08-22,West Coast Eagles,Hawthorn,59.46,107.39,-47.94
