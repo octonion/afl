@@ -1,7 +1,6 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2026-04-02 | Brisbane Lions    | Collingwood       |  87.49 |  71.72 |  15.77
  2026-04-03 | Adelaide Crows    | Fremantle         |  89.14 |  72.19 |  16.95
  2026-04-03 | North Melbourne   | Carlton           |  88.76 |  79.73 |   9.03
  2026-04-04 | Richmond          | Port Adelaide     |  72.58 |  78.45 |  -5.87
@@ -180,7 +179,7 @@ BEGIN
  2026-08-22 | St Kilda          | Gold Coast Suns   |  75.76 |  95.12 | -19.36
  2026-08-22 | Sydney Swans      | North Melbourne   | 107.15 |  69.51 |  37.64
  2026-08-22 | West Coast Eagles | Hawthorn          |  68.12 | 103.87 | -35.75
-(179 rows)
+(178 rows)
 
-COPY 179
+COPY 178
 COMMIT
