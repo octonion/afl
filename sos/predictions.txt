@@ -1,7 +1,6 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2026-04-10 | Collingwood       | Fremantle         |  75.41 |  72.27 |   3.15
  2026-04-11 | Essendon          | Melbourne         |  72.51 |  92.92 | -20.41
  2026-04-11 | Hawthorn          | Western Bulldogs  |  88.42 |  94.67 |  -6.24
  2026-04-11 | North Melbourne   | Brisbane Lions    |  74.88 | 106.56 | -31.68
@@ -171,7 +170,7 @@ BEGIN
  2026-08-22 | St Kilda          | Gold Coast Suns   |  77.69 |  94.27 | -16.58
  2026-08-22 | Sydney Swans      | North Melbourne   | 112.21 |  67.22 |  44.99
  2026-08-22 | West Coast Eagles | Hawthorn          |  63.83 | 110.29 | -46.46
-(170 rows)
+(169 rows)
 
-COPY 170
+COPY 169
 COMMIT
