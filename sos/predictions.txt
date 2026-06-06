@@ -1,7 +1,6 @@
 BEGIN
     date    |       home        |       away        | e_home | e_away |  e_d   
 ------------+-------------------+-------------------+--------+--------+--------
- 2026-06-04 | Adelaide Crows    | Geelong Cats      |  87.51 |  88.77 |  -1.26
  2026-06-05 | Hawthorn          | Western Bulldogs  |  99.04 |  82.70 |  16.34
  2026-06-06 | Gold Coast Suns   | Brisbane Lions    |  91.50 |  84.95 |   6.56
  2026-06-06 | North Melbourne   | Fremantle         |  76.23 |  98.80 | -22.56
@@ -102,7 +101,7 @@ BEGIN
  2026-08-22 | St Kilda          | Gold Coast Suns   |  84.76 |  87.38 |  -2.62
  2026-08-22 | Sydney Swans      | North Melbourne   | 114.48 |  70.93 |  43.55
  2026-08-22 | West Coast Eagles | Hawthorn          |  64.90 | 107.27 | -42.37
-(101 rows)
+(100 rows)
 
-COPY 101
+COPY 100
 COMMIT
