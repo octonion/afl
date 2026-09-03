@@ -1,10 +1,10 @@
 BEGIN
-    date    |       home       |      away      | e_home | e_away |  e_d  
-------------+------------------+----------------+--------+--------+-------
- 2026-08-28 | Western Bulldogs | Collingwood    |  86.68 |  80.59 |  6.09
- 2026-08-29 | Melbourne        | Carlton        |  92.74 |  82.20 | 10.54
- 2026-09-03 | Fremantle        | Hawthorn       |  89.98 |  75.18 | 14.80
- 2026-09-05 | Sydney Swans     | Brisbane Lions |  97.21 |  87.40 |  9.81
+    date    |      home      |       away       | e_home | e_away |  e_d  
+------------+----------------+------------------+--------+--------+-------
+ 2026-09-03 | Fremantle      | Hawthorn         |  89.98 |  75.25 | 14.72
+ 2026-09-04 | Geelong Cats   | Carlton          |  99.90 |  75.70 | 24.20
+ 2026-09-05 | Adelaide Crows | Western Bulldogs |  95.19 |  79.37 | 15.82
+ 2026-09-05 | Sydney Swans   | Brisbane Lions   |  97.12 |  87.47 |  9.65
 (4 rows)
 
 COPY 4
