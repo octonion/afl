@@ -1,9 +1,8 @@
 BEGIN
-    date    |     home     |      away      | e_home | e_away | e_d  
-------------+--------------+----------------+--------+--------+------
- 2026-09-18 | Sydney Swans | Fremantle      |  87.38 |  81.95 | 5.43
- 2026-09-19 | Hawthorn     | Brisbane Lions |  92.83 |  86.97 | 5.86
-(2 rows)
+    date    |   home    |      away      | e_home | e_away |  e_d  
+------------+-----------+----------------+--------+--------+-------
+ 2026-09-26 | Fremantle | Brisbane Lions |  94.16 |  82.18 | 11.98
+(1 row)
 
-COPY 2
+COPY 1
 COMMIT
